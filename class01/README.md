@@ -18,8 +18,8 @@ The main website for this class is <https://thomaselove.github.io/431-2024/>. Fr
 
 ## Today's Slides
 
-Class | Date | Slides | Quarto .qmd | Recording
-:---: | :--------: | :------: | :------: | :-------------:
+Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :------: | :-------------:
 01 | 2024-08-27 | **[Slides 01](https://thomaselove.github.io/431-slides-2024/slides01.html)** | *[Word 01](https://thomaselove.github.io/431-slides-2024/slides01w.docx)* | **[Code 01](https://github.com/THOMASELOVE/431-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
