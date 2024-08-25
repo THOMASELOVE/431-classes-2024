@@ -20,10 +20,11 @@ The main website for this class is <https://thomaselove.github.io/431-2024/>. Fr
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-01 | 2024-08-27 | **[Slides 01](https://thomaselove.github.io/431-slides-2024/slides01.html)** | [Word 01](https://thomaselove.github.io/431-slides-2024/slides01w.docx) | **[Code 01](https://github.com/THOMASELOVE/431-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+01 | 2024-08-27 | **[Slides 01](https://thomaselove.github.io/431-slides-2024/slides01.html)** | **[Word 01](https://thomaselove.github.io/431-slides-2024/slides01w.docx)** | **[Code 01](https://github.com/THOMASELOVE/431-slides-2024/blob/main/slides01.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 - The HTML link provides the (RevealJS) version of the slides that I suggest you focus on during class.
-- The Word link will let you download the material in the slides as a Word (.docx) document. Some people prefer this to the HTML version for live note-taking.
+- The Word link will let you download the material in the slides as a Word (.docx) document.
+    - Some people prefer this to the HTML version for live note-taking.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides.
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record most 432 classes via Zoom and post the recording to Canvas.
