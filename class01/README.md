@@ -36,7 +36,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Dr. Love will discuss the Survey results once they are complete. 
         - For now, I'll agree that there's a lot of work in this course, but your predecessors have found it rewarding.
     - If you are **not yet enrolled** in this class, please talk to me before you leave this room. 
-        - We're full here, but there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays. 
+        - We're overly full here, but there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays. 
 
 2. As part of our slides today, we'll visit [the main course page](https://thomaselove.github.io/431-2024/) for the course, and look over:
 
