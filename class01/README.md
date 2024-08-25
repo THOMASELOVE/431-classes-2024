@@ -14,7 +14,8 @@ Each class' README serves as a starting point for that class session.
 The main website for this class is <https://thomaselove.github.io/431-2024/>. From that site, get to this README by
 
 - selecting **Calendar**
-- then selecting today's class (Class 01). Direct Link: <https://github.com/THOMASELOVE/431-classes-2024/tree/main/class01>
+- then selecting today's class (Class 01).
+- Direct Link to this page is: <https://github.com/THOMASELOVE/431-classes-2024/tree/main/class01>
 
 ## Today's Slides
 
