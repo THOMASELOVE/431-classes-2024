@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome) (35 of you as of Sunday) 
+1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome) (45 of you as of 3 PM Monday) 
     - If you haven't completed this yet, please do so today. The deadline is **tomorrow (Wednesday 2024-08-28) at Noon**.
     - Dr. Love will discuss the Survey results once they are complete. 
         - For now, I'll agree that there's a lot of work in this course, but your predecessors have found it rewarding.
