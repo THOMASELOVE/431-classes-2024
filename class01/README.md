@@ -28,7 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Some people prefer this to the HTML version for live note-taking.
 - The Quarto file link provides the code I used (in [Quarto](https://quarto.org/)) to build the slides. Hit the download button after clicking the link above if you want the `.qmd` file.
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
-- We attempt to record most 432 classes via Zoom and post the recording to Canvas.
+- We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
 ## Announcements
 
