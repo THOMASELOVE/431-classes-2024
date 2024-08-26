@@ -35,16 +35,18 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Things to Do This Weekend
 
-1. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2024/).
+1. Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2024/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) and see what's ahead of you.
+2. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2024/).
     - Hint: I'll know on **Tuesday at 9 AM** if you've done this. Thanks to those of you who have.
-2. By Tuesday's class, we're hoping you will read the introduction and Chapter 1 of Spiegelhalter's *The Art of Statistics: How to Learn from Data* as well as sections 1-3 of [R for Data Science](https://r4ds.hadley.nz/).
-3. Bookmark the [main course website](https://thomaselove.github.io/431-2024/), and the books [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), the [R Graphics Cookbook](https://r-graphics.org/), and perhaps [OpenIntro Statistics](https://www.openintro.org/book/os/). I would also bookmark the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
-4. [Install the software](https://thomaselove.github.io/431-2024/software.html) and [R packages, data and code](https://thomaselove.github.io/431-2024/software.html#installing-r-packages-and-datacode-for-431) you'll need.
-5. Take a look at the following items:
-    - the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html), to see what's ahead of you
-    - the [Course Text](https://thomaselove.github.io/431-book/) (where I would try to skim from the start through Chapter 3),
-    - and at your first substantial assignment: [Lab 01 (due 2024-09-11)](https://github.com/THOMASELOVE/431-labs-2024).
+3. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20), and read the Introduction and Chapter 1.
+    - Our [Calendar](https://thomaselove.github.io/431-2024/calendar.html) provides reading deadlines. Try to keep up.
+4. Complete the [Welcome to 431 survey](https://bit.ly/431-2024-welcome), if you haven't yet. Thanks if you've already done this.
+5 [Install the software](https://thomaselove.github.io/431-2024/software.html) and [R packages, data and code](https://thomaselove.github.io/431-2024/software.html#installing-r-packages-and-datacode-for-431) you'll need.
 6. **Ask us questions**. TA office hours start Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2024/campuswire.html).
+7. Take a look at the [Course Book](https://thomaselove.github.io/431-book/). Skim through Chapters 1-3, if possible.
+8. Read [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), including the Introduction and as much of the "Whole game" part as you can.
+9. You should also bookmark the [R Graphics Cookbook](https://r-graphics.org/), and [Introduction to Modern Statistics, 2nd ed.](https://openintro-ims.netlify.app/), as well as the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
+10. Take a look at [Lab 01 (due 2024-09-11 at noon)](https://github.com/THOMASELOVE/431-labs-2024) which is your first substantial deliverable, as well as the [instructions for Project A](https://thomaselove.github.io/431-projectA-2024/) so you'll be prepared when we discuss those instructions next week. 
 
 ## One Last Thing
 
