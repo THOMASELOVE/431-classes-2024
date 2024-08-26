@@ -31,7 +31,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. TA Office Hours will begin on Tuesday 2024-09-03. Our Shared Google Drive (431 Fall 2024 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
-2. If there's anyone in the room today who is **not yet registered** for the course, see me after class. Thank you.
+2. If there's anyone in the room today who is **not yet enrolled** in the course, see me after class. Thank you.
 
 ## Things to Do This Weekend
 
