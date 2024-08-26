@@ -48,6 +48,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## One Last Thing
 
-
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/Eivers_2024-08-10.png)
 
 [Source](https://x.com/EemerEivers/status/1822239148519890981)
