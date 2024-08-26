@@ -59,7 +59,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Links from Today's Slides
 
 - XKCD on [Correlation vs. Causation](https://xkcd.com/552)
-- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2024/teaching-assistants.html)
+- Syllabus description of [our Teaching Assistants and their backgrounds](https://thomaselove.github.io/431-syllabus-2024/08_teachingassistants.html)
 - The Art of Statistics, by David Spiegelhalter, is the book you need to purchase. [Dr. Spiegelhalter's web site is here](http://www.statslab.cam.ac.uk/~david/).
 - Age-Guessing Activity Form is at <https://bit.ly/431-2024-class01-breakout>. Some of you will need this during class (one person per group.)
     - The "[convenient piece of paper](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class01/convenient_piece_of_paper.pdf)" handout (pdf, 3 to a page) 
