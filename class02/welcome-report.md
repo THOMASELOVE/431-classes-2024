@@ -47,9 +47,9 @@ Count | Response
 - Columns: How comfortable are you with R?
     - *1 = R? What is that? to 6 = I love R and use it all the time.*
 
-Excitement\R Comfort | 1 | 2 | 3 | 4 | 5 | 6 | Sum
+R Comfort = | 1 | 2 | 3 | 4 | 5 | 6 | Sum
 ---------: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
-1 | - | - | - | - | - | -| **0** 
+Excited = 1 | - | - | - | - | - | -| **0** 
 2 | 1 | 1 | - | - | - | - | **2**
 3 | - | - | 1 | - | - | - | **1**
 4 | - | 2 | 3 | 2 | 1 | - | **8**
