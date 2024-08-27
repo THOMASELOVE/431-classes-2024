@@ -21,24 +21,21 @@ Count | Response
 
 ## Will you have regular, consistent access to wireless high-speed internet (wifi) or some other strong internet connection for use in completing coursework?
 
-Count | Response
-----: | -------------------------------------------------------------------------
-53 | Yes
-1 | Maybe, my internet will be inconsistent / unreliable
+Yes | Maybe, my internet will be inconsistent / unreliable
+:----: | :-------------------------------------------------------------------------
+53 | 1
 
 ## Have you reviewed the 431 Course Main Page yet?
 
-Count | Response
-----: | -------------------------------------------------------------------------
-25 | Yes
-29 | Sort of, but I need to look at it some more.
+Yes | Sort of, but I need to look at it some more.
+:----: | :-------------------------------------------------------------------------
+25 | 29
 
 ## Are you a health care provider or someone else who expects to be directly involved in providing medical care to other people during the Fall 2024 semester?
 
-Count | Response
-----: | -------------------------------------------------------------------------
-10 | Yes
-44 | No
+Yes | No
+---: | ---:
+10 | 44
 
 ## Excitement about course / Comfort with R
 
@@ -59,9 +56,10 @@ R Comfort = | 1 | 2 | 3 | 4 | 5 | 6 | Sum
 
 Data | n | Mean | SD | Median | MAD
 :------------------- | --: | ----: | ----: | ----: | ----:
-Excitement (1-6) | 54 | 4.98 | 0.98 | 5 | 1.48
-R Comfort (1-6) | 54 | 2.98 | 1.55 | 3 | 1.48
+Excitement (1-6) | 54 | 5.06 | 0.96 | 5 | 1.48
+R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
 
+- Pearson correlation of Excitement and R Comfort = 0.15
 
 ## 2024 US Presidential Election
 
@@ -72,9 +70,9 @@ R Comfort (1-6) | 54 | 2.98 | 1.55 | 3 | 1.48
 
 Eligible | Interest Level | n | Mean | SD | Median | MAD
 ------: | :------------------------------- | --: | ----: | ----: | ----: | ----: 
-Yes | `11355 67777 78888 88899 9` <br /> `00000 00000 0000` | 35 | 7.97 | 2.48 | 8 | 2.97
-No | `11133 45677 89990` | 15 | 5.53 | 3.20 | 6 | 4.45
-Overall | `11111 33345 5566` <br /> `77777 77888 88888` <br /> `99999 9` <br /> `00000 00000 00000` | 50 | 7.24 | 2.91 | 8 | 2.97
+Yes | 38 | 7.84 | 2.47 | 8 | 2.97
+No | 16 | 5.81 | 3.29 | 6.5 | 3.71
+Overall | 54 | 7.24 | 2.86 | 8 | 2.97
 
 ## If you needed to analyze a small data set right away, which of the following software would you be comfortable using to accomplish that task?
 
@@ -83,13 +81,13 @@ Overall | `11111 33345 5566` <br /> `77777 77888 88888` <br /> `99999 9` <br /> 
 Count | Tool
 -----: | :-------------------------------------------------------------------------------
 4 | I wouldn't be comfortable using anything.
-40 | Excel, Google Sheets, Numbers or some other spreadsheet package
-23 | R
+42 | Excel, Google Sheets, Numbers or some other spreadsheet package
+25 | R
 11 | Python
+10 | GraphPad
 9 | SPSS
-8 | GraphPad
-7 | MATLAB
-4 | Minitab, SAS
+9 | MATLAB
+3 | Minitab, SAS
 2 | JMP, Mathematica, Tableau
 1 | C, C# or C++, Jasp, SQL
 0 | PowerBI
