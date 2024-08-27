@@ -1,63 +1,66 @@
 # Welcome to 431 Survey Report
 
-As of `10 AM 2024-08-27`.
+As of `2:30 PM 2024-08-27`.
 
 ## Sample Size
 
-50 of 58 enrolled students have taken the survey so far.
-
-- 1 student with potentially problematic internet
+54 of 57 enrolled students have taken the survey so far.
 
 ## Pronouns
 
-Preference | Count
---------: | -----:
-She/her | 34
-She/they | 1
-He/him | 15
+She/her | She/they | He/him
+-----: | -----: | -----:
+35 | 1 | 18
 
-## Reviewed 431 Main Page yet?
+## Will you have regular access to a laptop or computer you can use to complete course work?
 
-- 28 Sort of, but I need to look at it some more.
-- 22 Yes
+Count | Response
+----: | -------------------------------------------------------------------------
+5 | Yes, but I'm concerned about its reliability for accessing and completing course work
+49 | Yes, and it's reliable for accessing and completing coursework
 
-## Health Care Provider during Fall 2024
+## Will you have regular, consistent access to wireless high-speed internet (wifi) or some other strong internet connection for use in completing coursework?
 
-- 8 Yes
-- 42 No
+Count | Response
+----: | -------------------------------------------------------------------------
+53 | Yes
+1 | Maybe, my internet will be inconsistent / unreliable
 
-## How excited are you about taking a course in statistics and data science?
+## Have you reviewed the 431 Course Main Page yet?
 
-*1 = I have nightmares about this class. to 6 = I can't wait to get started.*
+Count | Response
+----: | -------------------------------------------------------------------------
+25 | Yes
+29 | Sort of, but I need to look at it some more.
 
-```
-22
-3
-44444 4444
-55555 55555 55555 55555 55
-66666 66666 66666 6
-```
+## Are you a health care provider or someone else who expects to be directly involved in providing medical care to other people during the Fall 2024 semester?
 
-Data | Mean | SD | Median | MAD
-:------------------- | ----: | ----: | ----: | ----:
-Excitement (1-6) | 4.98 | 0.98 | 5 | 1.48
+Count | Response
+----: | -------------------------------------------------------------------------
+10 | Yes
+44 | No
 
-## How comfortable are you with R?
+## Excitement about course / Comfort with R
 
-*1 = R? What is that? to 6 = I love R and use it all the time.*
+- Rows: How excited are you about taking a course in statistics and data science?
+    - *1 = I have nightmares about this class. to 6 = I can't wait to get started.*
+- Columns: How comfortable are you with R?
+    - *1 = R? What is that? to 6 = I love R and use it all the time.*
 
-```
-11111 1111
-22222 22222 2222
-33333 33333
-44444 44
-55555 5
-6666
-```
+Excitement\R Comfort | 1 | 2 | 3 | 4 | 5 | 6 | Sum
+---------: | ---: | ---: | ---: | ---: | ---: | ---: | ---:
+1 | - | - | - | - | - | -| **0** 
+2 | 1 | 1 | - | - | - | - | **2**
+3 | - | - | 1 | - | - | - | **1**
+4 | - | 2 | 3 | 2 | 1 | - | **8**
+5 | 5 | 8 | 3 | 3 | 3 | 2 | **24**
+6 | 3 | 5 | 3 | 3 | 2 | 3 | **19**
+**Sum** | **9** | **16** | **10** | **8** | **6** | **5** | **54**
 
-Data | Mean | SD | Median | MAD
-:------------------- | ----: | ----: | ----: | ----:
-R Comfort (1-6) | 2.98 | 1.55 | 3 | 1.48
+Data | n | Mean | SD | Median | MAD
+:------------------- | --: | ----: | ----: | ----: | ----:
+Excitement (1-6) | 54 | 4.98 | 0.98 | 5 | 1.48
+R Comfort (1-6) | 54 | 2.98 | 1.55 | 3 | 1.48
 
 
 ## 2024 US Presidential Election
