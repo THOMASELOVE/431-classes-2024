@@ -6,6 +6,16 @@ As of `3:30 PM 2024-08-27`.
 
 54 of 57 enrolled students have taken the survey so far.
 
+## Why are you taking this course?
+
+(Dr. Love attributed one of the reasons below to each response: sometimes this was a bit arbitrary.)
+
+Count | Reason
+-----: | :-------------------------------------------------------------
+15 | I want to learn R, or learn more about analyzing data using R.
+23 | My program / advisor (or a program/career path I want to join) requires me to take the course.
+16 | I want to learn more about applied statistics and/or data science.
+
 ## Pronouns
 
 She/her | She/they | He/him
@@ -15,26 +25,26 @@ She/her | She/they | He/him
 ## Will you have regular access to a laptop or computer you can use to complete course work?
 
 Count | Response
-----: | -------------------------------------------------------------------------
+----: | :-------------------------------------------------------------------------
 5 | Yes, but I'm concerned about its reliability for accessing and completing course work
 49 | Yes, and it's reliable for accessing and completing coursework
 
 ## Will you have regular, consistent access to wireless high-speed internet (wifi) or some other strong internet connection for use in completing coursework?
 
 Yes | Maybe, my internet will be inconsistent / unreliable
-:----: | :-------------------------------------------------------------------------
+:----: | :-----------------------------------------:
 53 | 1
 
 ## Have you reviewed the 431 Course Main Page yet?
 
 Yes | Sort of, but I need to look at it some more.
-:----: | :-------------------------------------------------------------------------
+:----: | :-----------------------------------------:
 25 | 29
 
 ## Are you a health care provider or someone else who expects to be directly involved in providing medical care to other people during the Fall 2024 semester?
 
 Yes | No
----: | ---:
+:---: | :---:
 10 | 44
 
 ## Excitement about course / Comfort with R
@@ -69,7 +79,7 @@ R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
     - *0 indicates 10 in the diagrams below*
 
 Eligible | n | Interest: Mean  | SD | Median | MAD
-------: | --: | ---------: | ----: | ----: | ----: | ----: 
+------: | --: | ---------: | ----: | ----: | ----:
 Yes | 38 | 7.84 | 2.47 | 8 | 2.97
 No | 16 | 5.81 | 3.29 | 6.5 | 3.71
 Overall | 54 | 7.24 | 2.86 | 8 | 2.97
@@ -91,3 +101,5 @@ Count | Tool
 2 | JMP, Mathematica, Tableau
 1 | C, C# or C++, Jasp, SQL
 0 | PowerBI
+
+## 
