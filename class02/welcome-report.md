@@ -68,8 +68,8 @@ R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
     - *1 = Not interested at all to 10 = Extremely interested*
     - *0 indicates 10 in the diagrams below*
 
-Eligible | Interest Level | n | Mean | SD | Median | MAD
-------: | :------------------------------- | --: | ----: | ----: | ----: | ----: 
+Eligible | n | Interest: Mean  | SD | Median | MAD
+------: | --: | ---------: | ----: | ----: | ----: | ----: 
 Yes | 38 | 7.84 | 2.47 | 8 | 2.97
 No | 16 | 5.81 | 3.29 | 6.5 | 3.71
 Overall | 54 | 7.24 | 2.86 | 8 | 2.97
