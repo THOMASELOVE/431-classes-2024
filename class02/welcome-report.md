@@ -90,7 +90,6 @@ R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
 - Eligible: Are you eligible to vote in the 2024 US presidential election?
 - Interest: How interested are you in the 2024 US presidential election?
     - *1 = Not interested at all to 10 = Extremely interested*
-    - *0 indicates 10 in the diagrams below*
 
 Eligible | n | Interest: Mean  | SD | Median | MAD
 ------: | --: | ---------: | ----: | ----: | ----:
