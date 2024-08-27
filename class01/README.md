@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## As you walk in...
 
-Be sure to get one of the "A Convenient Piece of Paper" handouts. Don't write on it yet. Instead, get to know those around you.
+Be sure to get one of the "A Convenient Piece of Paper" handouts. **Don't** write on it yet. Instead, get to know those around you.
 
 ## This is the README page for Class 01.
 
