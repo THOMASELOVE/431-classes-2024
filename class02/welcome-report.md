@@ -1,5 +1,7 @@
 # Welcome to 431 Survey Report
 
+As of `10 AM 2024-08-27`.
+
 ## Sample Size
 
 50 of 58 enrolled students have taken the survey so far.
