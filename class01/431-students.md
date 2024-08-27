@@ -1,7 +1,6 @@
 # Students Enrolled in 431 for Fall 2024
 
-58 enrollees as of 10 AM 2024-08-27
-Students in **bold** still need to complete the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome), as of 10 AM 2024-08-27
+58 enrollees as of 10 AM 2024-08-27. Students in **bold** still need to complete the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome), as of 10 AM 2024-08-27
 
 
 Name | CWRU ID | CWRU email | Flavor
