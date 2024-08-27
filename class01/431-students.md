@@ -1,6 +1,6 @@
 # Students Enrolled in 431 for Fall 2024
 
-As of 10 AM 2024-08-27:
+As of 12:30 PM 2024-08-27:
 
 - 58 enrollees.
 - Students in **bold** still need to complete the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome), due Noon 2024-08-28.
@@ -46,7 +46,7 @@ McLoughlin,Morgan | mxm1760 | morgan.mcloughlin@case.edu | PQHS
 Mehta,Nihit Navroz | nnm32 | nihit.mehta@case.edu | PQHS
 Muhammad,Aliyah Imani | aim32 | aliyah.muhammad@case.edu | PQHS
 Nasirpour Panahi Fardshad,Mohammad Hossein | mxn534 | mohammadhossein.nasirpourpanahifardshad@case.edu | CRSP
-**Nazak II,Nicholas Charles** | ncn13 | nicholas.nazak@case.edu | PQHS
+Nazak II,Nicholas Charles | ncn13 | nicholas.nazak@case.edu | PQHS
 Nemecio,Dali | dxn254 | dali.nemecio@case.edu | PQHS
 Ongphichetmetha,Tatchaporn | txo116 | tatchaporn.ongphichetmetha@case.edu | CRSP
 Papahadjopoulos,Katherine Angeliki | kap146 | katherine.papahadjopoulos@case.edu | MPHP
