@@ -8,9 +8,11 @@
 
 ## Pronouns
 
-- 15 He/him
-- 34 She/her
-- 1 She/they
+Preference | Count
+--------: | -----:
+She/her | 34
+She/they | 1
+He/him | 15
 
 ## Reviewed 431 Main Page yet?
 
@@ -34,6 +36,10 @@
 66666 66666 66666 6
 ```
 
+Data | Mean | SD | Median | MAD
+:------------------- | ----: | ----: | ----: | ----:
+Excitement (1-6) | 4.98 | 0.98 | 5 | 1.48
+
 ## How comfortable are you with R?
 
 *1 = R? What is that? to 6 = I love R and use it all the time.*
@@ -47,27 +53,10 @@
 6666
 ```
 
-## Are you eligible to vote in the 2024 US presidential election?
+Data | Mean | SD | Median | MAD
+:------------------- | ----: | ----: | ----: | ----:
+R Comfort (1-6) | 2.98 | 1.55 | 3 | 1.48
 
-- 35 Yes
-- 15 No
-
-## How interested are you in the 2024 US presidential election?
-
-*1 = Not interested at all to 10 = Extremely interested*
-
-```
-11111
-
-333
-4
-555
-66
-77777 77
-88888 888
-99999 9
-00000 00000 00000
-```
 
 ## 2024 US Presidential Election
 
