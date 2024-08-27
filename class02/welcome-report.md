@@ -21,14 +21,10 @@ Count | Reason
 (Dr. Love selected one word from each response for the summary below.)
 
 ```
-EXCITED x17        Fine              NERVOUS x7
-GOOD x10           OK                WORRIED x3
-WELL x2            Eh                TIRED x2
-Great              Fast              Exhausted
-Read               Forward           Frustrated
-Hopeful            (no response)     Scared
+EXCITED x17     Great       Fine     Fast            Exhausted     NERVOUS x7
+GOOD x10        Ready       OK       Forward         Frustrated    WORRIED x3
+WELL x2         Hopeful     Eh       (no response)   Scared        TIRED x2
 ```                              
-
 
 ## Pronouns
 
