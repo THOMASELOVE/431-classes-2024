@@ -8,13 +8,27 @@ As of `3:30 PM 2024-08-27`.
 
 ## Why are you taking this course?
 
-(Dr. Love attributed one of the reasons below to each response: sometimes this was a bit arbitrary.)
+(Dr. Love attributed exactly one of the reasons below to each response: sometimes this was a bit arbitrary.)
 
 Count | Reason
 -----: | :-------------------------------------------------------------
 15 | I want to learn R, or learn more about analyzing data using R.
 23 | My program / advisor (or a program/career path I want to join) requires me to take the course.
 16 | I want to learn more about applied statistics and/or data science.
+
+## How are you feeling?
+
+(Dr. Love selected one word from each response for the summary below.)
+
+```
+EXCITED x17        Fine              NERVOUS x7
+GOOD x10           OK                WORRIED x3
+WELL x2            Eh                TIRED x2
+Great              Fast              Exhausted
+Read               Forward           Frustrated
+Hopeful            (no response)     Scared
+```                              
+
 
 ## Pronouns
 
