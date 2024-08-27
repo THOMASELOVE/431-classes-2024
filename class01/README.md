@@ -34,7 +34,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. Thank you to those of you who've completed the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome) (50 out of 58 as of 10 AM today) 
     - If you haven't completed this yet, please do so today. The deadline is **tomorrow (Wednesday 2024-08-28) at Noon**.
-    - Dr. Love will discuss the Survey results in detail once they are complete. 
+    - Dr. Love will discuss the Survey results in detail once they are complete. (An initial look at some variables [is here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).)
         - For now, I'll agree that there's a lot of work in this course, but your predecessors have found it rewarding.
     - If you are **not yet enrolled** in this class, please talk to me before you leave this room. Here is [a list of enrolled students](431-students.md).
         - We're overly full here, but there is a Section 2 of 431 from 4:00 - 5:15 on Tuesdays and Thursdays. 
