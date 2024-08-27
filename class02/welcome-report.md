@@ -116,4 +116,58 @@ Count | Tool
 1 | C, C# or C++, Jasp, SQL
 0 | PowerBI
 
-## 
+## What has made your favorite university classes your favorite?
+
+- A engaged professor who is also understanding and available for help.
+- A good professor makes a huge difference in the courses for me. I enjoy classes most when they are organized and my instructor is passionate about the topic. 
+- A passionate and supportive professor with interesting/relevant coursework. It's obvious when professors care about what they're teaching and their students.
+- As an undergraduate student, my favorite course was XXXX. I loved it because I loved the subject, I connected with the professor, I enjoyed her energetic teaching style, I found the coursework itself challenging enough to require a lot of effort on my part without being overwhelming, and it required me to find the answers to problems by thinking deeply about what I learned, which was satisfying...
+- Being given ample time to engage with others and the teaching staff in a laid-back environment. 
+- Classes that are challenging but engaging and supportive
+- Clear instructions and work that align what with is taught in class
+- Clear, engaging content
+- Discussion! And having an approachable professor
+- Engagement with the class and excitement for the material by classmates and the professor. 
+- Engaging professor and meaningful assignments!
+- Enough office hours
+- Enthusiastic professors that care about their students and are passionate about the material they teach.
+- Flexibility and understanding professors who can empathize with students and treat classwork as a learning process not just a deadline... 
+- Good teaching practices and applications to the real world.
+- Having a learning environment that was built on the foundation of intellectual safety... 
+- ... I felt like my work was appreciated and the feedback on my work was productive, allowing me to learn and make changes that improved the quality of future work.
+- I have really enjoyed courses that allow for class discussion during lectures. I'm not sure how well that translates to a statistics course.
+- I have really liked the XXX classes I have taken, because they have involved immense engagement from the class while also teaching me many new and interesting concepts.
+- I like solving puzzles. 
+- ... If a subject is hands-on, strongly related to my research projects, and based on understanding not on memorizing...
+- ... Interesting lecturing style, 
+- Interactive and easy to approach the professor/TA
+- Interactive Learning
+- Interactive lectures and hands-on projects have made certain university classes stand out as my favorites.
+- Learning from people that are passionate about the topics they teach, and acquiring practical, translatable skills that I can use in my work. 
+- My favorite class I ever took was very project oriented and very hands on which allowed me to really experience and learn about what the course was about in a practical way.
+- My favorite university class was my favorite because we had lots of discussions. Getting the chance to bond with those people allowed me to form close friendships. 
+- My favorite university classes have been structured, transparent, and flexible (e.g., consistent office hours, understanding of individuals’ realities). In addition, my favorite classes explain how the material being learned applies to real-world scenarios.
+- My favorite university classes incorporated real-world applications that relate to my interests. The material was both challenging and engaging. I also liked when the course fostered a supportive environment where students feel encouraged to interact with the professor/TAs.
+- My performance in the class
+- Patient yet enthusiatic professors, well structured coursework and assignments
+- Professor and students who are equally engaged
+- Professors who are excited and passionate about their field in an infectious way; I learn better when I find the material engaging and interesting and that is influenced in large part by how enthusiastically it is taught. It also helps when the environment is more about co-operation, kindness and collaboration rather than cut-throat competition or high stakes and dire consequences.
+- Small classes where the professor uses ungrading and we often discuss case studies as small groups and share out. 
+- Supportive professors and staff
+- The interactive teaching methodologies deployed by the professor, which increased student engagement within course lectures and activities.
+- The course professor and TA have regular office hours, which don’t need to be long or very frequent. I would feel wonderful if someone could give me a hint after I’ve tried all possible solutions on my own.
+- The knowledge and practice in a course can be applied to solve real world problems. 
+- The professor
+- The professor
+- The professor! I really appreciate when they are engaged and passionate about what they're teaching
+- The professors and the material. 
+- The quality of the class and the WORKLOAD :)
+- The smaller classes that allow for questions and discussions along with the lecture
+- The way the professor made the course engaging 
+- They are difficult at the time, but looking back, they have enriched me more than I anticipated with practical knowledge.
+- They are part of my interests
+- They were small and the teacher was engaging - also the students were open to discussion rather than standoffish. 
+- When I can directly apply, practice or personally associate something. 
+- ...When there are memorable anecdotes or stories that are also applicable to real life, those tend to make classes enjoyable to learn for me.
+- 2 people didn't give a response.
+
