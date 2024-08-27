@@ -74,7 +74,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2024/).
 3. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20), and read the Introduction and Chapter 1.
     - Our [Calendar](https://thomaselove.github.io/431-2024/calendar.html) provides reading deadlines. Try to keep up.
-4. Complete the [Welcome to 431 survey](https://bit.ly/431-2024-welcome), if you haven't yet. Thanks to [those who've already done this](431-students.md).
+4. Complete the [Welcome to 431 survey](https://bit.ly/431-2024-welcome), due at noon tomorrow. Thanks to [those who've already done this](431-students.md).
 5. Get started [installing the software](https://thomaselove.github.io/431-2024/software.html) you'll need.
 6. Sign up for the (free) [Campuswire discussion forum](https://thomaselove.github.io/431-2024/campuswire.html) and ask a question or leave a comment.
 7. Take a look at the [Course Book](https://thomaselove.github.io/431-book/). Chapters 1-4 are complete, I think, and you should at least skim through Chapters 1-3 this week.
