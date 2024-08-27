@@ -34,7 +34,7 @@ Krishna,Anika | axk1196 | anika.krishna@case.edu | PQHS
 Kumar,Harshita | hxk613 | harshita.kumar@case.edu | PQHS
 Kupferer Jr,Tom | twk29 | thomas.kupferer@case.edu | PQHS
 Lambe,Jeffrey | jxl3320 | jeffrey.lambe@case.edu | CRSP
-Liang,Weiyun | wxl765 | weiyun.liang@case.edu | PQHS
+**Liang,Weiyun** | wxl765 | weiyun.liang@case.edu | PQHS
 Lin,Gina | gxl373 | gina.lin@case.edu | PQHS
 Lindberg,Olivia | oxl77 | olivia.lindberg@case.edu | PQHS
 Liu,Rachel | xxl1437 | xia-ying.liu@case.edu | PQHS
