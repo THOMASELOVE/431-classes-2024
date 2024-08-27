@@ -34,6 +34,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. If there's anyone in the room today who is **not yet enrolled** in the course, see me after class. Thank you.
 3. I speak quickly. Unfortunately, this is actually my slow speaking style you're experiencing here. I'm willing to do a lot for you, but slowing down further while speaking just isn't going to happen. That's part of the reason we try to record the sessions.
 
+## Welcome to 431 Survey Report
+
+A brief report of some counts and related summaries for the Welcome to 431 Survey [is available here](welcome-report.md).
+
 ## Things to Do This Weekend
 
 1. Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2024/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) and see what's ahead of you.
