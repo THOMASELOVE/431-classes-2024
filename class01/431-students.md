@@ -6,7 +6,7 @@ As of 10 AM 2024-08-27:
 - Students in **bold** still need to complete the [Welcome to 431 Survey](https://bit.ly/431-2024-welcome), due Noon 2024-08-28.
 
 Name | CWRU ID | CWRU email | Flavor
------------------- | ------: | ------------------ | -------
+:------------------ | ------: | ------------------ | -------
 Altadonna,Haley | hxa420 | haley.altadonna@case.edu | PQHS
 **Anis,Saar** | sxa1518 | saar.anis@case.edu | CRSP
 Bhattacharya,Brooke | bxb576 | brooke.bhattacharya@case.edu | PQHS
