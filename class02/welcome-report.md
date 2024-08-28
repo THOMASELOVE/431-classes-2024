@@ -114,7 +114,22 @@ Count | Tool
 1 | C, C# or C++, Jasp, SQL
 0 | PowerBI
 
+## What, if anything, concerns you about this class?
+
+*An edited list, with each student who expressed a worry represented in one of these categories, even if they gave a more nuanced response.*
+
+Count | Comment
+-----: | :-------------------------------------------------------------------------------
+111 | Managing my time / Workload / Other obligations.
+7 | I don't have much (any / enough) experience with R and/or programming/coding.
+5 | I worry that the material will be difficult for me to understand.
+4 | Attendance / getting to class. There is a time period where I will have to miss class.
+3 | Computer problems.
+3 | My statistical understanding is rusty. It's been a while since I visited many of these ideas.
+
 ## What has made your favorite university classes your favorite?
+
+*Mostly verbatim responses, hiding identifying material.*
 
 - A engaged professor who is also understanding and available for help.
 - A good professor makes a huge difference in the courses for me. I enjoy classes most when they are organized and my instructor is passionate about the topic. 
