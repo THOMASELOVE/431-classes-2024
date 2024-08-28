@@ -94,7 +94,7 @@ Yes | 39 | 7.67 | 2.67 | 8 | 2.97
 No | 18 | 6.06 | 3.17 | 7 | 2.97
 Overall | 57 | 7.14 | 2.93 | 7 | 2.97
 
-Point estimate and 95% confidence interval for difference (Yes - No) in means: 1.06 (-0.15, 3.37) via Welch procedure
+Point estimate and 95% confidence interval for difference (Yes - No) in means: 1.61 (-0.15, 3.37) via Welch procedure
 
 ## If you needed to analyze a small data set right away, which of the following software would you be comfortable using to accomplish that task?
 
