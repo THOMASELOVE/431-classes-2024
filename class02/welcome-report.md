@@ -80,7 +80,7 @@ REDO Data | n | Mean | SD | Median | MAD
 Excitement (1-6) | 57 | 5.04 | 0.98 | 5 | 1.48
 R Comfort (1-6) | 57 | 3.04| 1.57 | 3 | 1.48
 
-- Pearson correlation of Excitement and R Comfort = 0.21 (95% CI: -0.06, 0.44
+- Pearson correlation of Excitement and R Comfort = 0.21 (95% CI: -0.06, 0.44)
 
 ## 2024 US Presidential Election
 
