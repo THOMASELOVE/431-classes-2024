@@ -186,3 +186,4 @@ Count | Comment
 - ...When there are memorable anecdotes or stories that are also applicable to real life, those tend to make classes enjoyable to learn for me.
 - 2 people didn't give a response, and one person named an individual, who I don't know.
 
+
