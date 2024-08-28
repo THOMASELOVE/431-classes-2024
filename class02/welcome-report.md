@@ -4,7 +4,7 @@ As of `3:30 PM 2024-08-27`.
 
 ## Sample Size
 
-54 of 57 enrolled students have taken the survey so far.
+55 of 57 enrolled students have taken the survey so far.
 
 ## Why are you taking this course?
 
@@ -14,48 +14,50 @@ Count | Reason
 -----: | :-------------------------------------------------------------
 15 | I want to learn R, or learn more about analyzing data using R.
 23 | My program / advisor (or a program/career path I want to join) requires me to take the course.
-16 | I want to learn more about applied statistics and/or data science.
+17 | I want to learn more about applied statistics and/or data science.
 
 ## How are you feeling?
 
 (Dr. Love selected one word from each response for the summary below.)
 
 ```
-EXCITED x17     Great       Fine     Fast            Exhausted     NERVOUS x7
-GOOD x10        Ready       OK       Forward         Frustrated    WORRIED x3
-WELL x2         Hopeful     Eh       (no response)   Scared        TIRED x2
+EXCITED x17     Great       Fine     Fast       Exhausted     NERVOUS x7
+GOOD x10        Ready       OK       Forward    Frustrated    WORRIED x3
+WELL x2         Hopeful     Eh       Stress     Scared        TIRED x2
+
+1 student gave no response
 ```                              
 
 ## Pronouns
 
 She/her | She/they | He/him
 -----: | -----: | -----:
-35 | 1 | 18
+35 | 1 | 19
 
 ## Will you have regular access to a laptop or computer you can use to complete course work?
 
 Count | Response
 ----: | :-------------------------------------------------------------------------
 5 | Yes, but I'm concerned about its reliability for accessing and completing course work
-49 | Yes, and it's reliable for accessing and completing coursework
+50 | Yes, and it's reliable for accessing and completing coursework
 
 ## Will you have regular, consistent access to wireless high-speed internet (wifi) or some other strong internet connection for use in completing coursework?
 
 Yes | Maybe, my internet will be inconsistent / unreliable
 :----: | :-----------------------------------------:
-53 | 1
+54 | 1
 
 ## Have you reviewed the 431 Course Main Page yet?
 
 Yes | Sort of, but I need to look at it some more.
 :----: | :-----------------------------------------:
-25 | 29
+26 | 29
 
 ## Are you a health care provider or someone else who expects to be directly involved in providing medical care to other people during the Fall 2024 semester?
 
 Yes | No
 :---: | :---:
-10 | 44
+11 | 44
 
 ## Excitement about course / Comfort with R
 
@@ -71,8 +73,8 @@ R Comfort = | 1 | 2 | 3 | 4 | 5 | 6 | Sum
 3 | - | - | 1 | - | - | - | **1**
 4 | - | 2 | 3 | 2 | 1 | - | **8**
 5 | 5 | 8 | 3 | 3 | 3 | 2 | **24**
-6 | 3 | 5 | 3 | 3 | 2 | 3 | **19**
-**Sum** | **9** | **16** | **10** | **8** | **6** | **5** | **54**
+6 | 3 | 5 | 3 | 3 | 3 | 3 | **20**
+**Sum** | **9** | **16** | **10** | **8** | **7** | **5** | **54**
 
 Data | n | Mean | SD | Median | MAD
 :------------------- | --: | ----: | ----: | ----: | ----:
@@ -100,10 +102,10 @@ Overall | 54 | 7.24 | 2.86 | 8 | 2.97
 Count | Tool
 -----: | :-------------------------------------------------------------------------------
 4 | I wouldn't be comfortable using anything.
-42 | Excel, Google Sheets, Numbers or some other spreadsheet package
-25 | R
+43 | Excel, Google Sheets, Numbers or some other spreadsheet package
+26 | R
 11 | Python
-10 | GraphPad
+11 | GraphPad
 9 | SPSS
 9 | MATLAB
 3 | Minitab, SAS
@@ -151,7 +153,8 @@ Count | Tool
 - Supportive professors and staff
 - The interactive teaching methodologies deployed by the professor, which increased student engagement within course lectures and activities.
 - The course professor and TA have regular office hours, which don’t need to be long or very frequent. I would feel wonderful if someone could give me a hint after I’ve tried all possible solutions on my own.
-- The knowledge and practice in a course can be applied to solve real world problems. 
+- The knowledge and practice in a course can be applied to solve real world problems.
+- ... The lecturer.
 - The professor
 - The professor
 - The professor! I really appreciate when they are engaged and passionate about what they're teaching
