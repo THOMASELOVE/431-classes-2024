@@ -1,6 +1,6 @@
 # Welcome to 431 Survey Report
 
-As of `10 AM 2024-08-28.
+As of `10 AM 2024-08-28`.
 
 ## Sample Size
 
