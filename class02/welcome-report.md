@@ -1,10 +1,10 @@
 # Welcome to 431 Survey Report
 
-As of `3:30 PM 2024-08-27`.
+As of `10 AM 2024-08-28.
 
 ## Sample Size
 
-55 of 57 enrolled students have taken the survey so far.
+56 of 57 enrolled students have taken the survey so far.
 
 ## Why are you taking this course?
 
@@ -13,7 +13,7 @@ As of `3:30 PM 2024-08-27`.
 Count | Reason
 -----: | :-------------------------------------------------------------
 15 | I want to learn R, or learn more about analyzing data using R.
-23 | My program / advisor (or a program/career path I want to join) requires me to take the course.
+24 | My program / advisor (or a program/career path I want to join) requires me to take the course.
 17 | I want to learn more about applied statistics and/or data science.
 
 ## How are you feeling?
@@ -24,6 +24,7 @@ Count | Reason
 EXCITED x17     Great       Fine     Fast       Exhausted     NERVOUS x7
 GOOD x10        Ready       OK       Forward    Frustrated    WORRIED x3
 WELL x2         Hopeful     Eh       Stress     Scared        TIRED x2
+                Chill
 
 1 student gave no response
 ```                              
@@ -32,32 +33,32 @@ WELL x2         Hopeful     Eh       Stress     Scared        TIRED x2
 
 She/her | She/they | He/him
 -----: | -----: | -----:
-35 | 1 | 19
+35 | 1 | 20
 
 ## Will you have regular access to a laptop or computer you can use to complete course work?
 
 Count | Response
 ----: | :-------------------------------------------------------------------------
-5 | Yes, but I'm concerned about its reliability for accessing and completing course work
+6 | Yes, but I'm concerned about its reliability for accessing and completing course work
 50 | Yes, and it's reliable for accessing and completing coursework
 
 ## Will you have regular, consistent access to wireless high-speed internet (wifi) or some other strong internet connection for use in completing coursework?
 
 Yes | Maybe, my internet will be inconsistent / unreliable
 :----: | :-----------------------------------------:
-54 | 1
+55 | 1
 
 ## Have you reviewed the 431 Course Main Page yet?
 
 Yes | Sort of, but I need to look at it some more.
 :----: | :-----------------------------------------:
-26 | 29
+26 | 30
 
 ## Are you a health care provider or someone else who expects to be directly involved in providing medical care to other people during the Fall 2024 semester?
 
 Yes | No
 :---: | :---:
-11 | 44
+11 | 45
 
 ## Excitement about course / Comfort with R
 
@@ -72,16 +73,16 @@ R Comfort = | 1 | 2 | 3 | 4 | 5 | 6 | Sum
 2 | 1 | 1 | - | - | - | - | **2**
 3 | - | - | 1 | - | - | - | **1**
 4 | - | 2 | 3 | 2 | 1 | - | **8**
-5 | 5 | 8 | 3 | 3 | 3 | 2 | **24**
+5 | 5 | 8 | 3 | 4 | 3 | 2 | **25**
 6 | 3 | 5 | 3 | 3 | 3 | 3 | **20**
-**Sum** | **9** | **16** | **10** | **8** | **7** | **5** | **54**
+**Sum** | **9** | **16** | **10** | **9** | **7** | **5** | **56**
 
-Data | n | Mean | SD | Median | MAD
+REDOData | n | Mean | SD | Median | MAD
 :------------------- | --: | ----: | ----: | ----: | ----:
-Excitement (1-6) | 54 | 5.06 | 0.96 | 5 | 1.48
-R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
+Excitement (1-6) | 56 | 5.07 | 0.95 | 5 | 1.48
+R Comfort (1-6) | 56 | 3.07 | 1.56 | 3 | 1.48
 
-- Pearson correlation of Excitement and R Comfort = 0.15
+- Pearson correlation of Excitement and R Comfort = 0.17 (95% CI: -0.10, 0.41)
 
 ## 2024 US Presidential Election
 
@@ -89,11 +90,11 @@ R Comfort (1-6) | 54 | 3.02 | 1.56 | 3 | 1.48
 - Interest: How interested are you in the 2024 US presidential election?
     - *1 = Not interested at all to 10 = Extremely interested*
 
-Eligible | n | Interest: Mean  | SD | Median | MAD
+REDOEligible | n | Interest: Mean  | SD | Median | MAD
 ------: | --: | ---------: | ----: | ----: | ----:
-Yes | 38 | 7.84 | 2.47 | 8 | 2.97
-No | 16 | 5.81 | 3.29 | 6.5 | 3.71
-Overall | 54 | 7.24 | 2.86 | 8 | 2.97
+Yes | 39 | 7.67 | 2.67 | 8 | 2.97
+No | 17 | 5.94 | 3.23| 6.5 | 3.71
+Overall | 56 | 7.14 | 2.93 | 7 | 2.97
 
 ## If you needed to analyze a small data set right away, which of the following software would you be comfortable using to accomplish that task?
 
@@ -102,7 +103,7 @@ Overall | 54 | 7.24 | 2.86 | 8 | 2.97
 Count | Tool
 -----: | :-------------------------------------------------------------------------------
 4 | I wouldn't be comfortable using anything.
-43 | Excel, Google Sheets, Numbers or some other spreadsheet package
+44 | Excel, Google Sheets, Numbers or some other spreadsheet package
 26 | R
 11 | Python
 11 | GraphPad
@@ -167,5 +168,5 @@ Count | Tool
 - They were small and the teacher was engaging - also the students were open to discussion rather than standoffish. 
 - When I can directly apply, practice or personally associate something. 
 - ...When there are memorable anecdotes or stories that are also applicable to real life, those tend to make classes enjoyable to learn for me.
-- 2 people didn't give a response.
+- 2 people didn't give a response, and one person named an individual, who I don't know.
 
