@@ -32,13 +32,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. TAs refers to Teaching Assistants. TA Office Hours will begin on Tuesday 2024-09-03. Our Shared Google Drive (431 Fall 2024 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
+1. TAs refers to Teaching Assistants. TA Office Hours start Tuesday 2024-09-03. Our Shared Google Drive (431 Fall 2024 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**, and this information is also posted to Canvas, Campuswire, and our [Contact Us](https://thomaselove.github.io/431-2024/contact.html) and [Calendar](https://thomaselove.github.io/431-2024/calendar.html) pages.
 2. If there's anyone in the room today who is **not yet enrolled** in the course, see me after class. Thank you.
 3. Thank you to Alayna Rowell, Feriel Presswalla, Haley Altadonna, Harshita Kumar, Jeff Lambe, Kayla Klatt, Megan Zelinsky, Nick Nazak, Toni Shoyinka, Olivia Lindberg, Sarah Cooke, Veda Machiraju, and Zuhair Khan for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
 4. We'll take a few minutes today to:
-    - discuss when I'll be showing R and RStudio in class,
-    - discuss how I hope you'll use [Campuswire](https://campuswire.com/) to ask and answer questions, and
-    - discuss how [TA office hours will work](https://thomaselove.github.io/431-2024/contact.html), starting Tuesday.
+    - look over the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) to see what's coming up
+        - Readings this weekend include Spiegelhalter through Chapter 1, [R4DS](https://r4ds.hadley.nz/): Intro and as much of "Whole game" as possible, the [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) and [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions and Chapters 1-3 of [my course book](https://thomaselove.github.io/431-book/). 
+    - discuss when I'll be showing R and RStudio in class, and
+    - discuss how I hope you'll use [Campuswire](https://campuswire.com/) to ask and answer questions.
 
 -------
 
@@ -54,17 +55,14 @@ Some additional comments...
 
 ## Things to Do This Weekend
 
-1. Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2024/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) and see what's ahead of you.
+1. Bookmark and familiarize yourself with the [main course website](https://thomaselove.github.io/431-2024/), being sure to visit the [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) and see what's ahead of you. You should also bookmark [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), the [R Graphics Cookbook](https://r-graphics.org/), and [Introduction to Modern Statistics, 2nd ed.](https://openintro-ims.netlify.app/), as well as the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
 2. Read through the [Course Syllabus](https://thomaselove.github.io/431-syllabus-2024/).
     - Hint: I'll know on **Tuesday at 9 AM** if you've done this. Thanks to those of you who have.
 3. Obtain David Spiegelhalter's *The Art of Statistics: How to Learn from Data* (~$20), and read the Introduction and Chapter 1.
     - Our [Calendar](https://thomaselove.github.io/431-2024/calendar.html) provides reading deadlines. Try to keep up.
+    - Again, readings this weekend include Spiegelhalter through Chapter 1, [R4DS](https://r4ds.hadley.nz/): Intro and as much of "Whole game" as possible, the [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) and [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions and Chapters 1-3 of [my course book](https://thomaselove.github.io/431-book/). 
 4. [Install the software](https://thomaselove.github.io/431-2024/software.html) and [R packages, data and code](https://thomaselove.github.io/431-2024/software.html#installing-r-packages-and-datacode-for-431) you'll need.
 5. **Ask us questions**. TA office hours start Tuesday, but [Campuswire is available now](https://thomaselove.github.io/431-2024/campuswire.html).
-6. Take a look at the [Course Book](https://thomaselove.github.io/431-book/). Skim through Chapters 1-3, if possible.
-7. Read [R for Data Science, 2nd ed.](https://r4ds.hadley.nz/), including the Introduction and as much of the "Whole game" part as you can.
-8. You should also bookmark the [R Graphics Cookbook](https://r-graphics.org/), and [Introduction to Modern Statistics, 2nd ed.](https://openintro-ims.netlify.app/), as well as the [Posit Cheat Sheets](https://posit.co/resources/cheatsheets/) page.
-9. Take a look at [Lab 01 (due 2024-09-11 at noon)](https://github.com/THOMASELOVE/431-labs-2024) which is your first substantial deliverable, as well as the [instructions for Project A](https://thomaselove.github.io/431-projectA-2024/) so you'll be prepared when we discuss those instructions next week. 
 
 ## One Last Thing
 
