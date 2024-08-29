@@ -36,7 +36,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. If there's anyone in the room today who is **not yet enrolled** in the course, see me after class. Thank you.
 3. Thank you to Alayna Rowell, Feriel Presswalla, Haley Altadonna, Harshita Kumar, Jeff Lambe, Kayla Klatt, Megan Zelinsky, Nick Nazak, Toni Shoyinka, Olivia Lindberg, Sarah Cooke, Veda Machiraju, and Zuhair Khan for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
 4. We'll take a few minutes today to:
-    - look over the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) to see what's coming up
+    - look over the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) to see what's coming up,
         - Readings this weekend include Spiegelhalter through Chapter 1, [R4DS](https://r4ds.hadley.nz/): Intro and as much of "Whole game" as possible, the [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) and [Project A](https://thomaselove.github.io/431-projectA-2024/) instructions and Chapters 1-3 of [my course book](https://thomaselove.github.io/431-book/). 
     - discuss when I'll be showing R and RStudio in class, and
     - discuss how I hope you'll use [Campuswire](https://campuswire.com/) to ask and answer questions.
