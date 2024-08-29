@@ -4,6 +4,8 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
+At the start of class today, before I turn on the Zoom recording, I'll try again to show you [Hans Rosling's 200 Countries, 200 Years, 4 minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) from the BBC's *Joy of Stats*.
+
 ## Today's Opener: The Quick Survey
 
 As you come in, **please take** (from the box at the back table) a paper survey with 15 questions. Please read these instructions carefully before writing anything down.
