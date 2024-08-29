@@ -51,7 +51,10 @@ Some additional comments...
 
 1. I speak quickly. Unfortunately, this is actually my slow speaking style you're experiencing here. I'm willing to do a lot for you, but slowing down further while speaking just isn't going to happen. That's part of the reason we try to record the sessions.
 2. "You seem very organized. How can I manage my time more effectively?"
-3. "I am curious about your background as a researcher and statistician. What made you teach? Where are you from? What are your favorite foods? Favorite team and why?"
+    - Some good options from <https://www.chris-donnelly.co.uk/>
+  
+
+4. "I am curious about your background as a researcher and statistician. What made you teach? Where are you from? What are your favorite foods? Favorite team and why?"
 
 ## Things to Do This Weekend
 
