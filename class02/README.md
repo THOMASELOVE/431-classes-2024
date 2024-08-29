@@ -50,11 +50,12 @@ A brief report of some counts and related summaries for the Welcome to 431 Surve
 Some additional comments...
 
 1. I speak quickly. Unfortunately, this is actually my slow speaking style you're experiencing here. I'm willing to do a lot for you, but slowing down further while speaking just isn't going to happen. That's part of the reason we try to record the sessions.
-2. "You seem very organized. How can I manage my time more effectively?"
-    - Some good options from <https://www.chris-donnelly.co.uk/> ![](donnelly_time-management_2024.jpg)
-  
-
-4. "I am curious about your background as a researcher and statistician. What made you teach? Where are you from? What are your favorite foods? Favorite team and why?"
+2. I'll share some interesting facts about our students in classes to come.
+3. "I am curious about your background as a researcher and statistician." [Syllabus description of me](https://thomaselove.github.io/431-syllabus-2024/07_professorlove.html)
+4. "What made you teach?" Teaching is the most important thing I do. My mother was a teacher, and my father was a physicist who spent most of his time working with data. I get to do both.
+5. "Where are you from?" I was born on Long Island, in New York. I've been in Cleveland for just over 30 years, but I still think of myself as a New Yorker.
+6. "You seem very organized. How can I manage my time more effectively?"
+    - Some food for thought from <https://www.chris-donnelly.co.uk/> ![](donnelly_time-management_2024.jpg)
 
 ## Things to Do This Weekend
 
