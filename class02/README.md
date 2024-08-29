@@ -35,6 +35,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. TAs refers to Teaching Assistants. TA Office Hours will begin on Tuesday 2024-09-03. Our Shared Google Drive (431 Fall 2024 Dr Love and Students) contains Zoom links for these sessions in a document called **TA office hours schedule and Zoom links**.
 2. If there's anyone in the room today who is **not yet enrolled** in the course, see me after class. Thank you.
 3. Thank you to Alayna Rowell, Feriel Presswalla, Haley Altadonna, Harshita Kumar, Jeff Lambe, Kayla Klatt, Megan Zelinsky, Nick Nazak, Toni Shoyinka, Olivia Lindberg, Sarah Cooke, Veda Machiraju, and Zuhair Khan for filling out the google form for the age guessing activity in Class 01. I appreciate the help.
+4. We'll take a few minutes today to:
+    - discuss when I'll be showing R and RStudio in class,
+    - discuss how I hope you'll use [Campuswire](https://campuswire.com/) to ask and answer questions, and
+    - discuss how [TA office hours will work](https://thomaselove.github.io/431-2024/contact.html), starting Tuesday.
+
+-------
 
 ## Welcome to 431 Survey Report
 
