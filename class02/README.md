@@ -53,7 +53,7 @@ Some additional comments...
 2. I'll share some interesting facts about our students in classes to come.
 3. "I am curious about your background as a researcher and statistician." [Syllabus description of me](https://thomaselove.github.io/431-syllabus-2024/07_professorlove.html)
 4. "What made you teach?" Teaching is the most important thing I do. My mother was a teacher, and my father was a physicist who spent most of his time working with data. I get to do both.
-5. "Where are you from?" I was born on Long Island, in New York. I've been in Cleveland for just over 30 years, but I still think of myself as a New Yorker.
+5. "Where are you from?" I was born on Long Island, in New York, and was educated at Columbia University (AB, MA, MS) and the University of Pennsylvania (MS, PhD). While I've been in Cleveland for just over 30 years, I am still a New Yorker.
 6. "You seem very organized. How can I manage my time more effectively?"
     - Some food for thought from <https://www.chris-donnelly.co.uk/> ![](donnelly_time-management_2024.jpg)
 
