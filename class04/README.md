@@ -30,3 +30,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 9. I worked at a ski resort growing up and love to snowboard so I'm scared to live in such a flat state.
 10. I play tennis for CWRU and we won the school's first NCAA title in history when I was a sophomore.
 
+These come from the Welcome to 431 survey - some more results [are found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+
+## Announcements
+
+To come.
