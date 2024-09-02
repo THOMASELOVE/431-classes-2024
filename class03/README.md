@@ -17,6 +17,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
+## Ten Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I am a swimmer and a ventriloquist.
+2. I enjoy crocheting in my free time.
+3. I have a one-year-old baby boy.
+4. I hiked 3000km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
+5. I love to sketch and cook.
+6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
+7. I work full time and commute from an hour away every day.
+8. I am from Ireland.
+9. I like to play golf, cats and classical piano.
+10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
+
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+
 ## Announcements
  
 1. Your next assignment is a [Minute Paper after Class 03](https://bit.ly/431-2024-minute-03), which you need to complete by NOON Wednesday 2023-09-04 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
@@ -39,20 +54,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         - You've read the introduction and chapters 1 and 2 of David Spiegelhalter's *The Art of Statistics*,
         - You've read the introduction and (most of) the "Whole Game" part (chapters 1-8) of [R for Data Science](https://r4ds.hadley.nz/).
 
-## Ten Interesting/Fun Facts about Students in this semester's 431 class
-
-1. I am a swimmer and a ventriloquist.
-2. I enjoy crocheting in my free time.
-3. I have a one-year-old baby boy.
-4. I hiked 3000km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
-5. I love to sketch and cook.
-6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
-7. I work full time and commute from an hour away every day.
-8. I am from Ireland.
-9. I like to play golf, cats and classical piano.
-10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
-
-These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+-----
 
 ## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class03/data)
 
@@ -90,9 +92,14 @@ In addition to demonstrating general approaches for creating R projects and Quar
 
 All of this material is also demonstrated in Chapters 1-4 of the [Course Text](https://thomaselove.github.io/431-book/), and we will review (and augment) these ideas in class over the next few weeks.
 
+-----
+
 ## What Should I Be Working On?
 
 1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-3), which is due at **noon Wednesday 2024-09-04**.
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
 3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: **Tuesday 2024-09-11 at Noon**.
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
+
+## One Last Thing
+
