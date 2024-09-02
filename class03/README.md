@@ -32,6 +32,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
 
+- This past weekend, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators singled out my performance in their comments as well as my shoes.
+
 ## Announcements
  
 1. Your next assignment is a [Minute Paper after Class 03](https://bit.ly/431-2024-minute-03), which you need to complete by NOON Wednesday 2023-09-04 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
