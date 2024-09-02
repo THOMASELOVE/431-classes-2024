@@ -62,7 +62,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
     - Changes to the survey over the years:
         - `glasses` item added in 2019, `love's height` added in 2021
         - `sex` asked in 2014-2018, `love's age` guessed in 2014-2019
-        - `statssofar`, `handedness`, `pulse` rate and `hand_span` not included in 2020
+        - `statssofar`, `handedness`, `pulse` rate and `hand_span` not included in 2020 (COVID-related modifications since the course was exclusively given through Zoom)
 
 -----
 
