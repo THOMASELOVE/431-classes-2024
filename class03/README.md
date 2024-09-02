@@ -26,13 +26,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 2. If you’ve spent 15 minutes working on something and are stuck, don’t keep working on it. Step away for a while, and if you return and are still stuck, **ASK FOR HELP**.
     - Use our [Campuswire discussion board](https://thomaselove.github.io/431-2024/campuswire.html) to ask (and answer) questions about the course. Open 24 hours a day, 7 days a week.
-    - Attend [TA office hours](https://thomaselove.github.io/431-2024/contact.html) (which began earlier today) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) contains Zoom links for TA office hours in a document called **TA office hours schedule and Zoom links**. No appointment is necessary. Please just drop in.
+    - Attend [TA office hours](https://thomaselove.github.io/431-2024/contact.html) (which began earlier today) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) contains Zoom links for TA office hours in a document called **TA office hours schedule and Zoom links**. Those links are also posted to Campuswire and Canvas. No appointment is necessary. Please just drop in.
     - Professor Love will also hold "drop-in" office hours before and after each class.
     - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
 
-3. In our Shared Drive, you'll find a document called **A Few Comments on the Welcome to 431 Survey**, which we'll discuss briefly today.
-
-4. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2024), which is due next Wednesday 2024-09-11 at Noon. 
+3. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2024), which is due next Wednesday 2024-09-11 at Noon. 
     - We have provided you [with a template for Lab 1](https://github.com/THOMASELOVE/431-data/blob/main/data/lab1-template.qmd) to help you get started.
     - You may want to do Task 5 (which involves creating a short video) first, to get it out of the way, as it doesn't require any of the material discussed in class.
     - Prior to attempting Lab 1, we assume ...
@@ -45,13 +43,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. To come.
 
-## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2023/tree/main/class03/data)
+## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class03/data)
 
 These items are also part of the updated [431-data page](https://github.com/THOMASELOVE/431-data).
 
 - [431-first-r-template.qmd](data/431-first-r-template.qmd) is the **template** I will start with in developing today's materials.
 - [431-class03-all-code.qmd](data/431-class03-all-code.qmd) is a revision of the template that includes all of the code I will develop today in [the slides](https://thomaselove.github.io/431-slides-2023/class03.html).
-- [quick_survey_2023.csv](data/quick_survey_2023.csv) contains the data from our [Quick Survey in Class 02 (pdf)](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class02/431_surveyhandout_1perstudent_2023-08-31.pdf) for you and for students in the 2014-2022 versions of 431.
+- [quick_survey_2024.csv](data/quick_survey_2024.csv) contains the data from our [Quick Survey in Class 02 (pdf)](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/431_surveyhandout_1perstudent_2024-08-29.pdf) for you and for students in the 2014-2023 versions of 431.
 
 ### Analytic Questions We'll Address Today
 
