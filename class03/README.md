@@ -56,13 +56,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
         - You've read the introduction and chapters 1 and 2 of David Spiegelhalter's *The Art of Statistics*,
         - You've read the introduction and (most of) the "Whole Game" part (chapters 1-8) of [R for Data Science](https://r4ds.hadley.nz/).
 
-4. You may recall my mentioning that over the past ten years, 547 students had taken a version of our 15-item quick survey, and that 196/547 (36%) caused no problems in deciphering the results. The updated results through 2024:
-
-56 | Students completed the survey in 2024
-----: | :-------------------------------------
-21 | surveys in 2024 caused no problems in deciphering the results
-37.5% | % with no problems in 2024
-36% | % with no problems in 2014-2024 (217 out of 603)
+4. You may recall my mentioning that over the past ten years, 547 students had taken a version of our 15-item quick survey, and that 196/547 (36%) caused no problems in deciphering the results. The updated results through 2024 are 217/603 (still 36%), and the 2024 results were 21/56 (37.5%). Also, as I mentioned on Campuswire, I am roughly 6 feet 2.25 inches tall these days, which is about 188 cm.
 
 -----
 
