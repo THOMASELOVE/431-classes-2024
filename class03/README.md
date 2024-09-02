@@ -22,7 +22,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. I am a swimmer and a ventriloquist.
 2. I enjoy crocheting in my free time.
 3. I have a one-year-old baby boy.
-4. I hiked 3000km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
+4. I hiked 3000 km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
 5. I love to sketch and cook.
 6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
 7. I work full time and commute from an hour away every day.
