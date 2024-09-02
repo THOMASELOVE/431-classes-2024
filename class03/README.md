@@ -41,7 +41,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Ten Interesting/Fun Facts about Students in this semester's 431 class
 
-1. To come.
+1. I am a swimmer and a ventriloquist.
+2. I enjoy crocheting in my free time.
+3. I have a one-year-old baby boy.
+4. I hiked 3000km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
+5. I love to sketch and cook.
+6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
+7. I work full time and commute from an hour away every day.
+8. I am from Ireland.
+9. I like to play golf, cats and classical piano.
+10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
 
 ## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class03/data)
 
