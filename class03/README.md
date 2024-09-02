@@ -103,3 +103,4 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 
 ## One Last Thing
 
+We'll post this after 9 AM Tuesday.
