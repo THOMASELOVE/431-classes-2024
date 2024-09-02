@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
 
-- This past weekend, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments but singled out my shoes.
+- This past weekend, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments and, in particular, singled out my shoes.
 
 ## Announcements
  
