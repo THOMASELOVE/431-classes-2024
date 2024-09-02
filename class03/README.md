@@ -52,6 +52,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 9. I like to play golf, cats and classical piano.
 10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
 
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+
 ## Extra Materials for Class 03 found in the [Class 03 data subfolder](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class03/data)
 
 These items are also part of the updated [431-data page](https://github.com/THOMASELOVE/431-data).
