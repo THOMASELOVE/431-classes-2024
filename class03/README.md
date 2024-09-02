@@ -59,6 +59,10 @@ These come from the Welcome to 431 survey - some more results from that survey [
 4. **15-item Survey** You may recall my mentioning that over the past ten years, 547 students had taken a version of our 15-item quick survey, and that 196/547 (36%) caused no problems in deciphering the results. The updated results through 2024 are 217/603 (still 36%), and the 2024 results were 21/56 (37.5%).
     - Also, as I mentioned on Campuswire, I am roughly 6 feet 2.25 inches tall these days, which is about 188 cm. My answers to some of the other survey questions:
     - I don't wear glasses (except reading glasses on occasion). English is my best language. I have never smoked, not even on stage. My handedness score is +0.5 (four plus marks on L and 12 on R), although, for example, I shoot pool better left-handed. My last haircut cost me $45, including the tip. My favorite color is purple. My hand span is just over 26 inches, which is the largest this year (and most years.) I slept 6.5 hours the night before our class 2, and my pulse rate at the start of that class was 84 beats per minute.
+    - Changes to the survey over the years:
+        - `glasses` item added in 2019, `love's height` added in 2021
+        - `sex` asked in 2014-2018, `love's age` guessed in 2014-2019
+        - `statssofar`, `handedness`, `pulse` rate and `hand_span` not included in 2020
 
 -----
 
