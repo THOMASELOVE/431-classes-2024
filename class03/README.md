@@ -76,7 +76,7 @@ These come from the Welcome to 431 survey - some more results from that survey [
 These items are also part of the updated [431-data page](https://github.com/THOMASELOVE/431-data).
 
 - [431-first-r-template.qmd](data/431-first-r-template.qmd) is the **template** I will start with in developing today's materials.
-- [431-class03-all-code.qmd](data/431-class03-all-code.qmd) is a revision of the template that includes all of the code I will develop today in [the slides](https://thomaselove.github.io/431-slides-2023/class03.html).
+- [431-class03-all-code.qmd](data/431-class03-all-code.qmd) is a revision of the template that includes all of the code I will develop today in [the slides](https://thomaselove.github.io/431-slides-2024/class03.html).
 - [quick_survey_2024.csv](data/quick_survey_2024.csv) contains the data from our [Quick Survey in Class 02 (pdf)](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/431_surveyhandout_1perstudent_2024-08-29.pdf) for you and for students in the 2014-2023 versions of 431.
 
 ### Analytic Questions We'll Address Today
