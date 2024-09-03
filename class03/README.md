@@ -32,7 +32,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
 
-- This past weekend, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments and, in particular, singled out my shoes.
+- Saturday, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments and, in particular, singled out my shoes.
 
 ## Announcements
  
@@ -113,9 +113,12 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 
 1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-3), which is due at **noon Wednesday 2024-09-04**.
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
-3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: **Tuesday 2024-09-11 at Noon**.
+3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: **Wednesday 2024-09-11 at Noon**.
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
 
 ## One Last Thing
 
-We'll post this after 9 AM Tuesday.
+Thanks very much to the 31 of you who completed the requirements of [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) on time, and thus received a little class participation credit. Opportunities like this will appear through the semester, so keep an eye out for them. 
+
+In the meantime, those of you who didn't complete this task already, **please do so today**. Thanks!
+
