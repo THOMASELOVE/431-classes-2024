@@ -46,6 +46,8 @@ These come from the Welcome to 431 survey - some more results from that survey [
     - Attend [TA office hours](https://thomaselove.github.io/431-2024/contact.html) (which began earlier today) to get one-on-one help or share a computer problem. Our Shared Google Drive (431 Fall 2023 Dr Love and Students) contains Zoom links for TA office hours in a document called **TA office hours schedule and Zoom links**. Those links are also posted to Campuswire and Canvas. No appointment is necessary. Please just drop in.
     - Professor Love will also hold "drop-in" office hours before and after each class.
     - Email Professor Love if you have any questions you don't feel comfortable asking in TA office hours or via Campuswire.
+    - The following students still need to register for Campuswire - please do this **today** by [visiting this link](https://thomaselove.github.io/431-2024/campuswire.html).
+        - Saar Anis, Gabrielle Davis, Jose Diz Ferre, Shraddha Dumawat, Leia George, Derek Host, Brooke Jurasius, Anika Krishna, Tom Kupferer, Chunxuan Ma, Katherine Papahadjoulos, Toni Shoyinka, and Yen Jui (Tim) Su.
 
 3. Now is the time (if you haven't already) to [get started on Lab 01](https://github.com/THOMASELOVE/431-labs-2024), which is due next Wednesday 2024-09-11 at Noon. 
     - We have provided you [with a template for Lab 1](https://github.com/THOMASELOVE/431-data/blob/main/data/lab1-template.qmd) to help you get started.
