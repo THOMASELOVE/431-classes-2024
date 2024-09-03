@@ -116,7 +116,7 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 
 ## What Should I Be Working On?
 
-1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-3), which is due at **noon Wednesday 2024-09-04** (tomorrow).
+1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-03), which is due at **noon Wednesday 2024-09-04** (tomorrow).
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
 3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its [deadline](https://thomaselove.github.io/431-2024/calendar.html).
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
