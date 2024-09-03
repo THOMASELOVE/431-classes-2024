@@ -52,7 +52,7 @@ Arya Patel | axp1031 | arya.patel3@case.edu | MPHP | Yes | Yes
 Feriel Presswalla | fxp124 | feriel.presswalla@case.edu | CRSP | Yes | Yes
 Alayna Rowell | axr1424 | alayna.rowell@case.edu | PQHS | Yes | Yes
 Debbie Seifert | dxs1072 | deborah.seifert@case.edu | PQHS | Yes | Yes
-Mahsa Sheikh | sxs3195 | seyyedehmahsa.sheikholeslamian@case.edu | CRSP | Yes | Yes
+Mahsa Sheikh | sxs3195 | sxs3195@case.edu | CRSP | Yes | Yes
 Toni Shoyinka | obs8 | oluwatoni.shoyinka@case.edu | PQHS | No | No
 Rebecca Stinson | rjs368 | rebecca.stinson@case.edu | PQHS | No | Yes
 Graham Stockdale | gxs585 | graham.stockdale@case.edu | PQHS | Yes | Yes
