@@ -89,24 +89,23 @@ These items are also part of the updated [431-data page](https://github.com/THOM
 
 ### R Tools We'll Demonstrate Using Today's Materials
 
-In addition to demonstrating general approaches for creating R projects and Quarto files, and loading R packages, we'll demonstrate most (if not quite all) of the following key ideas...
+In addition to demonstrating general approaches for creating R projects and Quarto files, and loading R packages, we'll demonstrate most of the following key ideas...
 
-1. Ingesting data with `read_csv` from a csv (comma-separated version text) file to create a tibble (data frame.)
-2. Six key verbs from the `tidyverse`: `count`, `filter`, `select`, `mutate`, `group_by` and `summarize`
+1. Ingesting data with `read_csv()` from a csv (comma-separated version text) file to create a tibble (data frame.)
+2. Six key verbs from the `tidyverse`: `count()`, `filter()`, `select()`, `mutate()`, `group_by()` and `summarize()`
 3. Using the pipe: `|>` to push information through a pipeline.
 4. Using the assignment operator `<-` to assign results to a variable or tibble or other sort of object.
-5. Summarizing data with `summary`, `tabyl` and with `mosaic::favstats`
-6. Dealing with missing data via the creation of complete-case analyses with `filter(complete.cases(.))`
-7. Converting categorical variables to factors with `as_factor`, and recoding the levels of those factors with `fct_recode`
+5. Summarizing data with `summary()`, `tabyl()` and with `describe_distribution()`
+6. Dealing with missing data via the creation of complete-case analyses with `filter(complete.cases())`
+7. Converting categorical variables to factors with `as_factor())`
 8. Building plots using `ggplot` and the `ggplot2` package
     - Setting the x and y variables with `aes()`
     - Using `geom_histogram()` to obtain histograms of quantities
     - Using `geom_boxplot()` and `geom_violin()` for comparisons of quantities across categories (groups)
     - Using `geom_point()` and `geom_smooth()` to build scatterplots of the association between quantities and fit linear models and loess smooths to data
-    - Building multiple plots with `facet_grid()` and `facet_wrap()` and by using `aes(group = ., color = .)` to divide plots by a category
     - Using `labs()` to set axis labels, main and sub-titles
     - Using `guides(col = "none")` to delete legends from a plot where color is used to separate groups
-9. Using `lm` to fit and `summary(lm())` to summarize a straight-line ordinary least squares linear regression model
+9. Using `lm()` to fit and `model_parameters()` to summarize a straight-line ordinary least squares linear regression model
 10. Using `xfun::session_info()` to describe information about your installation of R at the end of your session.
 
 All of this material is also demonstrated in Chapters 1-4 of the [Course Text](https://thomaselove.github.io/431-book/), and we will review (and augment) these ideas in class over the next few weeks.
@@ -115,9 +114,9 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 
 ## What Should I Be Working On?
 
-1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-3), which is due at **noon Wednesday 2024-09-04**.
+1. The [Minute Paper after Class 03](https://bit.ly/431-2024-minute-3), which is due at **noon Wednesday 2024-09-04** (tomorrow).
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
-3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its deadline: **Wednesday 2024-09-11 at Noon**.
+3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its [deadline](https://thomaselove.github.io/431-2024/calendar.html).
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
 
 ## One Last Thing
