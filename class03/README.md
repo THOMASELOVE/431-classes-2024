@@ -120,6 +120,7 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 2. Get R and RStudio up and running effectively, if you haven't done so already. Consult the TAs in their office hours or ask questions on Campuswire if you need help.
 3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its [deadline](https://thomaselove.github.io/431-2024/calendar.html).
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
+5. If you're not already signed up for [Campuswire](https://thomaselove.github.io/431-2024/campuswire.html) (as indicated above) please get that done today.
 
 ## One Last Thing
 
