@@ -124,7 +124,7 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 
 ## One Last Thing
 
-Thanks very much to the 31 of you who completed the requirements of [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) on time, and thus received a little class participation credit. Opportunities like this will appear through the semester, so keep an eye out for them. 
+Thanks very much to the **31** of you who completed the requirements of [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) on time, and thus received a little class participation credit. Opportunities like this will appear through the semester, so keep an eye out for them. 
 
 In the meantime, those of you who didn't complete this task already, **please do so today**. Thanks!
 
