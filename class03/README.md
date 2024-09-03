@@ -17,23 +17,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
-## Ten Interesting/Fun Facts about Students in this semester's 431 class
-
-1. I am a swimmer and a ventriloquist.
-2. I enjoy crocheting in my free time.
-3. I have a one-year-old baby boy.
-4. I hiked 3000 km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
-5. I love to sketch and cook.
-6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
-7. I work full time and commute from an hour away every day.
-8. I am from Ireland.
-9. I like to play golf, cats and classical piano.
-10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
-
-These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
-
-- Saturday, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments and, in particular, singled out my shoes.
-
 ## Announcements
  
 1. Your next assignment is a [Minute Paper after Class 03](https://bit.ly/431-2024-minute-03), which you need to complete by NOON Wednesday 2023-09-04 (tomorrow). A Minute Paper is a short survey (completed using a Google Form) where you will answer a few questions about how the course is going for you.
@@ -123,10 +106,25 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 5. If you're not already signed up for [Campuswire](https://thomaselove.github.io/431-2024/campuswire.html) (as indicated above) please get that done today.
 6. Updated roster of students [is posted here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class01/431-students.md), including adjusted names, [Campuswire sign-up](https://thomaselove.github.io/431-2024/campuswire.html) and Syllabus [section 13](https://thomaselove.github.io/431-syllabus-2024/13_movies.html).
 
-
 ## One Last Thing
 
 Thanks very much to the **31** of you who completed the requirements of [Section 13 of the Syllabus](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) on time, and thus received a little class participation credit. Opportunities like this will appear through the semester, so keep an eye out for them. 
 
 In the meantime, those of you who didn't complete this task already, **please do so today**. Thanks!
 
+## Ten Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I am a swimmer and a ventriloquist.
+2. I enjoy crocheting in my free time.
+3. I have a one-year-old baby boy.
+4. I hiked 3000 km from Lusaka, Zambia through Mozambique and down to Cape Town, South Africa.
+5. I love to sketch and cook.
+6. I played soccer in college and was a goalie, even though I am only 5'3" (160 cm).
+7. I work full time and commute from an hour away every day.
+8. I am from Ireland.
+9. I like to play golf, cats and classical piano.
+10. [Billy Mays](https://en.wikipedia.org/wiki/Billy_Mays) (the OxiClean pitch man) was my uncle!
+
+These come from the Welcome to 431 survey - some more results from that survey [can be found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+
+- Saturday, I sang, danced and acted with the Hudson Players in the [Ohio Community Theatre Association](https://www.octa1953.org/)'s state competition, where the adjudicators positively described my performance in their comments and, in particular, singled out my shoes.
