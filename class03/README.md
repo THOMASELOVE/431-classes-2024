@@ -81,7 +81,11 @@ These items are also part of the updated [431-data page](https://github.com/THOM
 
 ### Analytic Questions We'll Address Today
 
-1. To come.
+1. What is the distribution of pulse rates among students in 431 since 2014?
+2. Does the distribution of student heights change materially over time?
+3. Is the Normal distribution a good model for student heights? How about student haircut prices?
+4. Do taller people appear to have paid less for their most recent haircut?
+5. Do students have a more substantial tobacco history if they prefer to speak English or a language other than English?
 
 ### R Tools We'll Demonstrate Using Today's Materials
 
