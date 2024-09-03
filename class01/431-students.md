@@ -43,11 +43,11 @@ Veda Machiraju | vkm28 | vedasree.machiraju@case.edu | PQHS | Yes | Yes
 Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP | No | Yes
 Morgan McLoughlin | mxm1760 | morgan.mcloughlin@case.edu | PQHS | No | Yes
 Nihit Mehta | nnm32 | nihit.mehta@case.edu | PQHS | No | Yes
-Mohammad Nasirpour | mxn534 | mohammadhossein.nasirpourpanahifardshad@case.edu | CRSP | Yes | Yes
+Mohammad Nasirpour | mxn534 | mxn534@case.edu | CRSP | Yes | Yes
 Nick Nazak | ncn13 | nicholas.nazak@case.edu | PQHS | No | Yes
 Dali Nemecio | dxn254 | dali.nemecio@case.edu | PQHS | Yes | Yes
-Tatchaporn Ongphichetmetha | txo116 | tatchaporn.ongphichetmetha@case.edu | CRSP | No | Yes
-Katherine Papahadjopoulos | kap146 | katherine.papahadjopoulos@case.edu | MPHP | No | No
+Tatchaporn Ongphichetmetha | txo116 | txo116@case.edu | CRSP | No | Yes
+Katherine Papahadjopoulos | kap146 | kap146@case.edu | MPHP | No | No
 Arya Patel | axp1031 | arya.patel3@case.edu | MPHP | Yes | Yes
 Feriel Presswalla | fxp124 | feriel.presswalla@case.edu | CRSP | Yes | Yes
 Alayna Rowell | axr1424 | alayna.rowell@case.edu | PQHS | Yes | Yes
