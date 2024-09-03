@@ -121,6 +121,8 @@ All of this material is also demonstrated in Chapters 1-4 of the [Course Text](h
 3. Complete [Lab 01](https://github.com/THOMASELOVE/431-labs-2023) by its [deadline](https://thomaselove.github.io/431-2024/calendar.html).
 4. If you've not already done so, complete [these Tasks we'd hoped you'd do last weekend](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class02#things-to-do-this-weekend).
 5. If you're not already signed up for [Campuswire](https://thomaselove.github.io/431-2024/campuswire.html) (as indicated above) please get that done today.
+6. Updated roster of students [is posted here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class01/431-students.md), including adjusted names, [Campuswire sign-up](https://thomaselove.github.io/431-2024/campuswire.html) and Syllabus [section 13](https://thomaselove.github.io/431-syllabus-2024/13_movies.html).
+
 
 ## One Last Thing
 
