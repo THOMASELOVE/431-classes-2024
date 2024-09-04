@@ -17,7 +17,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. I want to demonstrate how to ask a question (and answer one) on [Campuswire](https://campuswire.com/) today.
 2. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
 3. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
-4. More to come.
+4. Feedback on the Minute Paper after Class 3 will be available **by class time**.
+5. More to come.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
