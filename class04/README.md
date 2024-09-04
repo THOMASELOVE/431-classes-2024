@@ -21,7 +21,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I want to demonstrate how to ask a question (and answer one) on Campuswire today.
 2. I also want to talk about how often one should plan to update their R packages.
-3. More to come.
+3. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
+4. More to come.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
