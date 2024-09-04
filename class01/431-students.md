@@ -2,7 +2,7 @@
 
 As of 11:00 AM 2024-09-04:
 
-- 57 enrollees.
+- 56 enrollees.
 
 Name | CWRU ID | CWRU email | Flavor | [Movie](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) | [Campuswire](https://thomaselove.github.io/431-2024/campuswire.html)
 :------------------ | ------: | :------------------ | :------- | :---: | :---:
