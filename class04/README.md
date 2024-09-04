@@ -14,8 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I want to demonstrate how to ask a question (and answer one) on Campuswire today.
-2. I also want to talk about how often one should plan to update their R packages.
+1. I want to demonstrate how to ask a question (and answer one) on [Campuswire](https://campuswire.com/) today.
+2. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
 3. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
 4. More to come.
 
