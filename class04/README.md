@@ -17,6 +17,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 - To print RevealJS slides **to pdf**, [follow these instructions](https://quarto.org/docs/presentations/revealjs/presenting.html#print-to-pdf) using Google Chrome as your browser.
 - We attempt to record **most** 431 classes via Zoom and post the recording to Canvas.
 
+## Announcements
+
+1. I want to demonstrate how to ask a question (and answer one) on Campuswire today.
+2. I also want to talk about how often one should plan to update their R packages.
+3. More to come.
+
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
 1. I enjoy throwing pottery and visited eleven states this summer.
@@ -31,7 +37,3 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 10. I play tennis for CWRU and we won the school's first NCAA title in history when I was a sophomore.
 
 These come from the Welcome to 431 survey - some more results [are found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
-
-## Announcements
-
-To come.
