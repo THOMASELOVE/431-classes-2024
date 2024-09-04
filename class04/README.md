@@ -38,3 +38,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 10. I play tennis for CWRU and we won the school's first NCAA title in history when I was a sophomore.
 
 These come from the Welcome to 431 survey - some more results [are found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
+
+## One Last Thing
+
+![](https://imgs.xkcd.com/comics/iso_8601.png) This is why I write dates the way I do. [XKCD link](https://xkcd.com/1179)
+
