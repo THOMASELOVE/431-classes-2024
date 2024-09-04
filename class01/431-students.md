@@ -1,6 +1,6 @@
 # Students Enrolled in 431 for Fall 2024
 
-As of 11:00 AM 2024-09-04:
+As of 2:40 PM 2024-09-04:
 
 - 56 enrollees.
 
@@ -8,7 +8,7 @@ Name | CWRU ID | CWRU email | Flavor | [Movie](https://thomaselove.github.io/431
 :------------------ | ------: | :------------------ | :------- | :---: | :---:
 Haley Altadonna | hxa420 | haley.altadonna@case.edu | PQHS | OK | OK
 Saar Anis | sxa1518 | saar.anis@case.edu | CRSP | Late | OK
-Brooke Bhattacharya | bxb576 | brooke.bhattacharya@case.edu | PQHS | **Not yet** | OK
+Brooke Bhattacharya | bxb576 | brooke.bhattacharya@case.edu | PQHS | Late | OK
 Kelly Bowen | keb92 | kelly.bowen@case.edu | MPHP | Late | OK
 Reilly Burhanna | rcb135 | reilly.burhanna@case.edu | PQHS | OK | OK
 Sonny Caradonna | sgc48 | salvatore.caradonna@case.edu | PQHS | OK | OK
@@ -17,17 +17,17 @@ Carly DaCosta | cxd483 | carly.dacosta@case.edu | PQHS | OK | OK
 Gabrielle Davis | gxd218 | gabrielle.davis2@case.edu | PQHS | OK | **Not yet**
 Aishwarya Deengar | axd1174 | aishwarya.deengar@case.edu | PQHS | OK | OK
 Jose Diz Ferre | jld168 | jose.dizferre@case.edu | MPHP | **Not yet** | OK
-Tatiana Dombrovski | txd238 | tatiana.dombrovski@case.edu | CRSP | **Not yet** | OK
+Tatiana Dombrovski | txd238 | tatiana.dombrovski@case.edu | CRSP | Late | OK
 Shraddga Dumawat | sxd1055 | shraddha.dumawat@case.edu | PQHS | Late | OK
 Leia George | lxg401 | leia.george@case.edu | PQHS | OK | OK
-Monica Ghosh | mxg979 | monica.ghosh@case.edu | PQHS | **Not yet** | OK
+Monica Ghosh | mxg979 | monica.ghosh@case.edu | PQHS | Late | OK
 Alexis Heath | aeh181 | alexis.heath@case.edu | PQHS | OK | OK
-Derek Host | dth65 | derek.host@case.edu | PQHS | **Not yet** | OK
+Derek Host | dth65 | derek.host@case.edu | PQHS | Late | OK
 Dana Jian | dzj2 | dana.jian@case.edu | PQHS | OK | OK
 Paul Jones | pjj21 | paul.j.jones@case.edu | PQHS | Late | OK
 Brooke Jurasius | bvj8 | brooke.jurasius@case.edu | PQHS | **Not yet** | OK
 Atticus Kenny | axk1874 | atticus.kenny@case.edu | MPHP | OK | OK
-Zuhair Khan | zmk27 | zuhair.m.khan@case.edu | PQHS | **Not yet** | OK
+Zuhair Khan | zmk27 | zuhair.m.khan@case.edu | PQHS | Late | OK
 Kayla Klatt | krk110 | kayla.klatt@case.edu | PQHS | OK | OK
 Anika Krishna | axk1196 | anika.krishna@case.edu | PQHS | OK | OK
 Harshita Kumar | hxk613 | harshita.kumar@case.edu | PQHS | Late | OK
@@ -38,7 +38,7 @@ Gina Lin | gxl373 | gina.lin@case.edu | PQHS | OK | OK
 Olivia Lindberg | oxl77 | olivia.lindberg@case.edu | PQHS | OK | OK
 Rachel Liu | xxl1437 | xia-ying.liu@case.edu | PQHS | OK | OK
 Cassandra Lopez | cxl966 | cassandra.lopez@case.edu | PQHS | OK | OK
-Chunxuan Ma | cxm812 | chunxuan.ma@case.edu | PQHS | **Not yet** | **Not yet**
+Chunxuan Ma | cxm812 | chunxuan.ma@case.edu | PQHS | Late | **Not yet**
 Veda Machiraju | vkm28 | vedasree.machiraju@case.edu | PQHS | OK | OK
 Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP | **Not yet** | OK
 Morgan McLoughlin | mxm1760 | morgan.mcloughlin@case.edu | PQHS | **Not yet** | OK
@@ -47,7 +47,7 @@ Mohammad Nasirpour | mxn534 | mxn534@case.edu | CRSP | OK | OK
 Nick Nazak | ncn13 | nicholas.nazak@case.edu | PQHS | **Not yet** | OK
 Dali Nemecio | dxn254 | dali.nemecio@case.edu | PQHS | OK | OK
 Tatchaporn Ongphichetmetha | txo116 | txo116@case.edu | CRSP | Late | OK
-Katherine Papahadjopoulos | kap146 | kap146@case.edu | MPHP | **Not yet** | OK
+Katherine Papahadjopoulos | kap146 | kap146@case.edu | MPHP | Late | OK
 Arya Patel | axp1031 | arya.patel3@case.edu | MPHP | OK | OK
 Feriel Presswalla | fxp124 | feriel.presswalla@case.edu | CRSP | OK | OK
 Alayna Rowell | axr1424 | alayna.rowell@case.edu | PQHS | OK | OK
