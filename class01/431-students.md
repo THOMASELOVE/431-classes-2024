@@ -56,7 +56,6 @@ Mahsa Sheikh | sxs3195 | sxs3195@case.edu | CRSP | Yes | Yes
 Toni Shoyinka | obs8 | oluwatoni.shoyinka@case.edu | PQHS | No | No
 Rebecca Stinson | rjs368 | rebecca.stinson@case.edu | PQHS | No | Yes
 Graham Stockdale | gxs585 | graham.stockdale@case.edu | PQHS | Yes | Yes
-Yen Jui ("Tim") Su | yxs1441 | yenjui.su@case.edu | PQHS | No | No
 Guanyu ("Wei") Wei | gxw241 | guanyu.wei@case.edu | PQHS | Yes | Yes
 Madaline Witort | maw256 | madaline.witort@case.edu | PQHS | Yes | Yes
 JiaWei Yu | jxy1218 | jiawei.yu2@case.edu | PQHS | Yes | Yes
