@@ -1,6 +1,6 @@
 # Students Enrolled in 431 for Fall 2024
 
-As of 10:30 PM 2024-09-04:
+As of 10:00 AM 2024-09-05:
 
 - 56 enrollees.
 
@@ -40,7 +40,7 @@ Rachel Liu | xxl1437 | xia-ying.liu@case.edu | PQHS | OK
 Cassandra Lopez | cxl966 | cassandra.lopez@case.edu | PQHS | OK 
 Chunxuan Ma | cxm812 | chunxuan.ma@case.edu | PQHS | OK 
 Veda Machiraju | vkm28 | vedasree.machiraju@case.edu | PQHS | OK
-Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP | [Favorite Movie](https://thomaselove.github.io/431-syllabus-2024/13_movies.html)
+Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP | OK
 Morgan McLoughlin | mxm1760 | morgan.mcloughlin@case.edu | PQHS | OK
 Nihit Mehta | nnm32 | nihit.mehta@case.edu | PQHS | OK 
 Mohammad Nasirpour | mxn534 | mxn534@case.edu | CRSP | OK 
