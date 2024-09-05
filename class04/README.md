@@ -39,7 +39,7 @@ These come from the Welcome to 431 survey - some more results [are found here](h
 
 ## What Should I Be Working On?
 
-- This [class roster](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class01/431-students.md) indicates who is missing things. As of 10:15 AM, two students who had not submitted their [favorite movie](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) and one had not completed the [Minute Paper after Class 3](https://bit.ly/431-2024-minute-03). These aren't optional.
+- This [class roster](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class01/431-students.md) indicates who is missing things. As of 11:20 AM, one student had not submitted their [favorite movie](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) and one had not completed the [Minute Paper after Class 3](https://bit.ly/431-2024-minute-03). These aren't optional.
  
 See our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) for readings and upcoming due dates.
 
