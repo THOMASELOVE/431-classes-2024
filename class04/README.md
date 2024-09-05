@@ -14,12 +14,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I want to demonstrate how to (1) ask a question (2) answer a question and (3) indicate that you like something on [Campuswire](https://campuswire.com/) today.
-2. Feedback on the Minute Paper after Class 3 [is now available](https://bit.ly/431-2024-min-03-feedback). You'll need to log into Google via CWRU to see it.
-3. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
-4. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
-5. I hope to have more complete drafts of Chapters 5-8 of [our Course Text](https://thomaselove.github.io/431-book/) available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
-6. We'll look quickly at [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/431-lab1.pdf), and at [Project A](https://thomaselove.github.io/431-projectA-2024/) today.
+1. Feedback on the Minute Paper after Class 3 [is now available](https://bit.ly/431-2024-min-03-feedback). You'll need to log into Google via CWRU to see it.
+2. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
+3. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
+4. I hope to have more complete drafts of Chapters 5-8 of [our Course Text](https://thomaselove.github.io/431-book/) available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
+5. We'll look quickly at [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/431-lab1.pdf), and at [Project A](https://thomaselove.github.io/431-projectA-2024/) today.
+6. I want to demonstrate how to (1) ask a question (2) answer a question and (3) indicate that you like something on [Campuswire](https://campuswire.com/) today.
 7. Today's [Class 4 slides](https://thomaselove.github.io/431-slides-2024/class04.html) take over from where we left off in Class 3, but I have added some materials and changed the order of a few things, to help you with Lab 1, mostly.
 
 -------------
