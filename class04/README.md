@@ -30,7 +30,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. I am a second degree black belt in ninjistu.
 5. I love reading and collecting books.
 6. I rock climb in my free time, and I am working on getting ready for my lead certification.
-7. I am currently a student pilot working towards a pilots license.
+7. I am currently a student pilot working towards a pilot's license.
 8. I am currently re-learning how to to play the saxophone after a 10 year hiatus.
 9. I worked at a ski resort growing up and love to snowboard so I'm scared to live in such a flat state.
 10. I play tennis for CWRU and we won the school's first NCAA title in history when I was a sophomore.
