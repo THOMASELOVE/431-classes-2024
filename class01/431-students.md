@@ -1,6 +1,6 @@
 # Students Enrolled in 431 for Fall 2024
 
-As of 10:00 AM 2024-09-05:
+As of 11:20 AM 2024-09-05:
 
 - 56 enrollees.
 
@@ -54,7 +54,7 @@ Alayna Rowell | axr1424 | alayna.rowell@case.edu | PQHS | OK
 Debbie Seifert | dxs1072 | deborah.seifert@case.edu | PQHS | OK 
 Mahsa Sheikh | sxs3195 | sxs3195@case.edu | CRSP | OK 
 Toni Shoyinka | obs8 | oluwatoni.shoyinka@case.edu | PQHS | OK 
-Rebecca Stinson | rjs368 | rebecca.stinson@case.edu | PQHS | [Favorite Movie](https://thomaselove.github.io/431-syllabus-2024/13_movies.html)
+Rebecca Stinson | rjs368 | rebecca.stinson@case.edu | PQHS | OK
 Graham Stockdale | gxs585 | graham.stockdale@case.edu | PQHS | OK 
 Guanyu ("Wei") Wei | gxw241 | guanyu.wei@case.edu | PQHS | OK 
 Madaline Witort | maw256 | madaline.witort@case.edu | PQHS | OK 
