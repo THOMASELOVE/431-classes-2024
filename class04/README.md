@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. Feedback on the Minute Paper after Class 3 [is now available](https://bit.ly/431-2024-min-03-feedback). You'll need to log into Google via CWRU to see it.
 2. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
 3. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
-4. I hope to have more complete drafts of Chapters 5-8 of [our Course Text](https://thomaselove.github.io/431-book/) available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
+4. I have posted a polished version of [Chapter 5 of our Course Text](https://thomaselove.github.io/431-book/05_paired.html). I hope to have more complete drafts of Chapters 6-8 available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
 5. Today's [Class 4 slides](https://thomaselove.github.io/431-slides-2024/class04.html) take over from where we left off in Class 3, but I have added some materials and changed the order of a few things, to help you with Lab 1, mostly.
 
 -------------
