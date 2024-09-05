@@ -41,4 +41,6 @@ These come from the Welcome to 431 survey - some more results [are found here](h
 
 ## One Last Thing
 
-![](regunberg-2024.jpg) [Source](https://x.com/AaronRegunberg/status/1830256593868603803) 
+![](regunberg-2024.jpg) 
+
+[Source](https://x.com/AaronRegunberg/status/1830256593868603803) See Chiang's 2024-08-31 article in The New Yorker entitled [Why AI isn't going to make art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art).
