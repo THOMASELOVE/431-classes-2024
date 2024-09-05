@@ -19,6 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages) from our Software page. 
 4. I have posted a polished version of [Chapter 5 of our Course Text](https://thomaselove.github.io/431-book/05_paired.html). I hope to have more complete drafts of Chapters 6-8 available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
 5. Today's [Class 4 slides](https://thomaselove.github.io/431-slides-2024/class04.html) take over from where we left off in Class 3, but I have added some materials and changed the order of a few things, to help you with Lab 1, mostly.
+    - There is a small typo in the headline for Slide 42. It should read `mod4` instead of `mod1`.
 
 -------------
 
