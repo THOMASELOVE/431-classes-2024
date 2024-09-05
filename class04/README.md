@@ -43,7 +43,7 @@ These come from the Welcome to 431 survey - some more results [are found here](h
 
 See our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) for readings and upcoming due dates.
 
-- Lab 1 due Wednesday 2024-09-11 at Noon.
+- [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1) due Wednesday 2024-09-11 at Noon.
 - Spiegelhalter: Chapters 2 and 3
 - R4DS: remainder of “Whole game” (Sections 1-8)
 - get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
