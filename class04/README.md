@@ -47,7 +47,7 @@ See our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) 
 - Spiegelhalter: Chapters 2 and 3
 - R4DS: remainder of “Whole game” (Sections 1-8)
 - get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
-- I would hold off on reading past Chapter 4 of our [Course Book](https://thomaselove.github.io/431-book/) until I finish Chapters 5-8.
+- Chapter 5 of our [Course Book](https://thomaselove.github.io/431-book/) (and Chapters 1-4 if you haven't yet read them.)
 
 ## End of Class Announcements
 
