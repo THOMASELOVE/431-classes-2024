@@ -25,15 +25,15 @@ Alexis Heath | aeh181 | alexis.heath@case.edu | PQHS | OK
 Derek Host | dth65 | derek.host@case.edu | PQHS | Late 
 Dana Jian | dzj2 | dana.jian@case.edu | PQHS | OK 
 Paul Jones | pjj21 | paul.j.jones@case.edu | PQHS | Late 
-Brooke Jurasius | bvj8 | brooke.jurasius@case.edu | PQHS | **Not yet** 
+Brooke Jurasius | bvj8 | brooke.jurasius@case.edu | PQHS | Late
 Atticus Kenny | axk1874 | atticus.kenny@case.edu | MPHP | OK 
 Zuhair Khan | zmk27 | zuhair.m.khan@case.edu | PQHS | Late 
 Kayla Klatt | krk110 | kayla.klatt@case.edu | PQHS | OK 
 Anika Krishna | axk1196 | anika.krishna@case.edu | PQHS | OK 
 Harshita Kumar | hxk613 | harshita.kumar@case.edu | PQHS | Late 
-Tom Kupferer | twk29 | thomas.kupferer@case.edu | PQHS | **Not yet** 
+Tom Kupferer | twk29 | thomas.kupferer@case.edu | PQHS | Late
 Jeff Lambe | jxl3320 | jeffrey.lambe@case.edu | CRSP | Late 
-Weiyun Liang | wxl765 | weiyun.liang@case.edu | PQHS | **Not yet** 
+Weiyun Liang | wxl765 | weiyun.liang@case.edu | PQHS | Late
 Gina Lin | gxl373 | gina.lin@case.edu | PQHS | OK 
 Olivia Lindberg | oxl77 | olivia.lindberg@case.edu | PQHS | OK 
 Rachel Liu | xxl1437 | xia-ying.liu@case.edu | PQHS | OK 
@@ -44,7 +44,7 @@ Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP | **Not yet**
 Morgan McLoughlin | mxm1760 | morgan.mcloughlin@case.edu | PQHS | **Not yet** 
 Nihit Mehta | nnm32 | nihit.mehta@case.edu | PQHS | Late 
 Mohammad Nasirpour | mxn534 | mxn534@case.edu | CRSP | OK 
-Nick Nazak | ncn13 | nicholas.nazak@case.edu | PQHS | **Not yet** 
+Nick Nazak | ncn13 | nicholas.nazak@case.edu | PQHS | Late
 Dali Nemecio | dxn254 | dali.nemecio@case.edu | PQHS | OK 
 Tatchaporn Ongphichetmetha | txo116 | txo116@case.edu | CRSP | Late
 Katherine Papahadjopoulos | kap146 | kap146@case.edu | MPHP | Late 
@@ -60,6 +60,6 @@ Guanyu ("Wei") Wei | gxw241 | guanyu.wei@case.edu | PQHS | OK
 Madaline Witort | maw256 | madaline.witort@case.edu | PQHS | OK 
 JiaWei Yu | jxy1218 | jiawei.yu2@case.edu | PQHS | OK 
 Megan Zelinsky | mec208 | megan.church@case.edu | CRSP | OK 
-Isaac Zeng | yxz3103 | yuyu.zeng@case.edu | PQHS | **Not yet** 
+Isaac Zeng | yxz3103 | yuyu.zeng@case.edu | PQHS | Late
 Spancer Zhou | zxz1583 | zhuoran.zhou3@case.edu | PQHS | OK 
 
