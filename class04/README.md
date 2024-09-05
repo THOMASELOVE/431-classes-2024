@@ -39,6 +39,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 These come from the Welcome to 431 survey - some more results [are found here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class02/welcome-report.md).
 
+## What Should I Be Working On?
+
+See our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) for readings and upcoming due dates.
+
+- Lab 1 due Wednesday 2024-09-11 at Noon.
+- Spiegelhalter: Chapters 2 and 3
+- R4DS: remainder of “Whole game” (Sections 1-8)
+- get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
+- I would hold off on reading past Chapter 4 of our [Course Book](https://thomaselove.github.io/431-book/) until I finish Chapters 5-8.
+
 ## One Last Thing
 
 ![](regunberg-2024.jpg) 
