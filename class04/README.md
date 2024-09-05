@@ -18,9 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. You may want to look [at this link](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) if you're trying to identify the name of a color in R. It's also available [here as a PDF file](Rcolor.pdf).
 3. A few thoughts on [Updating R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages).
 4. I hope to have more complete drafts of Chapters 5-8 of [our Course Text](https://thomaselove.github.io/431-book/) available to you in time for Tuesday's class. I'll post to Campuswire as I finish them off.
-5. We'll look quickly at [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/431-lab1.pdf), and at [Project A](https://thomaselove.github.io/431-projectA-2024/) today.
-6. I want to demonstrate how to (1) ask a question (2) answer a question and (3) indicate that you like something on [Campuswire](https://campuswire.com/) today.
-7. Today's [Class 4 slides](https://thomaselove.github.io/431-slides-2024/class04.html) take over from where we left off in Class 3, but I have added some materials and changed the order of a few things, to help you with Lab 1, mostly.
+5. Today's [Class 4 slides](https://thomaselove.github.io/431-slides-2024/class04.html) take over from where we left off in Class 3, but I have added some materials and changed the order of a few things, to help you with Lab 1, mostly.
 
 -------------
 
@@ -50,6 +48,11 @@ See our [Course Calendar](https://thomaselove.github.io/431-2024/calendar.html) 
 - R4DS: remainder of “Whole game” (Sections 1-8)
 - get going on [Project A](https://thomaselove.github.io/431-projectA-2024/) Data work
 - I would hold off on reading past Chapter 4 of our [Course Book](https://thomaselove.github.io/431-book/) until I finish Chapters 5-8.
+
+## End of Class Announcements
+
+1. If I get the chance, we'll look quickly at [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab1/431-lab1.pdf), and at [Project A](https://thomaselove.github.io/431-projectA-2024/) today.
+2. I also want to demonstrate how to (1) ask a question (2) answer a question and (3) indicate that you like something on [Campuswire](https://campuswire.com/) today.
 
 ## One Last Thing
 
