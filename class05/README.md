@@ -10,4 +10,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 05 | 2024-09-10 | **[Slides 05](https://thomaselove.github.io/431-slides-2024/class05.html)** | **[Word 05](https://thomaselove.github.io/431-slides-2024/class05w.docx)** | **[Code 05](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class05.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](Lukito_2020-09-07.PNG)
+
 ## More to come.
