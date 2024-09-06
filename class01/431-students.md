@@ -1,8 +1,8 @@
 # Students Enrolled in 431 for Fall 2024
 
-As of 2024-09-05:
+As of 2024-09-06:
 
-- 56 enrollees.
+- 54 enrollees.
 
 Name | CWRU ID | CWRU email | Flavor 
 :------------------ | ------: | :------------------ | :-------
@@ -19,7 +19,6 @@ Aishwarya Deengar | axd1174 | aishwarya.deengar@case.edu | PQHS
 Jose Diz Ferre | jld168 | jose.dizferre@case.edu | MPHP  
 Tatiana Dombrovski | txd238 | tatiana.dombrovski@case.edu | CRSP 
 Shraddga Dumawat | sxd1055 | shraddha.dumawat@case.edu | PQHS
-Leia George | lxg401 | leia.george@case.edu | PQHS
 Monica Ghosh | mxg979 | monica.ghosh@case.edu | PQHS 
 Alexis Heath | aeh181 | alexis.heath@case.edu | PQHS
 Derek Host | dth65 | derek.host@case.edu | PQHS
@@ -38,7 +37,6 @@ Gina Lin | gxl373 | gina.lin@case.edu | PQHS
 Olivia Lindberg | oxl77 | olivia.lindberg@case.edu | PQHS 
 Rachel Liu | xxl1437 | xia-ying.liu@case.edu | PQHS 
 Cassandra Lopez | cxl966 | cassandra.lopez@case.edu | PQHS 
-Chunxuan Ma | cxm812 | chunxuan.ma@case.edu | PQHS 
 Veda Machiraju | vkm28 | vedasree.machiraju@case.edu | PQHS
 Ajay Mahenthiran | akm165 | ajay.mahenthiran@case.edu | MPHP
 Morgan McLoughlin | mxm1760 | morgan.mcloughlin@case.edu | PQHS
