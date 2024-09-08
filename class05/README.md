@@ -12,4 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](Lukito_2020-09-07.PNG)
 
-## More to come.
+## Announcements
+
+1. The [course textbook](https://thomaselove.github.io/431-book/) is now updated and ready for you to read through Chapter 8. I hope to get Chapters 9-12 reposted soon.
+2. More to come, including a link to the next Minute Paper.
