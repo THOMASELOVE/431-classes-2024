@@ -14,5 +14,31 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The [course textbook](https://thomaselove.github.io/431-book/) is now updated and ready for you to read through Chapter 8. I hope to get Chapters 9-12 reposted soon.
-2. More to come, including a link to the next Minute Paper.
+1. The [course textbook](https://thomaselove.github.io/431-book/) is now ready for you to read through Chapter 8. I hope to get Chapters 9-12 completed soon.
+2. If someone answers a question on Campuswire that is useful to you, hit the little up arrow next to the answer. This is how those things float to the top of the discussion.
+3. There's also a question about fun things to do in Cleveland in September on [Campuswire](https://campuswire.com/) that you can respond to for a little bonus credit.
+4. This Wednesday, you have two things due at noon. They are:
+    - [Lab 1](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab1), which you submit to [Canvas](https://canvas.case.edu/) and
+    - The [Minute Paper after Class 5](https://bit.ly/431-2024-minute-05), and to see this, remember to log into Google via your CWRU account.
+5. TA office hours continue later today - the [schedule is here](https://thomaselove.github.io/431-2024/contact.html) - just drop in to the Zoom session if you need help.
+6. The TAs and I will check all submitted Lab 1 work (all work for Lab 1 should be submitted to [Canvas](https://canvas.case.edu/)) shortly after the deadline.
+    - If we don't find your video, your Quarto file **and** your HTML file, or if you've submitted a faulty HTML file (often this is because you left `embed-resources: true` out of the YAML at the start of your Quarto file) we'll inform you via email, and ask you to resubmit. Respond quickly, so as to avoid losing more points than you must.
+    - Familiarize yourself with our [late policy for Labs here](https://github.com/THOMASELOVE/431-labs-2024?tab=readme-ov-file#late-policy-no-extensions).
+    - If you need to resubmit to [Canvas](https://canvas.case.edu/), please post all three files (video/.qmd/.html) again - it's just easier on the TAs. Don't worry if Canvas adds a number to the filename at the end of your submission.
+
+## Project A - time to get started
+
+Detailed [instructions for Project A](https://thomaselove.github.io/431-projectA-2024/) are available.
+
+- Project A is the first of two real data science projects you’ll be doing this semester. In Project A, you’ll each work with part of the [County Health Rankings 2024](https://www.countyhealthrankings.org/) data. 
+- You can *and should* get started on the [Data](https://thomaselove.github.io/431-projectA-2024/data.html) and [Project A Plan](https://thomaselove.github.io/431-projectA-2024/plan.html) materials now. All of that work must be completed by 2024-09-25. The
+    - The [Analyses](https://thomaselove.github.io/431-projectA-2024/analyses.html) and [Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html) will be done in October.
+- I have provided several [templates for Project A](https://thomaselove.github.io/431-projectA-2024/examples.html) to help you get started.
+- You can work alone, or with one other person on Project A. If you work as a pair, you create one project together, and each of you receive the same grade.
+    - We'll set aside some time in Thursday's Class 06 to let you chat with others and decide if you might like to work as partners.
+- Detailed instructions for Project B will be posted later this semester, but I wouldn't think about that now. Project A is a September/October activity. Project B is a November/December activity.
+
+-------------
+
+## One Last Thing
+
