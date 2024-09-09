@@ -42,3 +42,64 @@ Detailed [instructions for Project A](https://thomaselove.github.io/431-projectA
 
 ## One Last Thing
 
+Here are the movies you sent posters of to describe your favorites, grouped and ordered in a mysterious way to encode some information. It might help you to know that I've been doing this activity each year since 2020. Any guesses as to what the four groups represent?
+
+## Group A
+
+- [Inception](https://www.imdb.com/title/tt1375666/)
+- [Pride & Prejudice](https://www.imdb.com/title/tt0414387/)
+
+## Group B
+
+- [The Dark Knight](https://www.imdb.com/title/tt0468569/)
+- [Harry Potter and The Sorcerer's Stone](https://www.imdb.com/title/tt0241527/)
+- [Lord of the Rings: The Fellowship of the Ring](https://www.imdb.com/title/tt0120737/)
+- [The Grand Budapest Hotel](https://www.imdb.com/title/tt2278388/)
+- [The Passion of the Christ](https://www.imdb.com/title/tt0335345/)
+
+## Group C
+
+- [Everything, Everywhere, All at Once](https://www.imdb.com/title/tt6710474/)
+- [Good Will Hunting](https://www.imdb.com/title/tt0119217/)
+- [Inglourious Basterds](https://www.imdb.com/title/tt0361748/)
+- [Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/)
+- [Dilwale Dulhania Le Jayenge (The Brave Heart Will Take the Bride)](https://www.imdb.com/title/tt0112870/)
+- [Hidden Figures](https://www.imdb.com/title/tt4846340/)
+- [The Hunger Games](https://www.imdb.com/title/tt1392170/)
+- [Joker](https://www.imdb.com/title/tt7286456/)
+- [Kiki's Delivery Service](https://www.imdb.com/title/tt0097814/)
+- [Mean Girls](https://www.imdb.com/title/tt0377092/)
+- [Porco Rosso (Kurenai no buta)](https://www.imdb.com/title/tt0104652/)
+- [The Pursuit of Happyness](https://www.imdb.com/title/tt0454921/)
+- [Remember the Titans](https://www.imdb.com/title/tt0210945/)
+- [Spirited Away (Sen to Chihiro no Kamikakushi)](https://www.imdb.com/title/tt0245429/)
+
+## Group D
+
+- [Clue](https://www.imdb.com/title/tt0088930/)
+- [Doctor Strange](https://www.imdb.com/title/tt1211837/)
+- [Finding Nemo](https://www.imdb.com/title/tt0266543/)
+- [Gladiator](https://www.imdb.com/title/tt0172495)
+- [The Hunt for Red October](https://www.imdb.com/title/tt0099810/)
+- [Indiana Jones and the Last Crusade](https://www.imdb.com/title/tt0097576/)
+- [Jaws](https://www.imdb.com/title/tt0073195/)
+- [A League of their Own](https://www.imdb.com/title/tt0104694)
+- [National Treasure](https://www.imdb.com/title/tt0368891/)
+- [Talladega Nights: The Ballad of Ricky Bobby](https://www.imdb.com/title/tt0415306/)
+- [Weird: The Al Yankovic Story](https://www.imdb.com/title/tt17076046/)
+- [The Wolf of Wall Street](https://www.imdb.com/title/tt0993846)
+- [Chinese Doctors (Zhong guo yi sheng)](https://www.imdb.com/title/tt13696296/)
+- [The Conversation](https://www.imdb.com/title/tt0071360/)
+- [The Devil Wears Prada](https://www.imdb.com/title/tt0458352)
+- [Fantastic Mr. Fox](https://www.imdb.com/title/tt0432283/)
+- [Flipped](https://www.imdb.com/title/tt0817177/)
+- [Inside Out 2](https://www.imdb.com/title/tt22022452)
+- [Legally Blonde](https://www.imdb.com/title/tt0250494/)
+- [Minions: The Rise of Gru](https://www.imdb.com/title/tt5113044/)
+- [Om Shanti Om (Peace Be With You)](https://www.imdb.com/title/tt1024943)
+- [Princess Mononoke (Mononoke-hime)](https://www.imdb.com/title/tt0119698/)
+- [Scooby-Doo on Zombie Island](https://www.imdb.com/title/tt0166792)
+- [The Shining](https://www.imdb.com/title/tt0081505)
+- [Shrek 2](https://www.imdb.com/title/tt0298148)
+- [Zindagi Na Milegi Dobara (You Only Live Once)](https://www.imdb.com/title/tt1562872)
+
