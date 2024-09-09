@@ -42,7 +42,7 @@ Detailed [instructions for Project A](https://thomaselove.github.io/431-projectA
 
 ## One Last Thing
 
-Here are the [movies you sent posters of](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) to describe your favorites (each linked to their page on **IMDb.com**.) I have categorized the movies into four groups and two sets within each group in a mysterious way to encode several pieces of information. 
+Here are the [47 movies you sent posters of](https://thomaselove.github.io/431-syllabus-2024/13_movies.html) to describe your favorites (each linked to their page on **IMDb.com**.) I have categorized the movies into four groups and two sets within each group in a mysterious way to encode several pieces of information. 
 
 - Any guesses as to what the four groups represent?
 - Or what the Sets within each Group signify?
