@@ -12,9 +12,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Plan activities in Project A.
-2. Dr. Love's feedback on the Minute Paper after Class 5 will be posted before class.
-3. Answer Sketch for Lab 1 will be posted Friday 2024-09-13 at noon to our Shared Google Drive.
+1. Dr. Love's feedback on the Minute Paper after Class 5 will be available before class begins.
+2. Answer Sketch for Lab 1 will be posted Friday 2024-09-13 at noon.
+3. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Plan activities in Project A.
 4. More to come.
 
 ## Favorite Movies
