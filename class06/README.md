@@ -14,8 +14,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. Dr. Love's feedback on the Minute Paper after Class 5 will be available before class begins.
 2. Answer Sketch for Lab 1 will be posted Friday 2024-09-13 at noon.
-3. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Plan activities in Project A.
-4. More to come.
+3. I updated the book's Chapter 3 to fix a couple of typos a student found on Campuswire. **PLEASE** help me in this way if you find anything that seems wrong, or confuses you!
+4. We'll spend some time today making sure you have a chance to discuss working on Project A with a partner, and address any of your questions about the Data or Plan activities in Project A.
+5. More to come.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
