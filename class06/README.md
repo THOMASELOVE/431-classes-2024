@@ -20,7 +20,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 Consider the `movies_2024-09-12` Google Sheet now in our Shared Drive. 
 
-- This file describes 228 movies selected as a "favorite movie" by students in 431 in the Fall 2020, 2021, 2022, 2023 and 2024 versions of the course. Next week, we'll do a little more work with these data, to help develop some research questions, but for today, we'll explore the data briefly, and look at how I developed the codebook.
+- This file describes 228 movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course. Next week, we'll do a little more work with these data, to help develop some research questions, but for today, we'll explore the data briefly, and look at how I developed the codebook.
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
