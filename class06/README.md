@@ -34,3 +34,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## One Last Thing
 
+From Nate Silver and Eli McKown-Dawson at [Silver Bulletin](https://www.natesilver.net/) posted 2024-09-11.
+
+![](ahead_2024-09-11.png)
+
+![](sims_2024-09-11.png)
+
+
+
