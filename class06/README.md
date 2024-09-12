@@ -36,6 +36,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 From Nate Silver and Eli McKown-Dawson at [Silver Bulletin](https://www.natesilver.net/) posted 2024-09-11.
 
+![](setup_2024-09-11.png)
 ![](ahead_2024-09-11.png)
 
 ![](sims_2024-09-11.png)
