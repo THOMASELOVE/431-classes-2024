@@ -15,7 +15,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Dr. Love's feedback on the Minute Paper after Class 5 [is now available](https://bit.ly/431-2024-min-05-feedback).
-2. The Answer Sketch for Lab 1 will be posted to our **Shared Google Drive** on Friday 2024-09-13 at noon.
+2. The Answer Sketch for Lab 1 will be posted to our **Shared Google Drive** on Friday 2024-09-13 shortly at noon. Grades and feedback will be available next Tuesday at class time.
 3. I updated [the book's Chapter 3](https://thomaselove.github.io/431-book/03_summary.html) to fix a couple of typos a student found on Campuswire. **PLEASE** help me in this way if you find anything that seems wrong, or confuses you!
 4. We'll spend some time making sure you have a chance to **discuss working on Project A with a partner**, and address any of your questions about the Data or Plan activities in Project A.
 
