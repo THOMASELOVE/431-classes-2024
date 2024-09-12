@@ -33,13 +33,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 9. I obtained my PhD last year and am back at school to learn more.
 10. In my free time, I am the executive director of Cleveland Community Cat Project, a nonprofit organization dedicated to community cat welfare that I founded several years ago.
 
-## Favorite Movies
-
-Consider the `movies_2024-09-12` Google Sheet now in our Shared Drive. 
-
-- This file describes **228** movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course.
-- Next week, we'll do a little more work with these data, to help develop some research questions, but for today, we'll explore the data briefly, and look at how I developed the codebook.
-
-
 ## One Last Thing
 
