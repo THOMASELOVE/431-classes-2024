@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-[Go here](https://thomaselove.github.io/431-2024/software.html#getting-better-at-r-rstudio-and-quarto) for suggested R/RStudio/Quarto learning resources.
+[Go here](https://thomaselove.github.io/431-2024/resources.html) for suggested R/RStudio/Quarto learning resources.
 
 ## Today's Slides
 
@@ -15,7 +15,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. I posted a revised version of Lab 2 on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
-
+2. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
 
 ## Favorite Movies
 
