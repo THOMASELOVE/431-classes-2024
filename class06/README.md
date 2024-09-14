@@ -10,7 +10,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 06 | 2024-09-12 | **[Slides 06](https://thomaselove.github.io/431-slides-2024/class06.html)** | **[Word 06](https://thomaselove.github.io/431-slides-2024/class06w.docx)** | **[Code 06](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class06.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-**NEW!** [Go here](https://thomaselove.github.io/431-2024/software.html#getting-better-at-r-rstudio-and-quarto) for suggested R/RStudio/Quarto learning resources.
+**NEW!** [Go here](https://thomaselove.github.io/431-2024/resources.html) for suggested R/RStudio/Quarto learning resources.
 
 ## Announcements
 
