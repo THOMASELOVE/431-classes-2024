@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. I posted a revised version of Lab 2 on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
+1. I posted a revised version of the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
 2. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
 3. Rebecca Barter's [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python) has been helpful to some people making that transition, or the opposite one.
 
