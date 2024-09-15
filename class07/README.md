@@ -28,5 +28,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 Consider the `movies_2024-09-17` Google Sheet now found in our Shared Drive. 
 
 - This file describes **228** movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course.
-- In future classes, we'll do some real work with these data, but today, we'll start by exploring the data a little, and look at how I developed the codebook.
+- We'll start by exploring the data a little, and look at how I developed the codebook.
 
