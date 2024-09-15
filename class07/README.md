@@ -19,7 +19,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - **Grades** for Lab 1 will be posted by class time.
 2. In addition to Lab 2, the Minute Paper after Class 07 is due Wednesday at noon. **Link to be posted**.
 3. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
-    - I also corrected a typo (I was missing a parenthesis in describing what outliers and serious outliers are) in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) thanks to an alert student.
+    - I also corrected non-critical irritating typos in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) and in [Section 7.5](https://thomaselove.github.io/431-book/07_transform.html#the-logarithmic-transformation) thanks to alert students who have received some credit for letting me know. Email or Campuswire is great for letting me know if you find other errors.
 4. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
 5. Rebecca Barter's [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python) has been helpful to some people making that transition, or the opposite one.
 
