@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-[Go here](https://thomaselove.github.io/431-2024/resources.html) for suggested R/RStudio/Quarto learning resources.
+[Go here](https://thomaselove.github.io/431-2024/resources.html) for some suggested R/RStudio/Quarto learning resources.
 
 ## Today's Slides
 
