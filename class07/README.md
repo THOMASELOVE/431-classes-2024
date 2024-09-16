@@ -21,6 +21,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
     - I also corrected non-critical irritating typos in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) and in [Section 7.5](https://thomaselove.github.io/431-book/07_transform.html#the-logarithmic-transformation) thanks to alert students who have received some credit for letting me know. Email or Campuswire is great for letting me know if you find other errors.
 4. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
+5. Thursday September 19 is every R user's favorite holiday. I'll be sure to let you know about it next time in class.
+
+## RStudio's Appearance
+
+- At home, I use the following RStudio setup, which you can customize by visiting **Tools**... **Global Options** and then selecting Appearance
+    - RStudio theme: Modern
+    - Zoom: 125%
+    - Editor font: Lucida Console
+    - Editor font size: 12
+    - Editor theme: Tomorrow Night Bright
 
 ## Ten More Interesting/Fun Facts about Students in this semester's 431 class
 
@@ -39,13 +49,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Favorite Movies
 
-Consider the `movies_2024-09-17` Google Sheet now found in our Shared Drive. 
+Consider the `movies_2024-09-17` Google Sheet now found in our Shared Google Drive. 
 
 - This file describes **228** movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course.
-- We'll start by exploring the data a little, and look at how I developed the codebook.
+- Today, we'll describe the data gently, and talk a bit about how I developed the codebook.
 
 ## One Last Thing
 
+To come.
 
 ## Shameless Self-Promotion
 
