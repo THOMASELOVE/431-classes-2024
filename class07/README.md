@@ -60,4 +60,6 @@ Consider the `movies_2024-09-17` Google Sheet now found in our Shared Google Dri
 
 ## One Last Thing
 
-To come.
+On Sunday afternoon, I was polled (about the Ohio Senate race as well as the Presidential election) by a polling firm listed in [FiveThirtyEight's Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/).
+
+
