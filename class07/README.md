@@ -21,7 +21,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
     - I also corrected non-critical irritating typos in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) and in [Section 7.5](https://thomaselove.github.io/431-book/07_transform.html#the-logarithmic-transformation) thanks to alert students who have received some credit for letting me know. Email or Campuswire is great for letting me know if you find other errors.
 4. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
-5. Rebecca Barter's [An introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python) has been helpful to some people making that transition, or the opposite one.
+
+## Ten More Interesting/Fun Facts about Students in this semester's 431 class
+
+1. I can inject aesthetic Botox.
+2. My family recently got a new dog named Piper.
+3. I have a twin sister.
+4. I speak five languages.
+5. I was born in New Orleans, and enjoy cooking.
+6. I used to be in the color guard in high school.
+7. I have a very cute 5 month old baby.
+8. I've travelled to 12 countries not including my own.
+9. I've eaten ostrich and kangaroo meat before - I don't recommend either.
+10. This summer, I took a road trip to Tibet and made it to the Everest Base Camp.
+
+----------
 
 ## Favorite Movies
 
