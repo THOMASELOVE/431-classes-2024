@@ -44,3 +44,11 @@ Consider the `movies_2024-09-17` Google Sheet now found in our Shared Drive.
 - This file describes **228** movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course.
 - We'll start by exploring the data a little, and look at how I developed the codebook.
 
+## Shameless Self-Promotion
+
+I'm [in a play](https://github.com/THOMASELOVE/theater/blob/master/README.md#my-next-performances-will-be-as-justice-wargrave-in-the-play-and-then-there-were-none-at-aurora-community-theatre-october-25---november-16-2024) that runs from October 25 - November 16. You'll hear more about this in October, but if you want to get tickets now, [visit this link](https://www.auroracommunitytheatre.com/).
+
+## One Last Thing
+
+
+
