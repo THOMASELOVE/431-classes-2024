@@ -53,7 +53,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 Consider the `movies_2024-09-17` Google Sheet now found in our Shared Google Drive. 
 
 - This file describes **228** movies selected as a "favorite movie" by students in 431 in the Fall 2020-2024 versions of the course.
-- Today, we'll describe the data gently, and talk a bit about how I developed the codebook.
+- Today, we'll describe the data gathered there gently, and talk a bit about how I developed the codebook and data, mostly using [IMDB](https://www.imdb.com/).
 - In future classes, we'll augment this database in several ways, and we'll develop (and try to explore) some research questions.
 - In addition to [IMDB](https://www.imdb.com/), other sites that I have used in the past to gather data about movies include:
     - <https://www.rottentomatoes.com/>, <https://www.flickchart.com/> and <https://the-numbers.com/>
