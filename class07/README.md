@@ -24,8 +24,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. Also due at noon Wednesday 2024-09-18 is [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2).
 5. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
     - I also corrected non-critical irritating typos in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) and in [Section 7.5](https://thomaselove.github.io/431-book/07_transform.html#the-logarithmic-transformation) thanks to alert students who have received some credit for letting me know. Email or Campuswire is great for letting me know if you find other errors.
-6. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
-7. September 19 (this Thursday) is every R user's favorite holiday. I'll be sure to let you know about it next time in class.
+6. September 19 (this Thursday) is every R user's favorite holiday. I'll be sure to let you know about it next time in class.
 
 ## RStudio's Appearance
 
@@ -76,8 +75,9 @@ The definition of B.R.I. used in the first paper below comes from the formula de
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class07/bri-formula.png)
 
 Two key articles mentioned there are:
-    - [Body Roundness Index and All-Cause Mortality Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819558) from X Zhang et al. in JAMA Network Open 2024-06-05
-    - [Relationships between body roundness with body fat and visceral adipose tissue emerging from a new geometrical model](https://onlinelibrary.wiley.com/doi/10.1002/oby.20408) by DM Thomas et al. in Obesity 2013-03-21, whose Figure 2, which is an example of how BRI (body roundness index) differentiates between various body types of the same BMI is reproduced below...
+
+- [Body Roundness Index and All-Cause Mortality Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819558) from X Zhang et al. in JAMA Network Open 2024-06-05
+- [Relationships between body roundness with body fat and visceral adipose tissue emerging from a new geometrical model](https://onlinelibrary.wiley.com/doi/10.1002/oby.20408) by DM Thomas et al. in Obesity 2013-03-21, whose Figure 2, which is an example of how BRI (body roundness index) differentiates between various body types of the same BMI is reproduced below...
   
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class07/bri-vs-bmi-fig2.jpg)
 
