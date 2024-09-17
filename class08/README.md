@@ -14,8 +14,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
 
-## More to come.
+## Announcements
 
+1. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
+2. More to come.
+
+---------
 
 ## Shameless Self-Promotion
 
