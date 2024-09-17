@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. I posted a revised version of the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
     - The Lab 1 Answer Sketch was posted last Friday at noon to our Shared Google Drive.
-    - **Grades** for Lab 1 will be posted by class time to our Shared Google Drive, and specifically **not** to Canvas. Look for my email dated 2024-09-16 for more details.
+    - **Grades** for Lab 1 are posted to our Shared Google Drive, and specifically **not** to Canvas. Look for my email dated 2024-09-16 for more details.
 2. Some **Tips** for future Labs (and Projects) based on what we saw in the Lab 1 responses are [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md). I've also posted this next to the instructions for Labs 2-6.
 3. The [Minute Paper after Class 07](https://bit.ly/431-2024-minute-07) is due Wednesday 2024-09-18 at noon.
 4. Also due at noon Wednesday 2024-09-18 is [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2).
