@@ -61,8 +61,30 @@ Consider the `movies_2024-09-17` Google Sheet now found in our Shared Google Dri
 - In addition to [IMDB](https://www.imdb.com/), other sites that I have used in the past to gather data about movies include:
     - <https://www.rottentomatoes.com/>, <https://www.flickchart.com/> and <https://the-numbers.com/>
 
-## One Last Thing
+## Two Last Things
 
-On Sunday afternoon, I was polled (about the Ohio Senate race as well as the Presidential election) by a polling firm listed in [FiveThirtyEight's Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/).
+1. On Sunday afternoon, I was polled (about the Ohio Senate race as well as the Presidential election) by a polling firm listed in [FiveThirtyEight's Pollster Ratings](https://projects.fivethirtyeight.com/pollster-ratings/).
+
+2. You may be interested in [Time to Say Goodbye to the B.M.I.?](https://www.nytimes.com/2024/09/06/health/body-roundness-index-bmi.html) by Roni Caryn Rubin in the *New York Times* updated 2024-09-14.
+
+> So welcome a new metric: the body roundness index. B.R.I. is just what it sounds like — a measure of how round or circlelike you are, using a formula that takes into account height and waist, but not weight. It’s a formula that may provide a better estimate of central obesity and abdominal fat, which are closely linked to an increased risk of developing Type 2 diabetes, hypertension and heart disease, unlike fat stored on the buttocks and thighs.
+> B.R.I. scores generally run from 1 to 15; most people rank between 1 and 10. Among a nationally representative sample of 33,000 Americans, B.R.I. scores rose between 1999 and 2018, the new study found. Those with B.R.I. scores of 6.9 and up — indicating the roundest bodies — were at the highest risk of dying from cancer, heart disease and other illnesses. Their overall mortality risk was almost 50 percent greater than those with B.R.I.s of 4.5 to 5.5, which were in the midrange of the sample, while those with B.R.I. scores of 5.46 to 6.9 faced a risk that was 25 percent higher than those in the midrange.
+
+The definition of B.R.I. used in the first paper below is:
+
+BRI = 364.2 − 365.5 × √(1 − [waist circumference in centimeters / 2π]2 / [0.5 × height in centimeters]2), according to the formula developed by [Thomas et al.](https://dx.doi.org/10.1002/oby.20408)
+
+Two key articles mentioned there are:
+    - [Body Roundness Index and All-Cause Mortality Among US Adults](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2819558) from X Zhang et al. in JAMA Network Open 2024-06-05
+    - [Relationships between body roundness with body fat and visceral adipose tissue emerging from a new geometrical model](https://onlinelibrary.wiley.com/doi/10.1002/oby.20408) by DM Thomas et al. in Obesity 2013-03-21, whose Figure 2, which is an example of how BRI (body roundness index) differentiates between various body types of the same BMI is reproduced below...
+  
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class07/bri-vs-bmi-fig2.jpg)
+
+Caption: BMI as a measure of adiposity fails to distinguish individuals with similar BMI but different degrees of body fat. The three depicted individuals vary in body type but share identical BMI. A: subject is tall and lean, B: subject is muscular, C: subject has highest percent body fat. Although their BMIs are identical, their corresponding BRI values differentiate their body types. After normalizing for height, the three generated ellipses can be visually compared for differences in body roundness, which can be converted into estimates of percent body fat. Images used with permission from <http://www.shutterstock.com>. 
+
+
+  
+
+  
 
 
