@@ -12,6 +12,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 07 | 2024-09-17 | **[Slides 07](https://thomaselove.github.io/431-slides-2024/class07.html)** | **[Word 07](https://thomaselove.github.io/431-slides-2024/class07w.docx)** | **[Code 07](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class07.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/p_values.png) Source: <https://xkcd.com/1478>
+
 ## Announcements
 
 1. I posted a revised version of the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
