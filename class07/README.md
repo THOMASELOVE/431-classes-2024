@@ -17,6 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. I posted a revised version of the [Lab 2 instructions](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2) on 2024-09-13 to correct a typo. The original version (in one place) suggested there were 5 tasks. There are, in fact, just 3.
     - The Lab 1 Answer Sketch was posted last Friday at noon to our Shared Google Drive.
     - **Grades** for Lab 1 will be posted by class time to our Shared Google Drive, and specifically **not** to Canvas. Look for my email dated 2024-09-16 for more details.
+    - Some Tips for future Labs (based on Lab 1) are [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md).
 2. The [Minute Paper after Class 07](https://bit.ly/431-2024-minute-07) is due Wednesday 2024-09-16 at noon.
 3. Also due at noon Wednesday 2024-09-16 is [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2).
 4. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
