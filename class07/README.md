@@ -20,12 +20,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The Lab 1 Answer Sketch was posted last Friday at noon to our Shared Google Drive.
     - **Grades** for Lab 1 will be posted by class time to our Shared Google Drive, and specifically **not** to Canvas. Look for my email dated 2024-09-16 for more details.
 2. Some **Tips** for future Labs (and Projects) based on what we saw in the Lab 1 responses are [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md). I've also posted this next to the instructions for Labs 2-6.
-3. The [Minute Paper after Class 07](https://bit.ly/431-2024-minute-07) is due Wednesday 2024-09-16 at noon.
-4. Also due at noon Wednesday 2024-09-16 is [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2).
+3. The [Minute Paper after Class 07](https://bit.ly/431-2024-minute-07) is due Wednesday 2024-09-18 at noon.
+4. Also due at noon Wednesday 2024-09-18 is [Lab 2](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab2).
 5. [Chapters 9](https://thomaselove.github.io/431-book/09_moregroups.html), [10](https://thomaselove.github.io/431-book/10_transmore.html), [11](https://thomaselove.github.io/431-book/11_association.html) and [12](https://thomaselove.github.io/431-book/12_transassoc.html) of our [Course Textbook](https://thomaselove.github.io/431-book/) are now ready for you, in addition to Chapters 1-8 and the Appendix materials, which have been available previously. Chapters 13-23 still need work on my part before I can recommend you read them.
     - I also corrected non-critical irritating typos in [Section 3.5](https://thomaselove.github.io/431-book/03_summary.html#sec-outliers) and in [Section 7.5](https://thomaselove.github.io/431-book/07_transform.html#the-logarithmic-transformation) thanks to alert students who have received some credit for letting me know. Email or Campuswire is great for letting me know if you find other errors.
 6. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
-7. Thursday September 19 is every R user's favorite holiday. I'll be sure to let you know about it next time in class.
+7. September 19 (this Thursday) is every R user's favorite holiday. I'll be sure to let you know about it next time in class.
 
 ## RStudio's Appearance
 
