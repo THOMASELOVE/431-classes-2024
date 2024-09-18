@@ -4,7 +4,7 @@ To be completed on 2024-09-19 (Class 08).
 
 ## The Six Variables We're Focusing On Today
 
-We will use the `movies_2024-09-17` data in the **Favorite Movies** directory on our Shared Drive, which describes 228 films mentioned as "favorites" by students in 431 for 2020-2024. 
+We will use the `movies_2024-09-17` data in the **Favorite Movies** directory in our Shared Drive Folder, which describes 228 films mentioned as "favorites" by students in 431 for 2020-2024. 
 
 There are six variables (`year`, `length`, `imdb_categories`, `imdb_ratings`, `imdb_stars` and `mpa`) that we will focus on today...
 
@@ -14,12 +14,16 @@ Variable | Sample Value | Explanation
 `movie` | Avengers: Infinity War | film title according to IMDB
 **`year`** | 2018 | year film was released
 **`length`** | 149 | length of film (in minutes)
-**`imdb_categories`** | Space Sci-Fi, Superhero, Action, Adventure, Sci-Fi | Film Categories specified by IMDB (up to 10)
+**`imdb_categories`** | Space Sci-Fi, Superhero, Action, Adventure, Sci-Fi | Movie Genre Categories specified by IMDB (up to 10)
 **`imdb_ratings`** | 1,200,000 | Number of Star Ratings (IMDB)
 **`imdb_stars`** | 8.4 | Weighted Average Rating (IMDB)
 **`mpa`** | PG-13 | Rating by the Motion Picture Association
 
 The **Variable Descriptions** tab in the Google Sheet has additional information on all of these variables.
+
+**Note 1**: The twelve Genre categories in `imdb_categories` matching at least 20 movies are: Action (60 movies), Adventure (80 movies), Animation (25 movies), Comedy (97 movies), Crime (29 movies), Drama (152 movies), Family (36 movies), Fantasy (53 movies), Mystery (22 movies), Romance (55 movies), Sci-Fi (44 movies) and Thriller (46 movies).
+
+**Note 2**: The ratings in `mpa` matching at least 20 movies are: PG (62 movies), PG-13 (74 movies), and R (67 movies)
 
 ## Your Task(s) for Today
 
