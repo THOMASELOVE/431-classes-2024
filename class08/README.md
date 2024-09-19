@@ -60,7 +60,7 @@ Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/Internatio
 -
 
 
-![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/images/Sept_19_2023.png)
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/Sept_19_2024.png)
 
 -
 -
@@ -76,14 +76,4 @@ Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/Internatio
 
 
 
-![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/images/R_keyboard.png)
-
-
-
-
-
-
-
-
-
-![](https://github.com/THOMASELOVE/431-classes-2023/blob/main/class07/R_keyboard.png)
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/R_keyboard.png)
