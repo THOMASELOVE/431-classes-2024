@@ -24,31 +24,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Details on the Lab Regrade policy [are found here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december). 
 5. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
 
-## Favorite Movies
+---
 
-Today we'll have our [first breakout session related to the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies).
-
------
-
-## Main Thing To Work On This Weekend?
-
-The [Project A Plan](https://thomaselove.github.io/431-projectA-2024/plan.html), which is due Wednesday at noon.
-
----------
-
-## Self-Promotion
-
-I'm [in a play](https://github.com/THOMASELOVE/theater/blob/master/README.md#my-next-performances-will-be-as-justice-wargrave-in-the-play-and-then-there-were-none-at-aurora-community-theatre-october-25---november-16-2024) that runs from October 25 - November 16. You'll hear more about this in October, but if you want to get tickets now, [visit this link](https://www.auroracommunitytheatre.com/). 
-
-### If I'm a student/friend/neighbor/colleague of yours, are you expecting me to come see you in theater?
-
-I'm always delighted to see anyone I know at any show I do. Please do come if you are interested, and comfortable being around people who are unmasked. I also have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries **no** weight with me at all in any professional capacity.
-
----------
-
-## One Last Thing
-
-Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day).
+## Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/International_Talk_Like_a_Pirate_Day).
 
 -
 -
@@ -77,3 +55,32 @@ Today is [an R User's favorite holiday](https://en.wikipedia.org/wiki/Internatio
 
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/R_keyboard.png)
+
+
+## Favorite Movies
+
+Today we'll have our [first breakout session related to the Favorite Movies data](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies).
+
+-----
+
+## Main Thing To Work On This Weekend?
+
+The [Project A Plan](https://thomaselove.github.io/431-projectA-2024/plan.html), which is due Wednesday at noon.
+
+## Self-Promotion
+
+I'm [in a play](https://github.com/THOMASELOVE/theater/blob/master/README.md#my-next-performances-will-be-as-justice-wargrave-in-the-play-and-then-there-were-none-at-aurora-community-theatre-october-25---november-16-2024) that runs from October 25 - November 16. You'll hear more about this in October, but if you want to get tickets now, [visit this link](https://www.auroracommunitytheatre.com/). 
+
+### If I'm a student/friend/neighbor/colleague of yours, are you expecting me to come see you in theater?
+
+I'm always delighted to see anyone I know at any show I do. Please do come if you are interested, and comfortable being around people who are unmasked. I also have various professional roles (as a teacher, for example) where I have some nominal control over other people's happiness or work. If you're someone who interacts with me professionally, please feel no obligation to attend a show I'm in. Attending (or not attending) a show I'm in carries **no** weight with me at all in any professional capacity.
+
+## One Last Thing
+
+Presidential Election Forecasts
+
+- <https://www.racetothewh.com/president/2024>
+- <https://projects.fivethirtyeight.com/2024-election-forecast/>
+- <https://www.economist.com/interactive/us-2024-election/prediction-model/president>
+- <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (pay wall for image shown here)
+
