@@ -77,10 +77,13 @@ I'm always delighted to see anyone I know at any show I do. Please do come if yo
 
 ## One Last Thing
 
-Presidential Election Forecasts
+2024-09-18/2024-09-19 Presidential Election Forecasts: Snapshots
 
-- <https://www.racetothewh.com/president/2024>
-- <https://projects.fivethirtyeight.com/2024-election-forecast/>
-- <https://www.economist.com/interactive/us-2024-election/prediction-model/president>
-- <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (pay wall for image shown here)
+- <https://www.racetothewh.com/president/2024> (Race To the White House)
+- <https://projects.fivethirtyeight.com/2024-election-forecast/> (FiveThirtyEight)
+- <https://www.economist.com/interactive/us-2024-election/prediction-model/president> (The Economist)
+- <https://elections2024.thehill.com/forecast/2024/president/> (Decision Desk HQ at The Hill)
+- <https://projects.cnalysis.com/23-24/president> (CNalysis)
+- <https://projects.jhkforecasts.com/2024/president/#standard> (JHK Forecasts)
+- <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (Silver Bulletin: pay wall for image shown here)
 
