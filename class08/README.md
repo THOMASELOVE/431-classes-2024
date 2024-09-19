@@ -12,8 +12,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 08 | 2024-09-19 | **[Slides 08](https://thomaselove.github.io/431-slides-2024/class08.html)** | **[Word 08](https://thomaselove.github.io/431-slides-2024/class08w.docx)** | **[Code 08](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
-
 ## Announcements
 
 1. A student was good enough to point out that I've been unclear. We don't really have a Shared Google Drive, but instead a Shared Folder in your My Drive, called **431 Fall 2024 Students and Dr Love**. I am sorry about that.
@@ -80,10 +78,29 @@ I'm always delighted to see anyone I know at any show I do. Please do come if yo
 2024-09-18/2024-09-19 Presidential Election Forecasts: Snapshots
 
 - <https://www.racetothewh.com/president/2024> (Race To the White House)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/race_to_the_white_house.png)
+
 - <https://projects.fivethirtyeight.com/2024-election-forecast/> (FiveThirtyEight)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/fivethirtyeight.png)
+
 - <https://www.economist.com/interactive/us-2024-election/prediction-model/president> (The Economist)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/the-economist.png)
+
 - <https://elections2024.thehill.com/forecast/2024/president/> (Decision Desk HQ at The Hill)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/decision_desk_hq.png)
+
 - <https://projects.cnalysis.com/23-24/president> (CNalysis)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/cnalysis.png)
+
 - <https://projects.jhkforecasts.com/2024/president/#standard> (JHK Forecasts)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/jhkforecasts.png)
+
 - <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (Silver Bulletin: pay wall for image shown here)
 
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/silver_bulletin.png)
