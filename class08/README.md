@@ -92,3 +92,5 @@ I'm always delighted to see anyone I know at any show I do. Please do come if yo
 - <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (Silver Bulletin: pay wall for image shown here)
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/silver_bulletin.png)
+
+And, finally, [Don't Let Randomness Make a Fool of You](https://open.substack.com/pub/natesilver/p/dont-let-randomness-make-a-fool-of?r=1k6wv&utm_campaign=post&utm_medium=email)
