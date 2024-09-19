@@ -14,13 +14,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. A student was good enough to point out that I've been unclear. We don't really have a Shared Google Drive, but instead a Shared Folder in your My Drive, called **431 Fall 2024 Students and Dr Love**. I am sorry about that.
-2. Student Videos introducing themselves (from Lab 1, task 5) are now available for you to watch (as you like) in the **Student Introductory Videos** subfolder of our Shared Google Drive folder.
-3. Feedback on the Minute Paper after Class 07 [is available now](https://bit.ly/431-2024-min-07-feedback). Grades on the 431 Student Grade Roster in our Shared Google Drive folder are up to date, as well.
+1. Thursday TA office hours will now be held from 9:00 to 10:30 PM, instead of 7:30 to 9 PM. Sorry for the change.
+2. A student was good enough to point out that I've been unclear. We don't really have a Shared Google Drive, but instead a Shared Folder in your My Drive, called **431 Fall 2024 Students and Dr Love**. I am sorry about that.
+3. Student Videos introducing themselves (from Lab 1, task 5) are now available for you to watch (as you like) in the **Student Introductory Videos** subfolder of our Shared Google Drive folder.
+4. Feedback on the Minute Paper after Class 07 [is available now](https://bit.ly/431-2024-min-07-feedback). Grades on the 431 Student Grade Roster in our Shared Google Drive folder are up to date, as well.
     - Someone asked what you need to do to get full credit on a Minute Paper. To increase your chances, (1) get it in on time, and (2) Include something thoughtful (as a complete sentence, ideally) in your response, especially in response to the standard questions I ask every time (What was the most important thing, and what questions do you have for me.)
-4. The [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) is now available. This form is **optional**, and is used solely for you to ask me to review your grade on one or more of Labs 1-6. The form is due at the end of the semester - see the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) for the specific date and time.
+5. The [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) is now available. This form is **optional**, and is used solely for you to ask me to review your grade on one or more of Labs 1-6. The form is due at the end of the semester - see the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) for the specific date and time.
     - Details on the Lab Regrade policy [are found here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/README.md#lab-regrade-requests-will-be-reviewed-in-december). 
-5. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
+6. David Spiegelhalter's writing in [The Guardian](https://www.theguardian.com/profile/david-spiegelhalter) may be of interest to you.
 
 ---
 
