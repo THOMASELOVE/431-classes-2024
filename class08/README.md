@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Thursday TA office hours will now be held from 9:00 to 10:30 PM, instead of 7:30 to 9 PM. Sorry for the change.
+1. Effective tonight and for the rest of the semester, Thursday TA office hours will be held from 9:00 to 10:30 PM, instead of 7:30 to 9 PM. Sorry for the change.
 2. A student was good enough to point out that I've been unclear. We don't really have a Shared Google Drive, but instead a Shared Folder in your My Drive, called **431 Fall 2024 Students and Dr Love**. I am sorry about that.
 3. Student Videos introducing themselves (from Lab 1, task 5) are now available for you to watch (as you like) in the **Student Introductory Videos** subfolder of our Shared Google Drive folder.
 4. Feedback on the Minute Paper after Class 07 [is available now](https://bit.ly/431-2024-min-07-feedback). Grades on the 431 Student Grade Roster in our Shared Google Drive folder are up to date, as well.
