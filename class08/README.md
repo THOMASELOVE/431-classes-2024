@@ -29,11 +29,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 -
 -
 -
--
--
--
--
--
+
 
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/Sept_19_2024.png)
@@ -41,15 +37,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 -
 -
 -
--
--
--
--
--
-
-
-
-
 
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/R_keyboard.png)
@@ -77,10 +64,6 @@ I'm always delighted to see anyone I know at any show I do. Please do come if yo
 
 2024-09-18/2024-09-19 Presidential Election Forecasts: Snapshots
 
-- <https://www.racetothewh.com/president/2024> (Race To the White House)
-
-![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/race_to_the_white_house.png)
-
 - <https://projects.fivethirtyeight.com/2024-election-forecast/> (FiveThirtyEight)
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/fivethirtyeight.png)
@@ -100,6 +83,10 @@ I'm always delighted to see anyone I know at any show I do. Please do come if yo
 - <https://projects.jhkforecasts.com/2024/president/#standard> (JHK Forecasts)
 
 ![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/jhkforecasts.png)
+
+- <https://www.racetothewh.com/president/2024> (Race To the White House)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class08/2024-09-18/race_to_the_white_house.png)
 
 - <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model> (Silver Bulletin: pay wall for image shown here)
 
