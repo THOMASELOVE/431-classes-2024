@@ -2,7 +2,7 @@
 
 ## First Movie all of you have seen from [Our List](movie1ist.md)
 
-Code | Group | Members | First Movie on [Our List](movie1ist.md) <br /> They've All Seen
+Team | Group | Members | First Movie on [Our List](movie1ist.md) <br /> They've All Seen
 --: | :----------------: | :---: | :------------------------:
 1 | Something Cool and Unique | 4 | M-001 [3 Idiots](https://www.imdb.com/title/tt1187043/)
 2 | A Name You'll Remember | 6 | M-009 [Avatar](https://www.imdb.com/title/tt0499549/)
@@ -26,7 +26,7 @@ Code | Group | Members | First Movie on [Our List](movie1ist.md) <br /> They've 
 
 ## Proposed Research Questions `Verbatim`
 
-Question (as listed *verbatim*) | Variables (as listed) | Code
+Question (as listed *verbatim*) | Variables (*verbatim*) | Team
 :---------------------------------------------- | :------------------------------ | :-:
 Is an increase in number of IMDB star ratings related to an increase in IMDB rating? | imdb_stars, imdb_ratings | 2
 Does Sci-Fi have better weight average ratings then action? | imdb_stars , imdb_categories  | 5
