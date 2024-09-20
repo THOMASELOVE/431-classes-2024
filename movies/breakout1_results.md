@@ -26,7 +26,7 @@ Code | Group | Members | First Movie on [Our List](movie1ist.md) <br /> They've 
 
 ## Proposed Research Questions `Verbatim`
 
-Question | Variables | Code
+Question (as listed *verbatim*) | Variables (as listed) | Code
 :---------------------------------------------- | :------------------------------ | :-:
 Is an increase in number of IMDB star ratings related to an increase in IMDB rating? | imdb_stars, imdb_ratings | 2
 Does Sci-Fi have better weight average ratings then action? | imdb_stars , imdb_categories  | 5
