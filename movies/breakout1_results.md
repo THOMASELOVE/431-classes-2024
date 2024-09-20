@@ -1,7 +1,7 @@
 # Results of "Favorite Movies" Breakout 1
 
 Group | Members | [First Movie on List](movie1ist.md) You've All Seen
-:----------------: | ---: | :------------------------
+:----------------: | :---: | :------------------------:
 Something Cool and Unique | 4 | M-001 [3 Idiots](https://www.imdb.com/title/tt1187043/)
 A Name You'll Remember | 6 | M-009 [Avatar](https://www.imdb.com/title/tt0499549/)
 P B & J | 4 | M-009 [Avatar](https://www.imdb.com/title/tt0499549/)
