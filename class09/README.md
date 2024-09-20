@@ -14,4 +14,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
 
-## More to come.
+## Announcements
+
+1. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$.
+2. Lots of good questions on Campuswire this week. Thanks!
+3. More to come.
