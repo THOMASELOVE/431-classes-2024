@@ -18,4 +18,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$.
 2. Lots of good questions on Campuswire this week. Thanks!
-3. More to come.
+3. In Project A,
+    - the only things that really ought be factors are the `state` variable and the binary version of your Analysis 2 outcome.
+    - you should be using `droplevels()` (which drops unused levels from all factors) once you have an otherwise clean `chr_2024`, and before you save the .Rds file.
+    - you should review the general tips [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for Labs and Project work.
+4. More to come.
