@@ -30,11 +30,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The resulting HTML document will have 14 sections. Be sure they all appear in your Table of Contents, and that the links in that Table of Contents work.
     - If you are working with a partner, **exactly one** of you should submit the materials to [Canvas](https://canvas.case.edu), and the **other partner** should submit a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan". This, too, is due by Wednesday at noon.
 7. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
+8. **More to come**.
 
 ## Favorite Movies
 
 ## Creating the NHANES (`nh1500`) Example
 
 ## One Last Thing
+
+![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
 
 
