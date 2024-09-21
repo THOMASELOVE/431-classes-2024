@@ -8,3 +8,8 @@ On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a dat
 ## Breakout Session 1
 
 - Here's our [first breakout activity](breakout1.md), which we will go through in Class 08 (2024-09-19).
+- Here's some [results of that first breakout](breakout1_results.md) which may be of interest to you. We'll discuss them, along with some more statistical results, in Class 09 (2024-09-24).
+
+## Breakout Session 2
+
+Coming soon.
