@@ -9,7 +9,7 @@
 - `mpa` (MPA rating of movie)
 - `year` (year movie was released)
 
-## Your Research Questions
+## Your Research Questions and My Efforts to Clean Them Up
 
 - Dr. Love's suggested versions of your questions are **shown in bold**.
 - Questions *in italics* are taken verbatim from your submissions.
