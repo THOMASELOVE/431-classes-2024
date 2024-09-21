@@ -34,6 +34,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Favorite Movies
 
+I have prepared two sets of results for you from the first Movie Breakout Activity.
+
+1. [At this link](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout1_results.md), you will find some detailed feedback on the research questions you suggested, as well as a table of the first movie all members of each of the ten groups said they had seen.
+2. For more statistical results addressing some of the questions posed, see the Class 09 Slides.
+
+-----------
+
 ## Creating the NHANES (`nh1500`) Example
 
 ## One Last Thing
