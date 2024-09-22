@@ -30,18 +30,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The resulting HTML document will have 14 sections. Be sure they all appear in your Table of Contents, and that the links in that Table of Contents work.
     - If you are working with a partner, **exactly one** of you should submit the materials to [Canvas](https://canvas.case.edu), and the **other partner** should submit a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan". This, too, is due by Wednesday at noon.
 7. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
-8. **More to come**.
+8. Today's slides will be used in Class 09 and Class 10.
 
 ## Favorite Movies
 
 I have prepared two sets of results for you from the first Movie Breakout Activity.
 
 1. [At this link](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout1_results.md), you will find some detailed feedback on the research questions you suggested, as well as a table of the first movie all members of each of the ten groups said they had seen.
-2. For more statistical results addressing some of the questions posed, see the Class 09 Slides.
+2. For more statistical results addressing some of the questions posed, see the Slides for Classes 09 and 10.
 
 -----------
-
-## Creating the NHANES (`nh1500`) Example
 
 ## One Last Thing
 
