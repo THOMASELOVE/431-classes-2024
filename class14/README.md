@@ -12,4 +12,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 14 | 2024-10-10 | **[Slides 14](https://thomaselove.github.io/431-slides-2024/class14.html)** | **[Word 14](https://thomaselove.github.io/431-slides-2024/class14w.docx)** | **[Code 14](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class14.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
+
 ## More to come.
