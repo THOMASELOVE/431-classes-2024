@@ -43,5 +43,8 @@ I have prepared two sets of results for you from the first Movie Breakout Activi
 
 ## One Last Thing
 
+We'll visit [Political leanings of first and last names](https://flowingdata.com/2024/09/20/political-leanings-of-first-and-last-names/)) at <https://flowingdata.com/>.
 
+- You can read the *Washington Post* article at [this link](https://www.washingtonpost.com/business/2024/09/13/popular-names-republican-democrat/)
 
+![](wapo_2024-09-13.png)
