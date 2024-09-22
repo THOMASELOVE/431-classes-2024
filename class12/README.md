@@ -12,4 +12,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 12 | 2024-10-03 | **[Slides 12](https://thomaselove.github.io/431-slides-2024/class12.html)** | **[Word 12](https://thomaselove.github.io/431-slides-2024/class12w.docx)** | **[Code 12](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
+
 ## More to come.
