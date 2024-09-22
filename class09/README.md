@@ -10,7 +10,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-09 | 2024-09-24 | **[Slides 09](https://thomaselove.github.io/431-slides-2024/class09.html)** | **[Word 09](https://thomaselove.github.io/431-slides-2024/class09w.docx)** | **[Code 09](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+09 | 2024-09-24 | **[Slides 09/10](https://thomaselove.github.io/431-slides-2024/class09.html)** | **[Word 09/10](https://thomaselove.github.io/431-slides-2024/class09w.docx)** | **[Code 09/10](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class09.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
 
