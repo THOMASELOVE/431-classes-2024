@@ -30,7 +30,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The resulting HTML document will have 14 sections. Be sure they all appear in your Table of Contents, and that the links in that Table of Contents work.
     - If you are working with a partner, **exactly one** of you should submit the materials to [Canvas](https://canvas.case.edu), and the **other partner** should submit a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan". This, too, is due by Wednesday at noon.
 7. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
-8. Today's slides will be used in Class 09 and Class 10.
+8. Chapters 1-15 in the [Course Book](https://thomaselove.github.io/431-book/) are now ready for your review. We'll start working on material from Chapters 13-14 next week. Note that Chapter 15 isn't happening this Fall - I'll put my efforts instead into the slides where I discuss that material, for classes 13 and 14.
+9. Today's slides will be used in Class 09 and Class 10.
 
 ## Favorite Movies
 
