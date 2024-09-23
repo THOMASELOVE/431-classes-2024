@@ -25,13 +25,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - the only things that really ought be factors are the `state` variable and the binary version of your Analysis 2 outcome.
     - you should be using `droplevels()` (which drops unused levels from all factors) once you have an otherwise clean `chr_2024`, and before you save the .Rds file.
     - you should review the general tips [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for Labs and Project work.
-6. Please don't forget to submit all **three** necessary parts of the Project A Plan to [Canvas](https://canvas.case.edu) by Wednesday at noon.
+6. A sample plan for Project A [is now available](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024). We'll look at **section 10.4** in class, in particular.
+7. Please don't forget to submit all **three** necessary parts of the Project A Plan to [Canvas](https://canvas.case.edu) by Wednesday at noon.
     - The three parts are (1) the analytic tibble (.Rds file), (2) your Quarto (.qmd file), and (3) your HTML result of rendering your Quarto file.
     - The resulting HTML document will have 14 sections. Be sure they all appear in your Table of Contents, and that the links in that Table of Contents work.
     - If you are working with a partner, **exactly one** of you should submit the materials to [Canvas](https://canvas.case.edu), and the **other partner** should submit a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan". This, too, is due by Wednesday at noon.
-7. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
-8. Chapters 1-15 in the [Course Book](https://thomaselove.github.io/431-book/) are now ready for your review. We'll start working on material from Chapters 13-14 next week. Note that Chapter 15 isn't happening this Fall - I'll put my efforts instead into the slides where I discuss that material, for classes 13 and 14.
-9. Today's slides will be used in Class 09 and Class 10.
+8. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
+9. Chapters 1-15 in the [Course Book](https://thomaselove.github.io/431-book/) are now ready for your review. We'll start working on material from Chapters 13-14 next week. Note that Chapter 15 isn't happening this Fall - I'll put my efforts instead into the slides where I discuss that material, for classes 13 and 14.
+10. Today's slides will be used in Class 09 and Class 10.
 
 ## Favorite Movies
 
