@@ -33,7 +33,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - you should review the general tips [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for Labs and Project work.
 2. A [sample plan for Project A](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024) is now available.
     - We'll look at **section 10.4** in class, in particular. See my note (#71) on Campuswire about this, as well, if you like.
-3. Here is a list of [the 17 elements we'll be reviewing](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/plan_checklist.md) in your Project A Plans.
+3. Here is a list of [the 17 elements TAs and I will be reviewing](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/plan_checklist.md) in your Project A Plans.
     - The bottom of the list (after element Q) includes some general comments about how ACCEPT/REDO decisions will be made, and the impact of those decisions on your grade.
 4. Please don't forget to submit all **three** necessary parts of the Project A Plan to [Canvas](https://canvas.case.edu) by Wednesday at noon.
     - The three parts are (1) the analytic tibble (.Rds file), (2) your Quarto (.qmd file), and (3) your HTML result of rendering your Quarto file.
