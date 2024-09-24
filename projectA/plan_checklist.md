@@ -105,7 +105,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 1. We would prefer that this indicates that R version 4.4.1. is used. If you cannot use R 4.4.1, you should describe a meaningful reason to us here.
 2. We’re OK with either the xfun or sessioninfo package’s session information function.
 
-### Element Q. (Misceallaneous)
+### Element Q. (Miscellaneous)
 
 1. There are no more than 2 spelling, typographical or grammatical errors in the document as a whole that we catch. Please run a spell check by hitting F7 on your Quarto before rendering it a final time, and then look at your HTML file to see if any of the headings, graphs or other elements look strange or don’t show up.
 2. No package is loaded outside of Section 1.
@@ -128,7 +128,7 @@ REDO means you’ll need to fix the problems we’ve identified (plus make sure 
 
 For the first attempt, the TAs and Dr. Love will review the **17** elements listed above and identify each as either successfully completed or not successfully completed. 
 
-- If a project has not successfully completed more than two of the 17 elements, we will tell you which elements (from the list of 17 above) were not successfully completed, and require a REDO before Dr. Love takes a look at the complete plan.
+- If a project has not successfully completed three or more of the 17 elements, we will tell you which elements (from the list of 17 above) were not successfully completed, and require a REDO before Dr. Love takes a look at the complete plan.
 - If a project has not successfully completed 0, 1 or 2 of the elements below, Dr. Love will briefly review the entire Project A Plan and make a final ACCEPT or REDO decision.
 
 For the second (and any additional) attempts, Dr. Love will review the entire Plan to ensure that it now meets the standard, including but not limited to all issues previously identified when the REDO was requested. 
