@@ -8,7 +8,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 
 ### Element A. The complete Project A Plan is submitted on time.
 
-1. On time for this evaluation was Noon on 2024-09-25. If it's more than one hour late, it will be reviewed later than those received on time, and penalized at least three points out of the 20 available.
+1. On time for this evaluation was Noon on 2024-09-25. If it's 1-24 hours late, it will be reviewed later than those received on time, and penalized for lateness.
 2. If you worked with a partner, both names are shown as authors in the HTML. Exactly one of you has submitted the materials to Canvas, while the other partner has submitted a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan."
 3. The R data set (analytic tibble), Quarto (.qmd) file, and HTML result are all present in the submission to Canvas.
 4. The Quarto file produces the HTML file without errors when we run it. (Note: warnings or messages are OK, but it has to work.)
