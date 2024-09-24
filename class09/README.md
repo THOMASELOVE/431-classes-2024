@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. The answer sketch for Lab 2 is available in our Shared Drive folder, and Lab 2 grades and feedback on Lab 2 are posted to the Student Grade Roster in our Shared Drive folder, too.
     - For one student, we had a problem on our end with Task 3, and we'll get a grade and comments posted on that **soon**.
-2. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$.
+2. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$, or `$\geq$, which is $\geq$.
     - Check out the bottom of [this page](https://www.overleaf.com/learn/latex/Mathematical_expressions) for a brief reference guide and links to learn more.
 3. Lots of good questions [on Campuswire](https://campuswire.com/) this week. Thanks!
 4. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
