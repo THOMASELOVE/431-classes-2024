@@ -31,7 +31,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - the only things that really ought be factors are the `state` variable and the binary version of your Analysis 2 outcome.
     - you should be using `droplevels()` (which drops unused levels from all factors) once you have an otherwise clean `chr_2024`, and before you save the .Rds file.
     - you should review the general tips [posted here](https://github.com/THOMASELOVE/431-labs-2024/blob/main/tips.md) for Labs and Project work.
-2. A sample plan for Project A [is now available](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024).
+2. A [sample plan for Project A](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024) is now available.
     - We'll look at **section 10.4** in class, in particular. See my note (#71) on Campuswire about this, as well, if you like.
 3. Please don't forget to submit all **three** necessary parts of the Project A Plan to [Canvas](https://canvas.case.edu) by Wednesday at noon.
     - The three parts are (1) the analytic tibble (.Rds file), (2) your Quarto (.qmd file), and (3) your HTML result of rendering your Quarto file.
