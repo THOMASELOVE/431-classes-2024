@@ -1,34 +1,6 @@
 # Project A Plan Checklist for Fall 2024
 
-## Grading: ACCEPT or REDO
-
-Dr. Love and the TAs will review your proposal as quickly as possible and either ACCEPT it or ask for a REDO.
-
-ACCEPT means you’re done, and should move on the rest of Project A, perhaps while making some small changes that we request of you in your submission on Canvas.
-
-- To receive an ACCEPT, you must meet the [Project A Plan specifications listed here](https://thomaselove.github.io/431-projectA-2024/plan.html), and pass through the review procedure listed below.
-
-REDO means you’ll need to fix the problems we’ve identified (plus make sure you’ve done all of the things that we're checking in the review procedure) and resubmit by the deadline we give you, which will require a rapid turnaround.
-
-## Review Procedure
-
-For the first attempt, the TAs and Dr. Love will review the **XX** elements listed below and identify each as either successfully completed or not successfully completed. 
-
-- If a project has not successfully completed more than two of the elements listed below, we will require a REDO before Dr. Love takes a look at the complete plan.
-- If a project has not successfully completed 0, 1 or 2 of the elements below, Dr. Love will briefly review the entire Project A Plan and make a final ACCEPT or REDO decision.
-
-For the second (and any additional) attempts, Dr. Love will review the entire Plan to ensure that it now meets the standard, including but not limited to all issues previously identified when the REDO was requested. 
-
-- If your Plan is accepted on the initial submission and was on time, you’ll receive 20 points.
-- If your Plan is accepted on the first REDO (submission 2), you’ll receive 18 points out of a possible 20.
-- If your Plan is accepted on the second or third REDO (submissions 3 or 4) or later, you’ll receive 16 points out of a possible 20.
-- We hope we won’t have to go further than 2 revisions for anyone.
-
-If you don’t have some feature that we "prefer" but doesn’t alone require a REDO, we may mention this in our ACCEPT feedback and ask you to fix it in your Project A Portfolio.
-
-- See [the Sample Plan for an example](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024) of what we're looking for, as needed
-- 
-## Review Elements for Project A
+## Our 17 Review Elements for Project A Plan
 
 What will we look for in order to ACCEPT the Project A Plan, rather than require a REDO? **17 things**.
 
@@ -48,7 +20,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 3. The title (without the subtitle) describes the work effectively on its own.
 4. The author(s) name(s) appears in the HTML correctly.
 5. The date is properly formatted (as, for instance, 2024-09-24) under the word PUBLISHED or MODIFIED in the HTML.
-6. There is a table of contents which appears in the HTML and has exactly 14 sections, whose names match those used in the Proposal Template. 
+6. There is a table of contents which appears in the HTML and has exactly 14 sections, whose names match those used in the Project A Plan Template. 
 
 ### Element C. (Plan Section 1. R Packages)
 
@@ -128,7 +100,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 3. Your proposed research question for each Analysis matches the task for that Analysis.
 4. You have included a statement about your pre-data analysis belief about what will happen for Analysis 1, at least.
 
-### Element O (Plan Section 13: Proposal Reflection)
+### Element O (Plan Section 13: Plan Reflection)
 
 1. Your reflection is a paragraph describing the most challenging (or difficult) part of completing the work so far, and how you were able to overcome whatever it was that was most challenging.
 2. Your paragraph is written in strong and clear English sentences, with attention paid to grammar, syntax and spelling. 
@@ -143,5 +115,31 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 
 There are no more than 2 spelling, typographical or grammatical errors in the document as a whole that we catch. Please run a spell check by hitting F7 on your Quarto before rendering it a final time, and then look at your HTML file to see if any of the headings, graphs or other elements look strange or don’t show up.
 
-## Again, see [the Sample Plan for an example](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024) of what we're looking for, as needed
+## Grading: ACCEPT or REDO
 
+Dr. Love and the TAs will review your Plan as quickly as possible and either ACCEPT it or ask for a REDO.
+
+ACCEPT means you’re done, and should move on the rest of Project A, perhaps while making some small changes that we request of you in your submission on Canvas.
+
+- To receive an ACCEPT, you must meet the [Project A Plan specifications listed here](https://thomaselove.github.io/431-projectA-2024/plan.html), and pass through the 17-element review procedure listed above.
+
+REDO means you’ll need to fix the problems we’ve identified (plus make sure you’ve done all of the 17 elements that we're checking in the review procedure) and resubmit by the deadline we give you, which will require a rapid turnaround.
+
+## Review Procedure
+
+For the first attempt, the TAs and Dr. Love will review the **17** elements listed above and identify each as either successfully completed or not successfully completed. 
+
+- If a project has not successfully completed more than two of the 17 elements, we will tell you which elements (from the list of 17 above) were not successfully completed, and require a REDO before Dr. Love takes a look at the complete plan.
+- If a project has not successfully completed 0, 1 or 2 of the elements below, Dr. Love will briefly review the entire Project A Plan and make a final ACCEPT or REDO decision.
+
+For the second (and any additional) attempts, Dr. Love will review the entire Plan to ensure that it now meets the standard, including but not limited to all issues previously identified when the REDO was requested. 
+
+- If your Plan is accepted on the initial submission and was on time, you’ll receive 20 points.
+- If your Plan is accepted on the first REDO (submission 2), you’ll receive 18 points out of a possible 20.
+- If your Plan is accepted on the second or third REDO (submissions 3 or 4) or later, you’ll receive 16 points out of a possible 20.
+- We hope we won’t have to go further than 2 revisions for anyone.
+
+If you don’t have some feature that we "prefer" but doesn’t alone require a REDO, we may mention this in our ACCEPT feedback and ask you to fix it in your Project A Portfolio.
+
+- See [the Sample Plan for an example](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024) of what we're looking for, as needed
+ 
