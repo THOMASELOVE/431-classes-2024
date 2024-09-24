@@ -8,7 +8,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 
 ### Element A. The complete Project A Plan is submitted on time.
 
-1. On time for this evaluation was Noon on 2023-10-03. If it's more than one hour late, it will be reviewed later than those received on time, and penalized at least three points out of the 20 available.
+1. On time for this evaluation was Noon on 2024-09-25. If it's more than one hour late, it will be reviewed later than those received on time, and penalized at least three points out of the 20 available.
 2. If you worked with a partner, both names are shown as authors in the HTML. Exactly one of you has submitted the materials to Canvas, while the other partner has submitted a text document (Word or PDF is fine) to Canvas that reads: "My name is [YOUR NAME]. I am working on Project A with [INSERT FULL NAME OF YOUR PARTNER], and they will submit the materials for the Plan."
 3. The R data set (analytic tibble), Quarto (.qmd) file, and HTML result are all present in the submission to Canvas.
 4. The Quarto file produces the HTML file without errors when we run it. (Note: warnings or messages are OK, but it has to work.)
@@ -53,13 +53,13 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 ### Element G. (Plan Section 5: Variable Cleaning and Renaming)
 
 1. You have followed the instructions in [Data Task 3](https://thomaselove.github.io/431-projectA-2024/data.html#clean-and-rename-your-selected-variables) to complete appropriate cleaning of each variable that needs it, and replacement of the initial versions of these variables with your cleaned alternative.
-2. You have clearly indicated in Section 5 what role each outcome will play, and its initial name (from CHR 2024) along with its new name and description. (https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024).
-3. You have clearly indicated what your code is doing in this section, in an English sentence or two. See [the Sample Plan for an example](https://rpubs.com/TELOVE/ProjectA-sample-plan-431-2024).
+2. You have clearly indicated in Section 5 what role each outcome will play, and its initial name (from CHR 2024) along with its new name and description.
+3. You have clearly indicated what your code is doing in this section, in an English sentence or two.
 
 ### Element H. (Plan Section 6: Creating the Analysis 2 Predictor)
 
 1. You have followed the instructions in [Data Task 4](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-4.-create-a-factor-for-the-analysis-2-predictor) to develop the binary factor you will use as your Analysis 2 predictor.
-2. You have clearly identified the variable being used, and described the exact cutpoints you used to create the low and high groups in one or two complete English sentences.
+2. You have clearly identified the variable being used, and described the exact cut points you used to create the low and high groups in one or two complete English sentences.
 3. You demonstrate using code that approximately 40% of your observations are in the low group and 40% are in the high group, with missing results for the middle 20%. 
 
 ### Element I. (Plan Section 7: Adding CHR 2019 Data for the Analysis 3 Outcome)
@@ -86,7 +86,7 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 1. In section 10.1, you've run code successfully to do [what is asked of you](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.1-table-of-states-by-binary-factor) (Table of States by Binary Factor). In particular, you've used `tabyl()` properly, and show row and column marginal totals, including for missing values of your binary predictor. Explanatory text is welcome but not required in this section.
 2. In section 10.2, you've run `describe_distribution()` properly on the entire tibble, [as asked of you](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.2-describe_distribution-results). Explanatory text is welcome but not required in this section.
 3. In section 10.3, you've run `data_codebook()` properly on the whole data set, using the settings `max_values = 6, range_at = 15)` without any errors or warnings happening, [as requested](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.3-data_codebook-results). You then include at least one English sentence to verify the issues described there, specifically regarding whether the minimum and maximum values of the quantitative data elements make sense, and that the amount of missingness meets [our requirements](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.3-data_codebook-results) for each variable.
-4. In section 10.4, you've provided counts of distinct values, [as requested](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.4-distinct-values) and we can see the results for all eleven variables. You also have a sentence or two showing that the checks of distinct `fipscodes` and at least 15 unique values for each of the outcomes and the quantitative predictor exist.
+4. In section 10.4, you've provided counts of distinct values, [as requested](https://thomaselove.github.io/431-projectA-2024/plan.html#section-10.4-distinct-values) and we can see the results for all eleven variables. You also have a sentence or two showing that the checks of distinct `fipscode`s (a unique code for each row) and at least 15 unique values for each of the outcomes and the quantitative predictor exist.
 
 ### Element M. (Plan Section 11: The Codebook)
 
