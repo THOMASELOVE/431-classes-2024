@@ -16,14 +16,14 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The answer sketch for Lab 2 is available in the Lab Answer Sketches section of our Shared Drive folder.
-2. Grades and feedback on Lab 2 should be posted **by class time**.
-3. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$.
+1. The answer sketch for Lab 2 is available in our Shared Drive folder, and Lab 2 grades and feedback on Lab 2 are posted to the Student Grade Roster in our Shared Drive folder, too.
+    - For one student, we had a problem on our end with Task 3, and we'll get a grade and comments posted on that **soon**.
+2. You can use [LaTeX commands within Quarto](https://quarto.org/docs/visual-editor/technical.html). Just enclose them in dollar signs, like `$\leq$`, which produces $\leq$.
     - Check out the bottom of [this page](https://www.overleaf.com/learn/latex/Mathematical_expressions) for a brief reference guide and links to learn more.
-4. Lots of good questions [on Campuswire](https://campuswire.com/) this week. Thanks!
-5. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
-6. Chapters 1-15 in the [Course Book](https://thomaselove.github.io/431-book/) are now ready for your review. We'll start working on material from Chapters 13-14 next week. Note that Chapter 15 isn't happening this Fall - I'll put my efforts instead into the slides where I discuss that material, for classes 13 and 14.
-7. Today's slides will be used in Class 09 and Class 10.
+3. Lots of good questions [on Campuswire](https://campuswire.com/) this week. Thanks!
+4. There is no Minute Paper this week. The next [Minute Paper will follow Class 11](https://github.com/THOMASELOVE/431-minute-2024).
+5. Chapters 1-15 in the [Course Book](https://thomaselove.github.io/431-book/) are now ready for your review. We'll start working on material from Chapters 13-14 next week. Note that Chapter 15 isn't happening this Fall - I'll put my efforts instead into the slides where I discuss that material, for classes 13 and 14. I also cleaned up some equations that were on top of each other in the Task 1 discussion in Section 7  thanks to an alert student.
+6. Today's slides will be used in Class 09 and Class 10.
 
 ## Project A reminders/information
 
