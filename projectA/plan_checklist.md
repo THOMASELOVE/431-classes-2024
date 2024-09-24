@@ -20,22 +20,20 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 3. The title (without the subtitle) describes the work effectively on its own.
 4. The author(s) name(s) appears in the HTML correctly.
 5. The date is properly formatted (as, for instance, 2024-09-24) under the word PUBLISHED or MODIFIED in the HTML.
-6. There is a table of contents which appears in the HTML and has exactly 14 sections, whose names match those used in the Project A Plan Template. 
+6. There is a table of contents which appears in the HTML and has exactly 14 sections, whose names match those used in the Project A Plan Template.
+7. When we click on the table of contents in the HTML to visit the session information (Section 14), it works. 
 
 ### Element C. (Plan Section 1. R Packages)
 
 1. The janitor, naniar, easystats and tidyverse packages and perhaps other packages are loaded with `library()` as part of section 1, with the tidyverse loaded last.
 2. No packages in the core tidyverse (all of which load with library(tidyverse)) are loaded separately. The core tidyverse packages are dplyr, ggplot2, tidyr, readr, purrr, tibble, stringr and forcats.
 3. No package is loaded more than once.
-4. No package is loaded outside of Section 1.
-5. `#| message: false` is used in the code chunk for Section 1 so that all messages associated with package loading are silenced.
+4. `#| message: false` is used in the code chunk for Section 1 so that all messages associated with package loading are silenced.
 
 ### Element D. (Plan Section 2. Data Ingest)
 
 1. The data should be ingested into `chr_2024_raw` using `read_csv()` and thus creating a tibble, while eliminating the correct row, as described in [Data Task 1 from the Data page](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-1.-ingest-the-raw-data).
-2. No non-tibble data frame should ever be printed in Project A. 
-3. No tibble should be printed anywhere other than in [Plan Section 9](https://thomaselove.github.io/431-projectA-2024/plan.html#section-9.-print-the-tibble).
-4. The `chr_2024_raw` tibble is then filtered to the ranked counties properly, and the resulting tibble should display 3088 rows and 90 columns (we suggest using the dim() function to verify that this is true.)
+2. The `chr_2024_raw` tibble is then filtered to the ranked counties properly, and the resulting tibble should display 3088 rows and 90 columns (we suggest using the dim() function to verify that this is true.)
 
 ### Element E. (Plan Section 3: State Selection)
 
@@ -46,15 +44,13 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 
 ### Element F. (Plan Section 4: Variable Selection)
 
-1. You have followed the instructions in [Data Task 3](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-3.-select-analytic-variables) to develop code that identifies and selects nine variables, including the four that are required (fipscode, county, state and county_ranked), and five more (each of which are different) that you have selected.
+1. You have followed the instructions in [Data Task 3](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-3.-select-analytic-variables) to develop code that identifies and selects nine variables, including the four that are required (fipscode, county, state and county_clustered), and five more (each of which are different) that you have selected.
 2. All five of your selected variables are permitted for the use you're making of them, as specified in [Data Task 3 Table B](https://thomaselove.github.io/431-projectA-2024/data.html#table-b.-variables-you-can-select).
-3. You have clearly identified which variables you are selecting (in a sentence, not just code) in Section 4.
 
 ### Element G. (Plan Section 5: Variable Cleaning and Renaming)
 
 1. You have followed the instructions in [Data Task 3](https://thomaselove.github.io/431-projectA-2024/data.html#clean-and-rename-your-selected-variables) to complete appropriate cleaning of each variable that needs it, and replacement of the initial versions of these variables with your cleaned alternative.
 2. You have clearly indicated in Section 5 what role each outcome will play, and its initial name (from CHR 2024) along with its new name and description.
-3. You have clearly indicated what your code is doing in this section, in an English sentence or two.
 
 ### Element H. (Plan Section 6: Creating the Analysis 2 Predictor)
 
@@ -67,13 +63,11 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 1. You have followed the instructions in [Data Task 5](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-5.-add-data-from-chr-2019-for-your-analysis-3-outcome) to include the 2019 version of your Analysis 3 outcome in your tibble.
 2. You have used left_join() to join the files.
 3. You have renamed the two variables (2024 version and 2019 version) appropriately.
-4. You have one or more complete English sentences describing what your code is doing.
 
 ### Element J. (Plan Section 8: Arranging and Saving the Analytic Tibble)
 
 1. You have arranged the variables in the order specified in [Data Task 6](https://thomaselove.github.io/431-projectA-2024/data.html#data-task-6.-re-order-variables-and-save-the-final-chr_2024-tibble).
 2. The resulting Rds file is saved to a file called `chr_2024_YOURNAME.Rds` where your name is substituted in for YOURNAME, and which is part of your Canvas submission.
-3. You make no changes to the tibble after Section 8.
 
 ### Element K. (Plan Section 9: Print the Tibble)
 
@@ -111,9 +105,14 @@ What will we look for in order to ACCEPT the Project A Plan, rather than require
 1. We would prefer that this indicates that R version 4.4.1. is used. If you cannot use R 4.4.1, you should describe a meaningful reason to us here.
 2. We’re OK with either the xfun or sessioninfo package’s session information function.
 
-### Element Q. (Spelling, Typos, Grammar)
+### Element Q. (Misceallaneous)
 
-There are no more than 2 spelling, typographical or grammatical errors in the document as a whole that we catch. Please run a spell check by hitting F7 on your Quarto before rendering it a final time, and then look at your HTML file to see if any of the headings, graphs or other elements look strange or don’t show up.
+1. There are no more than 2 spelling, typographical or grammatical errors in the document as a whole that we catch. Please run a spell check by hitting F7 on your Quarto before rendering it a final time, and then look at your HTML file to see if any of the headings, graphs or other elements look strange or don’t show up.
+2. No package is loaded outside of Section 1.
+3. No non-tibble data frame should ever be printed in Project A. 
+4. No tibble should be printed anywhere other than in [Plan Section 9](https://thomaselove.github.io/431-projectA-2024/plan.html#section-9.-print-the-tibble).
+5. You make no changes to the tibble after Section 8.
+
 
 ## Grading: ACCEPT or REDO
 
