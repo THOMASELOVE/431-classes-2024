@@ -131,6 +131,8 @@ For the first attempt, the TAs and Dr. Love will review the **17** elements list
 - If a project has not successfully completed three or more of the 17 elements, we will tell you which elements (from the list of 17 above) were not successfully completed, and require a REDO before Dr. Love takes a look at the complete plan.
 - If a project has not successfully completed 0, 1 or 2 of the elements below, Dr. Love will briefly review the entire Project A Plan and make a final ACCEPT or REDO decision.
 
+Our Aim is to get this back to you by Monday morning 2024-09-30, with a deadline for your revision of noon Wednesday 2024-10-02.
+
 For the second (and any additional) attempts, Dr. Love will review the entire Plan to ensure that it now meets the standard, including but not limited to all issues previously identified when the REDO was requested. 
 
 - If your Plan is accepted on the initial submission and was on time, you’ll receive 20 points.
