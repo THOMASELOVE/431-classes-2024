@@ -1,6 +1,6 @@
 # Project A Teams
 
-as of 2024-09-25 10:35 AM
+as of 2024-09-25 11:02 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -12,6 +12,7 @@ Gabrielle Davis <br /> Carly DaCosta | Health Outcomes by Employment Status
 Aishwarya Deengar | Perceiving County Health Rankings via Environmental and Technological Predictors
 Jose Diz Ferre <br />  Reilly Burhanna | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Sleep and Education Association
+Leia George | Plan to Understand Various Health Indicators Across Selected States
 Monica Ghosh | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Analyzing Health Statistics Across Various States
@@ -42,7 +43,6 @@ Spancer Zhou | County Health Rankings 2024
 - Haley Altadonna
 - Sonny Caradonna
 - Shraddha Dumawat
-- Leia George
 - Paul Jones
 - Tom Kupferer
 - Weiyun Liang
