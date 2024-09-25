@@ -2,7 +2,7 @@
 
 as of 2024-09-25 9:00 AM
 
-Submitting Author | Partner (if applicable) | Project Title
+Submitting Author | Partner (if any) | Project Title
 :-----------------: | :-----------------: | :----------------------------------------------------------------------
 Saar Anis | - | Impact of Insufficient Sleep on Mental Health among Adults: CHR 2024 Data
 Brooke Bhattacharya | Veda Machiraju | -
