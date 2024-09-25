@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 36 projects submitted as of 2024-09-25 11:35 AM
+We have 39 projects submitted as of 2024-09-25 11:55 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -29,7 +29,7 @@ Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Acros
 Ajay Mahenthiran | ?
 Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Health Insights per County Health Rankings 2024
-Mohammad Nasirpour | ?
+Mohammad Nasirpour | Analyzing Health Outcomes Across Diverse U.S. States Using County Health Ranki ...
 Nick Nazak <br /> Rebecca Stinson | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Exploring the relationship between Mental Health Quality and Sleep
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
