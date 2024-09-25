@@ -1,6 +1,6 @@
 # Project A Teams
 
-as of 2024-09-25 11:35 AM
+We have 36 projects submitted as of 2024-09-25 11:35 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
