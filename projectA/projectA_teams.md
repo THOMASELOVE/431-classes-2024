@@ -1,6 +1,6 @@
 # Project A Teams
 
-as of 2024-09-25 11:02 AM
+as of 2024-09-25 11:35 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -19,11 +19,14 @@ Derek Host | Analyzing Health Statistics Across Various States
 Dana Jian | Exploring Health Trends Across U.S. Counties
 Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemploymen ...
 Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 Mid-West States
-Anika Krishna <br />  Madaline Witort | -
+Anika Krishna <br />  Madaline Witort | Association Between Selected Social Determinants of Health and Population He ...
 Harshita Kumar | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
+Tom Kupferer <br /> Shraddha Dumawat | Health Outcomes Among U.S. Counties
 Olivia Lindberg | CHR 2024 Midwest Analysis
 Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
+Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Health Insights per County Health Rankings 2024
+Nick Nazak <br /> Rebecca Stinson | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Exploring the relationship between Mental Health Quality and Sleep
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
 Katherine Papahadjoulos | Analyzing Health Outcomes Using 2024 County Health Rankings
@@ -42,13 +45,8 @@ Spancer Zhou | County Health Rankings 2024
 
 - Haley Altadonna
 - Sonny Caradonna
-- Shraddha Dumawat
 - Paul Jones
-- Tom Kupferer
 - Weiyun Liang
 - Ajay Mahenthiran
-- Morgan McLoughlin
 - Mohammad Nasirpour
-- Nick Nazak
-- Rebecca Stinson
 
