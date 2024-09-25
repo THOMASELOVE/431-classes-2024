@@ -4,6 +4,7 @@ We have 36 projects submitted as of 2024-09-25 11:35 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
+Haley Altadonna | Analyzing Health and Social Outcomes of U.S. Counties Using CHR Data
 Saar Anis | Impact of Insufficient Sleep on Mental Health among Adults: CHR 2024 Data
 Brooke Bhattacharya <br /> Veda Machiraju | Analysis of Health and Socioeconomic Disparities Across 320 U.S. Counties
 Kelly Bowen | Exploring the Link Between Air Pollution Exposure and Obesity in the CHR 2024
@@ -22,10 +23,13 @@ Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 
 Anika Krishna <br />  Madaline Witort | Association Between Selected Social Determinants of Health and Population He ...
 Harshita Kumar | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
 Tom Kupferer <br /> Shraddha Dumawat | Health Outcomes Among U.S. Counties
+Weiyun Liang | County Health Rankings, 2024
 Olivia Lindberg | CHR 2024 Midwest Analysis
 Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
+Ajay Mahenthiran | ?
 Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Health Insights per County Health Rankings 2024
+Mohammad Nasirpour | ?
 Nick Nazak <br /> Rebecca Stinson | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Exploring the relationship between Mental Health Quality and Sleep
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
@@ -43,10 +47,7 @@ Spancer Zhou | County Health Rankings 2024
 
 ## Unclear Status
 
-- Haley Altadonna
 - Sonny Caradonna
 - Paul Jones
-- Weiyun Liang
-- Ajay Mahenthiran
-- Mohammad Nasirpour
+
 
