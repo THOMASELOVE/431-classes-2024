@@ -1,6 +1,6 @@
 # Project A Teams
 
-as of 2024-09-25 10:15 AM
+as of 2024-09-25 10:35 AM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -16,9 +16,10 @@ Monica Ghosh | Investigation of the Relationship between Adult Obesity and House
 Alexis Heath | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Analyzing Health Statistics Across Various States
 Dana Jian | Exploring Health Trends Across U.S. Counties
-Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemployment...
+Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemploymen ...
 Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 Mid-West States
 Anika Krishna <br />  Madaline Witort | -
+Harshita Kumar | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
 Olivia Lindberg | CHR 2024 Midwest Analysis
 Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
 Nihit Mehta | Health Insights per County Health Rankings 2024
@@ -43,7 +44,6 @@ Spancer Zhou | County Health Rankings 2024
 - Shraddha Dumawat
 - Leia George
 - Paul Jones
-- Harshita Kumar
 - Tom Kupferer
 - Weiyun Liang
 - Ajay Mahenthiran
