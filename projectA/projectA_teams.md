@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 40 projects (out of what I think will be 42, finally) submitted as of 2024-09-25 12:45 PM
+We have 41 projects (out of what I think will be 42) submitted as of 2024-09-25 12:50 PM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -19,7 +19,7 @@ Monica Ghosh | Investigation of the Relationship between Adult Obesity and House
 Alexis Heath | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Analyzing Health Statistics Across Various States
 Dana Jian | Exploring Health Trends Across U.S. Counties
-Paul Jones | ?
+Paul Jones | Health and Socioeconomic Disparities Across States
 Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemploymen ...
 Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 Mid-West States
 Anika Krishna <br />  Madaline Witort | Association Between Selected Social Determinants of Health and Population He ...
