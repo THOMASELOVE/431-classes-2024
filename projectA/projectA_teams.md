@@ -1,11 +1,6 @@
 # Project A Teams
 
-## Unclear Status
-
-- Sonny Caradonna
-- Paul Jones
-
-We have 39 projects submitted as of 2024-09-25 12:05 PM
+We have 40 projects submitted as of 2024-09-25 12:05 PM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -13,6 +8,7 @@ Haley Altadonna | Analyzing Health and Social Outcomes of U.S. Counties Using CH
 Saar Anis | Impact of Insufficient Sleep on Mental Health among Adults: CHR 2024 Data
 Brooke Bhattacharya <br /> Veda Machiraju | Analysis of Health and Socioeconomic Disparities Across 320 U.S. Counties
 Kelly Bowen | Exploring the Link Between Air Pollution Exposure and Obesity in the CHR 2024
+Sonny Caradonna | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Health Outcomes by Employment Status
 Aishwarya Deengar | Perceiving County Health Rankings via Environmental and Technological Predictors
@@ -23,6 +19,7 @@ Monica Ghosh | Investigation of the Relationship between Adult Obesity and House
 Alexis Heath | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Analyzing Health Statistics Across Various States
 Dana Jian | Exploring Health Trends Across U.S. Counties
+Paul Jones | ?
 Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemploymen ...
 Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 Mid-West States
 Anika Krishna <br />  Madaline Witort | Association Between Selected Social Determinants of Health and Population He ...
