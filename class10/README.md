@@ -15,3 +15,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Here is a [list of Project A teams](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md), with titles.
+2. More to come.
