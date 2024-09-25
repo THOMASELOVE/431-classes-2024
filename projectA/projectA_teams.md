@@ -1,6 +1,11 @@
 # Project A Teams
 
-We have 39 projects submitted as of 2024-09-25 11:55 AM
+## Unclear Status
+
+- Sonny Caradonna
+- Paul Jones
+
+We have 39 projects submitted as of 2024-09-25 12:05 PM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -45,9 +50,5 @@ Megan Zelinsky | Rurality and Income Inequality as Predictors of Health Outcomes
 Isaac	Zeng | Analysis of Health and Risk Factors Across 6 U.S. States: OH, NY, CA, GA, LA, NJ
 Spancer Zhou | County Health Rankings 2024
 
-## Unclear Status
-
-- Sonny Caradonna
-- Paul Jones
 
 
