@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 41 projects (out of what I think will be 42) submitted as of 2024-09-25 12:50 PM
+We have 41 projects (of what will be 42) submitted as of 2024-09-25 12:50 PM
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
