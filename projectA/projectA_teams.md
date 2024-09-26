@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 41 projects (of what will be 42) submitted as of 2024-09-25 12:50 PM
+We have 42 projects.
 
 Submitting Author <br /> *Partner (if any)* |  Project Title
 :-----------------: | :----------------------------------------------------------------------
@@ -28,7 +28,7 @@ Tom Kupferer <br /> Shraddha Dumawat | Health Outcomes Among U.S. Counties
 Weiyun Liang | County Health Rankings, 2024
 Olivia Lindberg | CHR 2024 Midwest Analysis
 Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
-Ajay Mahenthiran | ?
+Ajay Mahenthiran | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Health Insights per County Health Rankings 2024
 Mohammad Nasirpour | Analyzing Health Outcomes Across Diverse U.S. States Using County Health Ranki ...
