@@ -15,5 +15,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Here is a [list of Project A teams](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md), with titles, along with some trivia.
+    - As of 11 AM, here's where I was with the projects.
+    - The TAs will be reviewing your Sections 12 (research questions) and 13 (reflection) between this evening and Sunday morning.
+    - I've reviewed everything else for 16 of the 41 projects submitted so far, and everything except Sections 6-8 and 10.1-10.2 for the other 25 projects.
+    - Everyone has something to address, but I don't know for some people yet whether that will require a revised plan, or just revisions as you put together your portfolio.
+    - We're on track for you to have our response back by Monday morning. Revised plans (if requested of you) will be due on Wednesday of next week, at noon.
 2. There is a new version available of RStudio, released Monday 2024-09-23. It's `Version: 2024.09.0+375`. Were I you, I would upgrade this weekend, probably by opening RStudio when connected to the internet and then following the prompts it gives you.
-3. More to come.
+
