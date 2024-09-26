@@ -21,9 +21,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Everyone has something to address, but I don't know for some people yet whether that will require a revised plan, or just revisions as you put together your portfolio.
     - We're on track for you to have our response back by Monday morning. Revised plans (if requested of you) will be due on Wednesday of next week, at noon.
 2. There is a new version available of RStudio, released Monday 2024-09-23. It's `Version: 2024.09.0+375`. Were I you, I would upgrade this weekend, probably by opening RStudio when connected to the internet and then following the prompts it gives you.
+3. We'll do our second breakout session related to the Favorite Movies on Tuesday, in class 11.
 
-## One Last Thing
+## Two Last Things
 
-Source: <https://www.nytimes.com/interactive/2024/us/elections/polls-president.html> from 2024-09-26 11 AM
+First, [Can you mastermind a US presidential campaign?](https://ig.ft.com/us-election-game/) is a game about the election from the *Financial Times*.
+
+The second item (below) is an illustration from the *New York Times* at <https://www.nytimes.com/interactive/2024/us/elections/polls-president.html> from 2024-09-26 11 AM
 
 ![](nyt_2024-09-26.png)
