@@ -15,4 +15,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. Here is a [list of Project A teams](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md), with titles.
-2. More to come.
+2. There is a new version available of RStudio, released Monday 2024-09-23. It's `Version: 2024.09.0+375`. Were I you, I would upgrade this weekend, probably by opening RStudio when connected to the internet and then following the prompts it gives you.
+3. More to come.
