@@ -12,4 +12,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 11 | 2024-10-01 | **[Slides 11](https://thomaselove.github.io/431-slides-2024/class11.html)** | **[Word 11](https://thomaselove.github.io/431-slides-2024/class11w.docx)** | **[Code 11](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class11.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+Today's Quote: "Statistics is the grammar of science" - Karl Pearson.
+
 ## More to come.
