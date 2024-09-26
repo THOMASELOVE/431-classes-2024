@@ -134,3 +134,34 @@ the decimal point follows the leaf; (minimum value = 210, maximum value = 390)
 39 | 0
 ```
 
+## Here's What Dr. Love has written about as of 11 AM 2024-09-26
+
+- Submitting Student Name, Partner Name (if applicable), Project Title (without subtitle)
+- Submission complete by Deadline (1 PM 2024-09-25)?, If there's a partner, has partner submitted the 1-page note?, Submission includes .qmd, .html and .Rds files?
+- Title doesn't include 431, Project A, or Plan?, Title is written without spelling or syntax errors?, Title Length is less than 80 characters?
+- Detailed Comments from Dr. Love on the Main Title (and in some cases, the subtitle, too)
+- Author(s) names appear correctly?, Date is formatted properly?
+- Table of contents has 14 sections with correct names?, Table of contents works when we check session info?
+- Loaded janitor, knitr, naniar, xfun, easystats and tidyverse?, Other packages loaded in Section 1?, Did they load Love-431.R?
+- Are messages in Section 1 silenced?
+- Used read_csv() to create chr_2024_raw?, chr_2024_raw filtered properly to 3088 rows, 90 columns?
+- Six states specified by postal code and name?, Clear sentence describing why states were chosen?
+- Filtered tibble contains 300-800 counties?
+- Selects 9 variables including required 4?, All variables are used in the way Table B permits?
+- Binary factor developed for the Analysis 2 predictor?, Binary factor cut points are clearly specified?, ~ 40% of data in Low and ~ 40% in High with 20% NA?
+- 2019 version added properly with left_join()?
+- Saved Rds file includes student name?
+- Printing of Tibble OK, and types of variables are correct?, In printed tibble, how many rows (should be 300-800)?, In printed tibble, how many columns (should be 11)?
+- Which six states did they choose, including OH?
+- Ran tabyl(state, binary factor) with marginal totals?, Ran describe_distribution() for all quantitative variables?, county_clustered shows all values to be 1 with no NA?
+- data_codebook() shows how many rows?, Sentence describing missingness, max and min values?
+- Can we see all 11 distinct values?, Sentence describing fipscode, quantity (>15) checks?
+- Sentence describes 300-800 counties and 11 variables at start of codebook?
+- Codebook includes all five necessary columns?
+- Analysis 1 outcome (vXXX), Analysis 1 predictor (vXXX), Analysis 2 outcome (vXXX), Analysis 2 predictor before binary factoring (vXXX), Analysis 3 variable (vXXX) used in 2024 and 2019
+- Session information is in place?, R version used (should be 4.4.1)?, Number of lines in the Quarto file
+- rows in submitted .Rds file (must be 300-800), columns in submitted .Rds file (must be 11)
+- Spell-check in Quarto reveals how many errors?
+- Misspellings We Caught
+- Miscellaneous Other Problems We Found
+
