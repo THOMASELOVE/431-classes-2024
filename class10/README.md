@@ -22,3 +22,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - We're on track for you to have our response back by Monday morning. Revised plans (if requested of you) will be due on Wednesday of next week, at noon.
 2. There is a new version available of RStudio, released Monday 2024-09-23. It's `Version: 2024.09.0+375`. Were I you, I would upgrade this weekend, probably by opening RStudio when connected to the internet and then following the prompts it gives you.
 
+## One Last Thing
+
+Source: <https://www.nytimes.com/interactive/2024/us/elections/polls-president.html> from 2024-09-26 11 AM
+
+![](nyt_2024-09-26.png)
