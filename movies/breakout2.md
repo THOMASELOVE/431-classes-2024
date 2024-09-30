@@ -4,7 +4,7 @@ I anticipate this will take place during Class 11 (2024-10-01).
 
 ## Your Task(s) for Today
 
-You'll have 20 minutes to accomplish the following tasks.
+You'll have 25 minutes to accomplish the following tasks.
 
 1. Form a group of 4-6 people. Come up with a name for your group that each of you will remember at our next class. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2024-movies-2>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
@@ -23,31 +23,38 @@ You'll have 20 minutes to accomplish the following tasks.
 
 ## The Variables Included In `movies_2024-10-01`
 
-The [current codebook is available here](https://github.com/THOMASELOVE/431-classes-2023/blob/main/movies/codebook1.md), and below for the data set called `movies_2023-09-14`, available on our Shared Drive.
+The current codebook for the data set called `movies_2024-10-01`, is listed below. A more detailed version is in the Variable Descriptions tab in the movies_2024-10-01 sheet available on our Shared Drive.
 
-Variable | Description
----------: | :---------------------------------------------------------------------------
-`film_id`	| Film # (1-201) - alphabetical placing numbers first; sequels after originals
-`film`	| Film's title
-year	| Film's year of release
-length	| Length of film in minutes
-mpa	| Motion  rating (G, PG, PG-13, R, NC-17)
-imdb_categories	| Up to three categories (from IMDB listing) out of 20 possibilities
-star_1	| Name of first star in film
-star_2	| Name of second star in film
-star_3	| Name of third star in film
-director	| Name of director(s) of film
-imdb_ratings	| # of IMDB public ratings as of 2023-09
-imdb_stars	| # of stars (0-10) in IMDB public rating as of 2023-09
-imdb_pct10	| % of 10-star public ratings in IMDB as of 2023-09
-imdb_link	| Link to IMDB public page for film
-dr_love	| Has Dr. Love seen this film? (Yes or No)
-mentions	| # of times film has been mentioned by students in 431 between 2020-2023
-list_2020	| # of students who mentioned this film in the Fall 2020 version of 431
-list_2021	| # of students who mentioned this film in the Fall 2021 version of 431
-list_2022	| # of students who mentioned this film in the Fall 2022 version of 431
-list_2023	| # of students who mentioned this film in the Fall 2023 version of 431
-rt_critics | % of critics who favorably reviewed the film (via Rotten Tomatoes)
-rt_audience | % of audience reviewers who were favorable about the film (via Rotten Tomatoes)
+Variable | Source | Description
+:---------: | :----: | -----------------------------------------------------------------------------------------------
+`mov_id` | TEL | Code # (M001-M228) - alphabetical with #s first; sequels after originals
+`movie` | TEL | Name of Movie
+`imdb_link` | IMDB | Link to IMDB public page for movie
+`year` | IMDB | Year Movie was Released
+`length` | IMDB | Length of Movie (minutes)
+`imdb_ratings` | IMDB | # of IMDB public ratings as of September 2024
+`imdb_stars` | IMDB | # of stars (1-10) in IMDB public rating as of September 2024
+`imdb_pct10` | IMDB | % of 10-star public ratings in IMDB as of September 2024
+`mpa` | IMDB | Motion Picture Association rating
+`director` | IMDB | Name of director(s) of film
+`star_1` | IMDB | Name of first listed actor (star) in film
+`gen_1` | IMDB | Gender of star_1 (M or F)
+`star_2` | IMDB | Name of second listed actor (star) in film
+`gen_2` | IMDB | Gender of star_2 (M or F)
+`star_3` | IMDB | Name of third listed actor (star) in film
+`gen_3` | IMDB | Gender of star_3 (M or F)
+`metascore` | IMDB | Metascore (0-100 scale) from critic reviews at Metacritic.com
+`critic_revs` | IMDB | # of critic reviews gathered at IMDB as of September 2024
+`origin` | IMDB | Country (Countries) of Origin
+`lang_1` | IMDB | Primary language used in the Movie
+`color` | IMDB | Color or Black and White movie
+`imdb_categories` | IMDB | Genre Categories (up to 10) listed by IMDB (Note: I already have indicator variables for the 12 most common genre categories.)
+`imdb_synopsis` | IMDB | Synopsis from IMDB Front Page
+`dr_love` | TEL | Has Dr. Love seen this movie? (Yes or No)
+`mentions` | TEL | # of times movie has been mentioned by students in 431 in 2020-2024
+`list_20` | TEL | # of students who mentioned this movie in the Fall 2020 version of 431
+`list_21` | TEL | # of students who mentioned this movie in the Fall 2021 version of 431
+`list_22` | TEL | # of students who mentioned this movie in the Fall 2022 version of 431
+`list_23` | TEL | # of students who mentioned this movie in the Fall 2023 version of 431
+`list_24` | TEL | # of students who mentioned this movie in the Fall 2024 version of 431
 
-- Note that the two `rt_` variables are available in our existing file only for films mentioned by students in the Fall 2023 version of 431 in the current data, but Dr. Love has also gathered these two variables for all of the other movies.
