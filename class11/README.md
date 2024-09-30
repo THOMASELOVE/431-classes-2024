@@ -18,8 +18,8 @@ Today's Quote: "Statistics is the grammar of science" - Karl Pearson.
 
 1. You should have received feedback from the TAs and myself on [your Project A plan](https://thomaselove.github.io/431-projectA-2024/plan.html#grading-the-project-a-plan) on Monday morning.
 2. Due Wednesday at noon are:
-    - [Lab 3](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) to Canvas
-    - The Minute Paper after Class 11
+    - [Lab 3](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab3) to Canvas, and
+    - The [Minute Paper after Class 11](https://bit.ly/431-2024-minute-11) which is now available, and
     - (if required of you - see your emailed feedback) [Revision of your Project A Plan](https://thomaselove.github.io/431-projectA-2024/plan.html#grading-the-project-a-plan) to [Canvas](https://canvas.case.edu/).
 
 ## Favorite Movies Second Breakout Session
