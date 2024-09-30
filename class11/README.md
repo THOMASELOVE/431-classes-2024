@@ -14,4 +14,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 Today's Quote: "Statistics is the grammar of science" - Karl Pearson.
 
-## More to come.
+## Announcements
+
+1. You should have received feedback from the TAs and myself on your Project A plan on Monday morning.
+2. Due Wednesday at noon are:
+    - Lab 3 to Canvas
+    - The Minute Paper after Class 11
+    - (if required of you - see your emailed feedback) Revision of your Project A Plan to Canvas
+3. 
+
+## From *Silver Bulletin*
+
+> That’s because even a normal-sized polling error of 3 or 4 points across the board would make the Electoral College uninteresting. Harris beats her polls by that amount in every swing state, and it’s the biggest landslide since Obama in 2008 (she maybe wins Florida, too). If Trump beats his polls by that amount, it’s the worst election for Democrats in the Electoral College since 1988, though Harris might still win the popular vote. That’s the extent to which the race is really on a knife’s edge.
+
+- Nate Silver [The 128 paths to the White House](https://www.natesilver.net/), 2029-09-29
