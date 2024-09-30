@@ -12,4 +12,5 @@ On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a dat
 
 ## Breakout Session 2
 
-Coming soon.
+- Here's our [second breakout activity](breakout2.md), which we will go through in Class 11 (2024-10-01) or Class 12 (2024-10-03).
+
