@@ -15,3 +15,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
 
 ## More to come.
+
+
+## One Last Thing
+
+[Perceptions of Probability and Numbers](https://github.com/zonination/perceptions)
+
+![](https://raw.githubusercontent.com/zonination/perceptions/master/plot1.png)
