@@ -1,8 +1,8 @@
 # Favorite Movies: Breakout Activity 2
 
-I anticipate this will be discussed during Class 11 (2024-10-01) and then actually happen in Class 12 (2024-10-03).
+I anticipate this task will be introduced during Class 11 (2024-10-01) and then actually happen in Class 12 (2024-10-03).
 
-## Your Task(s) for Today
+## Your Task(s) for Breakout Activity 2
 
 You'll have 25 minutes to accomplish the following tasks.
 
