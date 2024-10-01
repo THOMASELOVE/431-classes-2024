@@ -14,8 +14,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
 
-## More to come.
+## Announcements
 
+1. The Lab 3 answer sketch (such as it is) will be posted Friday at noon.
+2. Feedback on the Minute Paper after Class 11 should be available by class time.
+3. Feedback on all revised Project A Plans should be avaailable by class time.
+4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available.
+
+
+## Favorite Movies Second Breakout Session
+
+We'll have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data today.
 
 ## One Last Thing
 
