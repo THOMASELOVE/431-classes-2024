@@ -26,7 +26,7 @@ Today's Quote: "Statistics is the grammar of science" - Karl Pearson.
 
 ## Favorite Movies Second Breakout Session
 
-I'm hoping to leave time today to have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data.
+We'll have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data on Thursday, but I'll introduce the issues today.
 
 --------
 
