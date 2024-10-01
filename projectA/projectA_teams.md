@@ -18,10 +18,10 @@ Leia George | Plan to Understand Various Health Indicators Across Selected State
 Monica Ghosh | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Analyzing Health Statistics Across Various States
-Dana Jian | Exploring Health Trends Across U.S. Counties
+Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity
 Paul Jones | Health and Socioeconomic Disparities Across States
-Brooke Jurasius | Socioeconomic Determinants of Health: Examining Uninsured Rates, Unemploymen ...
-Atticus Kenny | Exploring the Relationship of Household Income and Obesity in 6 Mid-West States
+Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
+Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States
 Anika Krishna <br />  Madaline Witort | Association Between Selected Social Determinants of Health and Population He ...
 Harshita Kumar | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
 Tom Kupferer <br /> Shraddha Dumawat | Health Outcomes Among U.S. Counties
@@ -30,7 +30,7 @@ Olivia Lindberg | CHR 2024 Midwest Analysis
 Rachel Liu | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
 Ajay Mahenthiran | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
-Nihit Mehta | Health Insights per County Health Rankings 2024
+Nihit Mehta | English Proficiency and Health Status in Six States
 Mohammad Nasirpour | Analyzing Health Outcomes Across Diverse U.S. States Using County Health Ranki ...
 Nick Nazak <br /> Rebecca Stinson | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Exploring the relationship between Mental Health Quality and Sleep
@@ -41,7 +41,7 @@ Alayna Rowell <br />  Feriel Presswalla | Exploring the relationships between he
 Debbie Seifert <br />  Cassandra Lopez | County Health Rankings: Planned Analyses of Health Outcomes across 6 US States
 Toni Shoyinka | 2024 CHR Analyses
 Graham Stockdale <br />  Zuhair Khan | Health Outcomes Analysis Utilizing the CHRR Database
-Guanyu Wei | Northeastern and Southeastern states’ flu vaccination rate, smoking, and health
+Guanyu Wei | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
 Megan Zelinsky | Rurality and Income Inequality as Predictors of Health Outcomes Across U.S. ...
 Isaac	Zeng | Analysis of Health and Risk Factors Across 6 U.S. States: OH, NY, CA, GA, LA, NJ
