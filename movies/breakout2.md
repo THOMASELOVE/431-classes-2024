@@ -1,6 +1,6 @@
 # Favorite Movies: Breakout Activity 2
 
-I anticipate this will take place during Class 11 (2024-10-01) or Class 12 (2024-10-03).
+I anticipate this will be discussed during Class 11 (2024-10-01) and then actually happen in Class 12 (2024-10-03).
 
 ## Your Task(s) for Today
 
