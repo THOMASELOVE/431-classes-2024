@@ -18,6 +18,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - There's no Lab 3 answer sketch coming, since each Task requires different answers from every student.
 2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2024-min-11-feedback>.
 3. Feedback on all revised Project A Plans should be avaailable by class time.
+    - Review status [is posted here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md); comments on revisions will be found on [Canvas](https://canvas.case.edu).
+    - Once we've accepted your Project A Plan, you should move on to building the rest of the Project, specifically the [Analyses](https://thomaselove.github.io/431-projectA-2024/analyses.html) and then the full [Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html).
 4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available, but you can create one using the previous Lab templates.
 
 ![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
