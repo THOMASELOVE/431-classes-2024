@@ -20,13 +20,15 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. Feedback on all revised Project A Plans should be avaailable by class time.
 4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available, but you can create one using the previous Lab templates.
 
+![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
+
+-----------
+
 ## Favorite Movies Second Breakout Session
 
 We'll have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data today, after the announcements. 
 
 **NOTE**: I'll pause the class recording once you're all working on this, so the eventual recording will be shorter than our other class sessions so far.
-
-![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
 
 ---------------
 
