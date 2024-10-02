@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 28 plans, leaving 14 to go.
+We have 42 projects, and have accepted 28 plans, leaving 14 currently under review.
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
