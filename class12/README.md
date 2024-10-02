@@ -12,19 +12,23 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 12 | 2024-10-03 | **[Slides 12](https://thomaselove.github.io/431-slides-2024/class12.html)** | **[Word 12](https://thomaselove.github.io/431-slides-2024/class12w.docx)** | **[Code 12](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class12.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
-
 ## Announcements
 
-1. The Lab 3 grading rubric is now available in our Shared Drive folder, in both .qmd and .html format. There's no answer sketch, since each Task requires different answers from every student.
+1. The Lab 3 grading rubric is available in our Shared Drive folder (in the Lab Answer Sketches sub-folder), in both .qmd and .html format.
+    - There's no Lab 3 answer sketch coming, since each Task requires different answers from every student.
 2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2024-min-11-feedback>.
 3. Feedback on all revised Project A Plans should be avaailable by class time.
-4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available.
-
+4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available, but you can create one using the previous Lab templates.
 
 ## Favorite Movies Second Breakout Session
 
-We'll have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data today.
+We'll have our [second breakout session](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout2.md) about the favorite movies data today, after the announcements. 
+
+**NOTE**: I'll pause the class recording once you're all working on this, so the eventual recording will be shorter than our other class sessions so far.
+
+![](demetri_2024-09-19.png). [Source](https://x.com/phdemetri/status/1836801893437219321)
+
+---------------
 
 ## One Last Thing
 
