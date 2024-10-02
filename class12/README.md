@@ -16,8 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The Lab 3 answer sketch (such as it is) will be posted Friday at noon.
-2. Feedback on the Minute Paper after Class 11 should be available by class time.
+1. The Lab 3 grading rubric is now available in our Shared Drive folder, in both .qmd and .html format. There's no answer sketch, since each Task requires different answers from every student.
+2. Feedback on the Minute Paper after Class 11 is now available at <https://bit.ly/431-2024-min-11-feedback>.
 3. Feedback on all revised Project A Plans should be avaailable by class time.
 4. Lab 4 is due at noon on Wednesday. It was updated (slightly) on 2024-10-01 to clarify that no Lab 4-specific template is available.
 
