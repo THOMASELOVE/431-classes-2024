@@ -11,41 +11,45 @@ Kelly Bowen | Yes | Exploring the Link Between Air Pollution Exposure and Obesit
 Sonny Caradonna | Yes | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | Yes | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Status
-Aishwarya Deengar | Not Yet | Perceiving County Health Rankings via Environmental and Technological Predictors
-Jose Diz Ferre <br />  Reilly Burhanna | Not Yet | Social Predictors of Mental Health and Income Disparities
+Aishwarya Deengar | Revision Received | Exploring County Health Trends using Technological and Environmental Factors
+Jose Diz Ferre <br />  Reilly Burhanna | Revision Received | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
-Leia George | Not Yet | Plan to Understand Various Health Indicators Across Selected States
+Leia George | Revision Received | Understanding Physical and Mental Health Indicators Across Selected States
 Monica Ghosh | Yes | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Yes | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
-Derek Host | Not Yet | Analyzing Health Statistics Across Various States
+Derek Host | Revision Received | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
 Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
-Paul Jones | Not Yet | Health and Socioeconomic Disparities Across States
+Paul Jones | Revision Received | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
 Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest States
-Anika Krishna <br />  Madaline Witort | Not Yet | Association Between Selected Social Determinants of Health and Population He ...
+Anika Krishna <br />  Madaline Witort | Revision Received | Income Inequality and Health Outcomes in the U.S. Midwest
 Harshita Kumar | Yes | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
-Tom Kupferer <br /> Shraddha Dumawat | Not Yet | Health Outcomes Among U.S. Counties
-Weiyun Liang | Not Yet | County Health Rankings, 2024
+Tom Kupferer <br /> Shraddha Dumawat | Revision Received | Alcohol, Sleep and Money in Six US States
+Weiyun Liang | Revision Received | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
 Olivia Lindberg | Yes | CHR 2024 Midwest Analysis
 Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
 Ajay Mahenthiran | Yes | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Yes | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Yes | English Proficiency and Health Status in Six States
-Mohammad Nasirpour | Not Yet | Analyzing Health Outcomes Across Diverse U.S. States Using County Health Ranki ...
+Mohammad Nasirpour | Revision Received | Health Outcomes and Predictors in Six U.S. States
 Nick Nazak <br /> Rebecca Stinson | Yes | Health Outcomes in Ohio and its Neighboring States
-Dali Nemecio | Not Yet | Exploring the relationship between Mental Health Quality and Sleep
+Dali Nemecio | Revision Received | Evaluating physical and mental health in Six U.S. States
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Yes | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
-Katherine Papahadjoulos | Not Yet | Analyzing Health Outcomes Using 2024 County Health Rankings
+Katherine Papahadjoulos | Revision Received | A County-Level Analysis of Mental Health, Diabetes, and Physical Health
 Arya Patel | Yes | The Role of Housing and Food Access in Short-Term and Long-Term Health Outcomes
 Alayna Rowell <br />  Feriel Presswalla | Yes | Exploring the relationships between health measures reported by CHR in 2019 ...
 Debbie Seifert <br />  Cassandra Lopez | Yes | County Health Rankings: Planned Analyses of Health Outcomes across 6 US States
-Toni Shoyinka | Not Yet | 2024 CHR Analyses
-Graham Stockdale <br />  Zuhair Khan | Not Yet | Health Outcomes Analysis Utilizing the CHRR Database
+Toni Shoyinka | Revision Received | Education, Coverage, and Mortality
+Graham Stockdale <br />  Zuhair Khan | Revision Received | Understanding the role of insurance and graduation rates on health outcomes
 Guanyu Wei | Yes | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Yes | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
 Megan Zelinsky | Yes | Rurality and Income Inequality as Predictors of Health Outcomes Across U.S. ...
-Isaac	Zeng | Not Yet | Analysis of Health and Risk Factors Across 6 U.S. States: OH, NY, CA, GA, LA, NJ
+Isaac	Zeng | Revision Received | Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. States
 Spancer Zhou | Yes | Income Inequality and Adult Obesity in Six States
+
+-----
+
+The information below describes the initial submissions. Some plans have been revised since.
 
 ## Number of Rows (counties) in your R data set
 
