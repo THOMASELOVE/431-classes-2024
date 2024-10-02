@@ -2,7 +2,7 @@
 
 We have 42 projects, and have accepted 28 plans, leaving 14 to go.
 
-Submitting Author <br /> *Partner (if any)* | Accepted | Project Title 
+Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
 Haley Altadonna | Yes | Analyzing Health and Social Outcomes of U.S. Counties Using CHR Data
 Saar Anis | Yes | Impact of Insufficient Sleep on Mental Health among Adults: CHR 2024 Data
