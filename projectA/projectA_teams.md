@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 35 plans, leaving 3 currently under review and we're waiting on revisions for 4 plans.
+We have 42 projects, and have accepted 35 plans, leaving 1 currently under review and we're waiting on revisions for 6 plans.
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
@@ -12,14 +12,14 @@ Sonny Caradonna | Yes | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | Yes | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Status
 Aishwarya Deengar | Yes | Exploring County Health Trends using Technological and Environmental Factors
-Jose Diz Ferre <br />  Reilly Burhanna | Revision Under Review | Social Predictors of Mental Health and Income Disparities
+Jose Diz Ferre <br />  Reilly Burhanna | Redo Required | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
 Leia George | Redo Required | Understanding Physical and Mental Health Indicators Across Selected States
 Monica Ghosh | Yes | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Yes | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Yes | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
 Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
-Paul Jones | Revision Under Review | Health and Socioeconomic Disparities in Six US States
+Paul Jones | Redo Required | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
 Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest States
 Anika Krishna <br />  Madaline Witort | Yes | Income Inequality and Health Outcomes in the U.S. Midwest
