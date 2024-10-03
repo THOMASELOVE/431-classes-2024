@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 34 plans, leaving 4 currently under review and we're waiting on revisions for 4 plans.
+We have 42 projects, and have accepted 35 plans, leaving 3 currently under review and we're waiting on revisions for 4 plans.
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
@@ -39,7 +39,7 @@ Katherine Papahadjoulos | Yes | A County-Level Analysis of Mental Health, Diabet
 Arya Patel | Yes | The Role of Housing and Food Access in Short-Term and Long-Term Health Outcomes
 Alayna Rowell <br />  Feriel Presswalla | Yes | Exploring the relationships between health measures reported by CHR in 2019 ...
 Debbie Seifert <br />  Cassandra Lopez | Yes | County Health Rankings: Planned Analyses of Health Outcomes across 6 US States
-Toni Shoyinka | Revision Under Review | Education, Coverage, and Mortality
+Toni Shoyinka | Yes | Education, Coverage, and Mortality
 Graham Stockdale <br />  Zuhair Khan | Redo Required | Understanding the role of insurance and graduation rates on health outcomes
 Guanyu Wei | Yes | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Yes | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
