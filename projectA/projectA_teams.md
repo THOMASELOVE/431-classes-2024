@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 35 plans, leaving 1 currently under review and we're waiting on revisions for 6 plans.
+We have 42 projects, and have accepted 35 plans, and we're waiting on revisions for 7 plans.
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
@@ -31,7 +31,7 @@ Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes
 Ajay Mahenthiran | Yes | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Yes | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Yes | English Proficiency and Health Status in Six States
-Mohammad Nasirpour | Revision Under Review | Health Outcomes and Predictors in Six U.S. States
+Mohammad Nasirpour | Redo Required | Health Outcomes and Predictors in Six U.S. States
 Nick Nazak <br /> Rebecca Stinson | Yes | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Yes | Evaluating physical and mental health in Six U.S. States
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Yes | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
