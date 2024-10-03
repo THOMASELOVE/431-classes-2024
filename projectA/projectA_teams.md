@@ -12,14 +12,14 @@ Sonny Caradonna | Yes | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | Yes | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Status
 Aishwarya Deengar | Yes | Exploring County Health Trends using Technological and Environmental Factors
-Jose Diz Ferre <br />  Reilly Burhanna | Revision Received | Social Predictors of Mental Health and Income Disparities
+Jose Diz Ferre <br />  Reilly Burhanna | Revision Under Review | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
 Leia George | Redo Required | Understanding Physical and Mental Health Indicators Across Selected States
 Monica Ghosh | Yes | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Yes | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Yes | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
 Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
-Paul Jones | Revision Received | Health and Socioeconomic Disparities in Six US States
+Paul Jones | Revision Under Review | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
 Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest States
 Anika Krishna <br />  Madaline Witort | Yes | Income Inequality and Health Outcomes in the U.S. Midwest
@@ -31,16 +31,16 @@ Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes
 Ajay Mahenthiran | Yes | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Yes | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Yes | English Proficiency and Health Status in Six States
-Mohammad Nasirpour | Revision Received | Health Outcomes and Predictors in Six U.S. States
+Mohammad Nasirpour | Revision Under Review | Health Outcomes and Predictors in Six U.S. States
 Nick Nazak <br /> Rebecca Stinson | Yes | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Yes | Evaluating physical and mental health in Six U.S. States
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Yes | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
-Katherine Papahadjoulos | Revision Received | A County-Level Analysis of Mental Health, Diabetes, and Physical Health
+Katherine Papahadjoulos | Revision Under Review | A County-Level Analysis of Mental Health, Diabetes, and Physical Health
 Arya Patel | Yes | The Role of Housing and Food Access in Short-Term and Long-Term Health Outcomes
 Alayna Rowell <br />  Feriel Presswalla | Yes | Exploring the relationships between health measures reported by CHR in 2019 ...
 Debbie Seifert <br />  Cassandra Lopez | Yes | County Health Rankings: Planned Analyses of Health Outcomes across 6 US States
-Toni Shoyinka | Revision Received | Education, Coverage, and Mortality
-Graham Stockdale <br />  Zuhair Khan | Revision Received | Understanding the role of insurance and graduation rates on health outcomes
+Toni Shoyinka | Revision Under Review | Education, Coverage, and Mortality
+Graham Stockdale <br />  Zuhair Khan | Revision Under Review | Understanding the role of insurance and graduation rates on health outcomes
 Guanyu Wei | Yes | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Yes | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
 Megan Zelinsky | Yes | Rurality and Income Inequality as Predictors of Health Outcomes Across U.S. ...
