@@ -11,7 +11,7 @@ Kelly Bowen | Yes | Exploring the Link Between Air Pollution Exposure and Obesit
 Sonny Caradonna | Yes | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | Yes | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Status
-Aishwarya Deengar | Revision Received | Exploring County Health Trends using Technological and Environmental Factors
+Aishwarya Deengar | Yes | Exploring County Health Trends using Technological and Environmental Factors
 Jose Diz Ferre <br />  Reilly Burhanna | Revision Received | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
 Leia George | Revision Received | Understanding Physical and Mental Health Indicators Across Selected States
@@ -22,9 +22,9 @@ Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
 Paul Jones | Revision Received | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
 Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest States
-Anika Krishna <br />  Madaline Witort | Revision Received | Income Inequality and Health Outcomes in the U.S. Midwest
+Anika Krishna <br />  Madaline Witort | Yes | Income Inequality and Health Outcomes in the U.S. Midwest
 Harshita Kumar | Yes | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
-Tom Kupferer <br /> Shraddha Dumawat | Revision Received | Alcohol, Sleep and Money in Six US States
+Tom Kupferer <br /> Shraddha Dumawat | Redo Required | Alcohol, Sleep and Money in Six US States
 Weiyun Liang | Revision Received | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
 Olivia Lindberg | Yes | CHR 2024 Midwest Analysis
 Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
@@ -44,7 +44,7 @@ Graham Stockdale <br />  Zuhair Khan | Revision Received | Understanding the rol
 Guanyu Wei | Yes | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Yes | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
 Megan Zelinsky | Yes | Rurality and Income Inequality as Predictors of Health Outcomes Across U.S. ...
-Isaac	Zeng | Revision Received | Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. States
+Isaac	Zeng | Yes | Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. States
 Spancer Zhou | Yes | Income Inequality and Adult Obesity in Six States
 
 -----
