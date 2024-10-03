@@ -1,6 +1,19 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 35 plans, and we're waiting on revisions for 7 plans.
+As of noon 2024-10-03, we have 42 projects, and have accepted 36 plans, and we're waiting on revisions for 6 plans.
+
+## Dr. Love is awaiting Revised Plans (due Friday at noon to Canvas)
+
+Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
+:-----------------: | :-----------: | :----------------------------------------------------------------------
+Jose Diz Ferre <br />  Reilly Burhanna | Not Yet | Social Predictors of Mental Health and Income Disparities
+Leia George | Not Yet | Understanding Physical and Mental Health Indicators Across Selected States
+Paul Jones | Not Yet | Health and Socioeconomic Disparities in Six US States
+Tom Kupferer <br /> Shraddha Dumawat | Not Yet | Alcohol, Sleep and Money in Six US States
+Weiyun Liang | Not Yet | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
+Mohammad Nasirpour | Not Yet | Health Outcomes and Predictors in Six U.S. States
+
+## Accepted Plans
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
@@ -12,26 +25,20 @@ Sonny Caradonna | Yes | Effect of Lifetyle Choices on Health Outcomes
 Sarah Cooke | Yes | The Impact Of Food Insecurity On Diabetes Prevalence In The Midwest
 Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Status
 Aishwarya Deengar | Yes | Exploring County Health Trends using Technological and Environmental Factors
-Jose Diz Ferre <br />  Reilly Burhanna | Redo Required | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
-Leia George | Redo Required | Understanding Physical and Mental Health Indicators Across Selected States
 Monica Ghosh | Yes | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Yes | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
 Derek Host | Yes | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
 Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
-Paul Jones | Redo Required | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
 Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest States
 Anika Krishna <br />  Madaline Witort | Yes | Income Inequality and Health Outcomes in the U.S. Midwest
 Harshita Kumar | Yes | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
-Tom Kupferer <br /> Shraddha Dumawat | Redo Required | Alcohol, Sleep and Money in Six US States
-Weiyun Liang | Redo Required | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
 Olivia Lindberg | Yes | CHR 2024 Midwest Analysis
 Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
 Ajay Mahenthiran | Yes | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
 Morgan McLoughlin | Yes | Physical and Mental Health Outcomes in the Great Lakes Region
 Nihit Mehta | Yes | English Proficiency and Health Status in Six States
-Mohammad Nasirpour | Redo Required | Health Outcomes and Predictors in Six U.S. States
 Nick Nazak <br /> Rebecca Stinson | Yes | Health Outcomes in Ohio and its Neighboring States
 Dali Nemecio | Yes | Evaluating physical and mental health in Six U.S. States
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Yes | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
@@ -40,7 +47,7 @@ Arya Patel | Yes | The Role of Housing and Food Access in Short-Term and Long-Te
 Alayna Rowell <br />  Feriel Presswalla | Yes | Exploring the relationships between health measures reported by CHR in 2019 ...
 Debbie Seifert <br />  Cassandra Lopez | Yes | County Health Rankings: Planned Analyses of Health Outcomes across 6 US States
 Toni Shoyinka | Yes | Education, Coverage, and Mortality
-Graham Stockdale <br />  Zuhair Khan | Redo Required | Understanding the role of insurance and graduation rates on health outcomes
+Graham Stockdale <br />  Zuhair Khan | Yes | Understanding the role of insurance and graduation rates on health outcomes
 Guanyu Wei | Yes | Educational attainment, flu vaccination, and physical health in six states
 JiaWei Yu <br />  Gina Lin | Yes | Analysis of Three Distinct Social/Health Outcomes in the States Surrounding Ohio
 Megan Zelinsky | Yes | Rurality and Income Inequality as Predictors of Health Outcomes Across U.S. ...
