@@ -1,6 +1,6 @@
 # Project A Teams
 
-We have 42 projects, and have accepted 28 plans, leaving 14 currently under review.
+We have 42 projects, and have accepted 33 plans, leaving 6 currently under review and we're waiting on revisions for 3 plans.
 
 Submitting Author <br /> *Partner (if any)* | Plan <br /> Accepted? | Project Title 
 :-----------------: | :-----------: | :----------------------------------------------------------------------
@@ -14,10 +14,10 @@ Gabrielle Davis <br /> Carly DaCosta | Yes | Health Outcomes by Employment Statu
 Aishwarya Deengar | Yes | Exploring County Health Trends using Technological and Environmental Factors
 Jose Diz Ferre <br />  Reilly Burhanna | Revision Received | Social Predictors of Mental Health and Income Disparities
 Tatiana Dombrovski <br />  Mahsa Sheikh | Yes | Sleep and Education Association
-Leia George | Revision Received | Understanding Physical and Mental Health Indicators Across Selected States
+Leia George | Redo Required | Understanding Physical and Mental Health Indicators Across Selected States
 Monica Ghosh | Yes | Investigation of the Relationship between Adult Obesity and Household Income
 Alexis Heath | Yes | Evaluating County-Specific Health Across Multiple CHR 2024 Factors
-Derek Host | Revision Received | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
+Derek Host | Yes | Unemployment, Obesity, Drinking, and Smoking Rates in 397 Counties
 Dana Jian | Yes | Socioeconomic Inequalities, Sleep and Physical Inactivity
 Paul Jones | Revision Received | Health and Socioeconomic Disparities in Six US States
 Brooke Jurasius | Yes | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes
@@ -25,7 +25,7 @@ Atticus Kenny | Yes | Relationship of Household Income and Obesity in 6 MidWest 
 Anika Krishna <br />  Madaline Witort | Yes | Income Inequality and Health Outcomes in the U.S. Midwest
 Harshita Kumar | Yes | CHR 2024 Analysis: Examining Adult Obesity, Mental Health Days, Diabetes Prev ...
 Tom Kupferer <br /> Shraddha Dumawat | Redo Required | Alcohol, Sleep and Money in Six US States
-Weiyun Liang | Revision Received | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
+Weiyun Liang | Redo Required | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States
 Olivia Lindberg | Yes | CHR 2024 Midwest Analysis
 Rachel Liu | Yes | Analyzing Sleep, Mortality, Mental & Physical Health Outcomes Across 6 States
 Ajay Mahenthiran | Yes | Evaluating Adult Obesity Rates in 2024 to 2019 using CHR 2024 and CHR 2019
@@ -33,7 +33,7 @@ Morgan McLoughlin | Yes | Physical and Mental Health Outcomes in the Great Lakes
 Nihit Mehta | Yes | English Proficiency and Health Status in Six States
 Mohammad Nasirpour | Revision Received | Health Outcomes and Predictors in Six U.S. States
 Nick Nazak <br /> Rebecca Stinson | Yes | Health Outcomes in Ohio and its Neighboring States
-Dali Nemecio | Revision Received | Evaluating physical and mental health in Six U.S. States
+Dali Nemecio | Yes | Evaluating physical and mental health in Six U.S. States
 Tatchaporn Ongphichetmetha <br />  Jeff Lambe | Yes | Assessing the Impact of Socioeconomic Factors on Health Status Based on CHR 2024
 Katherine Papahadjoulos | Revision Received | A County-Level Analysis of Mental Health, Diabetes, and Physical Health
 Arya Patel | Yes | The Role of Housing and Food Access in Short-Term and Long-Term Health Outcomes
