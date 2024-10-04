@@ -15,3 +15,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ![](https://imgs.xkcd.com/comics/frequentists_vs_bayesians.png) Source: <https://xkcd.com/1132>
 
 ## More to come.
+
+
+## Come see me in Agatha Christie's "And Then There Were None"!
+
+October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/> 
+
