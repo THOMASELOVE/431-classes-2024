@@ -12,6 +12,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 08 | 2024-09-19 | **[Slides 08](https://thomaselove.github.io/431-slides-2024/class08.html)** | **[Word 08](https://thomaselove.github.io/431-slides-2024/class08w.docx)** | **[Code 08](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+**NOTE** I uploaded new version of these slides 2024-10-04 to fix a typo in Slides 40-41, where I'd mislabeled Holm corrections as Tukey.
+
 ## Announcements
 
 1. Effective tonight and for the rest of the semester, Thursday TA office hours will be held from 9:00 to 10:30 PM, instead of 7:30 to 9 PM. Sorry for the change.
