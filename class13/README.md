@@ -13,3 +13,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 13 | 2024-10-08 | **[Slides 13](https://thomaselove.github.io/431-slides-2024/class13.html)** | **[Word 13](https://thomaselove.github.io/431-slides-2024/class13w.docx)** | **[Code 13](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## More to come.
+
+## Come see me in Agatha Christie's "And Then There Were None"!
+
+October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/> 
