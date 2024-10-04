@@ -12,7 +12,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 08 | 2024-09-19 | **[Slides 08](https://thomaselove.github.io/431-slides-2024/class08.html)** | **[Word 08](https://thomaselove.github.io/431-slides-2024/class08w.docx)** | **[Code 08](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class08.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-**NOTE** I uploaded new version of these slides 2024-10-04 to fix a typo in Slides 40-41, where I'd mislabeled Holm corrections as Tukey.
+**NOTE** I uploaded new versions of these slides 2024-10-04 to fix a typo in Slides 40-41, where I'd mislabeled Holm corrections as Tukey.
 
 ## Announcements
 
