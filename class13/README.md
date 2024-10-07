@@ -19,7 +19,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Grades and Feedback on Lab 3 should be posted **by class time**.
 3. There is a Minute Paper after Class 13, due Wednesday 2024-10-09 at noon. **Details to come**.
 4. Lab 4 is also due Wednesday 2024-10-09 at noon.
-5. More to come.
+5. Quiz 1 will be in your hands by 5 PM Thursday 2024-10-10. It is due Wednesday 2024-10-16 at noon.
+6. More to come.
 
 ## Come see me in Agatha Christie's "And Then There Were None"!
 
