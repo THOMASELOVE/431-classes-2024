@@ -12,7 +12,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 13 | 2024-10-08 | **[Slides 13](https://thomaselove.github.io/431-slides-2024/class13.html)** | **[Word 13](https://thomaselove.github.io/431-slides-2024/class13w.docx)** | **[Code 13](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class13.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
-## More to come.
+## Announcements
+
+1. All 42 [Project A Plans](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md) are accepted. Please correct any remaining issues in your [Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html).
+    - Be sure to use the proper template for the Portfolio report, [as described here](https://thomaselove.github.io/431-projectA-2024/examples.html).
+2. More to come.
 
 ## Come see me in Agatha Christie's "And Then There Were None"!
 
