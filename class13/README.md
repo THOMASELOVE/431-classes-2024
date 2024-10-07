@@ -20,7 +20,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. There is a Minute Paper after Class 13, due Wednesday 2024-10-09 at noon. **Details to come**.
 4. Lab 4 is also due Wednesday 2024-10-09 at noon.
 5. Quiz 1 will be in your hands by 5 PM Thursday 2024-10-10. It is due Wednesday 2024-10-16 at noon.
-6. More to come.
+6. A new version (dated 2024-10-15) of the favorite movies data, incorporating several of your suggested additions, is now available at our Shared Google Drive folder. We'll return to the movies next Tuesday.
+7. More to come.
 
 ## Come see me in Agatha Christie's "And Then There Were None"!
 
