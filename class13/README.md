@@ -16,7 +16,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. All 42 [Project A Plans](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md) are accepted. Please correct any remaining issues in your [Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html).
     - Be sure to use the proper template for the Portfolio report, [as described here](https://thomaselove.github.io/431-projectA-2024/examples.html).
-2. More to come.
+2. Grades and Feedback on Lab 3 should be posted **by class time**.
+3. There is a Minute Paper after Class 13, due Wednesday 2024-10-09 at noon. **Details to come**.
+4. Lab 4 is also due Wednesday 2024-10-09 at noon.
+5. More to come.
 
 ## Come see me in Agatha Christie's "And Then There Were None"!
 
