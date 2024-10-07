@@ -36,7 +36,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
-Some other resources for learning more after today's talk are:
+Some other resources for learning more after this week's talks are:
 
 - Frank E. Harrell's [A Litany of Problems with *p*-values](https://www.fharrell.com/post/pval-litany/) blog post most recently updated in 2020.
 - William Briggs' [Everything Wrong with P-values Under One Roof](http://wmbriggs.com/post/26125/) which links to a detailed article on the subject.
