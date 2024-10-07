@@ -26,10 +26,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - New variables include information on the Bechdel-Wallace rating, Academy Awards and other award wins, budgets and revenue results from The-Numbers, rankings from Flickchart and Rotten Tomatoes, potentially triggering events from doesthedogdie, ratings of sex and nudity, violence and gore, and language, from kids-in-mind, and streaming information, along with expanded indicator variables for IMDB's top 12 genres.
     - We'll return to the movies on Tuesday 2024-10-15.
 
-## Come see me in Agatha Christie's "And Then There Were None"!
-
-October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/> 
-
 ## Materials Discussed in Today's Class
 
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
@@ -67,3 +63,7 @@ Some other resources for learning more after today's talk are:
 ## One Last Thing
 
 EJ Daza, [Ditch “Statistical Significance” — But Keep Statistical Evidence. How? A statistician shares a writing sample](https://towardsdatascience.com/ditch-statistical-significance-8b6532c175cb). *Towards Data Science*, 14 June 2021.
+
+## Come see me in Agatha Christie's play "And Then There Were None"!
+
+October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/> 
