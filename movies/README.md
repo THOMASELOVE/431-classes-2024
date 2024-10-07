@@ -3,7 +3,7 @@
 On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a series of data sets (Google Sheet workbooks) describing 228 films that people taking either the 2020, 2021, 2022, 2023 or 2024 versions of 431 identified as their "Favorite Movie". 
 
 - The original version was `movies_2024-09-17`.
-- The current version is `movies_2024-10-01`.
+- The current version is `movies_2024-10-15`.
 
 - For each movie, I gathered a series of characteristics, at first mostly from the [Internet Movie Data Base](https://www.imdb.com/) (IMDB), and descriptions of these characteristics are found in the **Variable Descriptions** tab.
 - Here is a convenient [list of the 228 movies](movie_list.md), including links to their IMDB page, and the IMDB short synopsis of each movie.
