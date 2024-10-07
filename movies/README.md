@@ -16,6 +16,8 @@ On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a ser
 ## Breakout Session 2
 
 - Here's our [second breakout activity](breakout2.md), which we will go through in Class 11 (2024-10-01) or Class 12 (2024-10-03). It uses the `movies_2024-10-01` version of the data.
-- One result of this activity is a new movies list, with several useful added variables. This version is called `movies_2024-10-15` and is found in our Shared Google Drive folder. An Excel version is also available here.
+- One result of this activity is a new movies list, with several useful added variables.
+    - This version is called `movies_2024-10-15` and is found in our Shared Google Drive folder.
+    - An Excel version of the 2024-10-15 data [is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/movies_2024-10-15.xlsx), too.
 
 
