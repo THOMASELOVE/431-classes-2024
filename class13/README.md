@@ -18,7 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. All 42 [Project A Plans](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/projectA_teams.md) are accepted. Please correct any remaining issues in your [Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html).
     - Be sure to use the proper template for the Portfolio report, [as described here](https://thomaselove.github.io/431-projectA-2024/examples.html).
-2. Grades and Feedback on Lab 3 should be posted **by class time**.
+2. Grades and Feedback on Lab 3 should be posted **by 5 PM today**. I'll post to Campuswire when that is done.
 3. There is a [Minute Paper after Class 13](https://bit.ly/431-2024-minute-13), due Wednesday 2024-10-09 at noon.
 4. [Lab 4](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab4) is also due Wednesday 2024-10-09 at noon.
 5. A new version (dated 2024-10-15) of the favorite movies data, incorporating [several of your suggested additions](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies#breakout-session-2), is now available at our Shared Google Drive folder.
