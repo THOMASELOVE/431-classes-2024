@@ -25,9 +25,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - New variables include information on the Bechdel-Wallace rating, Academy Awards and other award wins, budgets and revenue results from The-Numbers, rankings from Flickchart and Rotten Tomatoes, potentially triggering events from doesthedogdie, ratings of sex and nudity, violence and gore, and language, from kids-in-mind, and streaming information, along with expanded indicator variables for IMDB's top 12 genres.
     - We'll return to the movies on Tuesday 2024-10-15.
 6. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2024/blob/main/README.md) will be in your hands by 5 PM Thursday 2024-10-10. It is due Wednesday 2024-10-16 at noon.
+    - The Quiz 1 page, where all of the materials will be linked, [is found here](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz1).
     - In our Shared Google Drive folder, I've added a folder called Five Old Quiz Questions, which provides you with a PDF and a data set. The PDF gives you five questions from an old quiz as well as an answer sketch. The data set is used in some of those five questions. This is just meant to help worried students think about some of the kinds of questions I might ask on your Quiz 1, coming to you on Thursday afternoon. There's no requirement that you do anything with the Five Old Quiz Questions. Your Quiz will be different in many ways, but perhaps looking this over will calm you down if you're nervous.
 
-## Materials Discussed in Today's Class
+## Materials Discussed This Week
 
 - Ronald L. Wasserstein, Allen L. Schirm & Nicole A. Lazar (2019) [Moving to a World Beyond "p < 0.05"](https://www.tandfonline.com/doi/full/10.1080/00031305.2019.1583913), *The American Statistician*, 73:sup1, 1-19, DOI: [10.1080/00031305.2019.1583913](https://doi.org/10.1080/00031305.2019.1583913). 
     - Ron gave a [one-hour talk you can watch here](https://t.co/GbQF01h4jU) on "[Helping to move to a world beyond p < 0.05](https://t.co/GbQF01h4jU)" which I cannot recommend enough.
