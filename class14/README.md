@@ -16,7 +16,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. If I get the chance today, we'll spend a few moments on Nate Silver's [55/45 is a really close race](https://www.natesilver.net/p/5545-is-a-really-close-race) from 2024-10-08.
 
 ## Materials Discussed in Today's Class
 
