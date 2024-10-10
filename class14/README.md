@@ -17,8 +17,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. If I get the chance today, we'll spend a few moments on Nate Silver's [55/45 is a really close race](https://www.natesilver.net/p/5545-is-a-really-close-race) from 2024-10-08.
-2. Feedback on the Minute Paper after Class 13 should be available **by class time**.
-3. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz1) will be available to you in its entirety at 5 PM today.
+2. Feedback on the Minute Paper after Class 13 [is now available](https://bit.ly/431-2024-min-13-feedback).
+3. Everything you need to complete Project A is available. This includes instructions [for Analyses](https://thomaselove.github.io/431-projectA-2024/analyses.html) and [the Portfolio](https://thomaselove.github.io/431-projectA-2024/portfolio.html) and [the Portfolio Template](https://thomaselove.github.io/431-projectA-2024/examples.html).
+4. An Answer Sketch and Grading Rubric for Lab 4 will be posted to our Shared Drive folder by **noon Friday 2024-10-11**.
+5. [Quiz 1](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz1) will be available to you in its entirety at 5 PM today.
 
 ## Materials Discussed in Today's Class
 
@@ -49,7 +51,6 @@ Some other resources for learning more after today's talk are:
 - I have given several talks on "Rethinking Statistical Significance" in recent years. The Github repository (90 minutes at MetroHealth Medical Center and the Center for Health Care Research and Policy, with an audio recording) is at https://github.com/THOMASELOVE/rethink, if you're a glutton for punishment.
 - [Why p values are like puppies](https://www.youtube.com/watch?v=9jW9G8MO4PQ) is a 3:29 YouTube Video by Cassie Kozyrkov, MS, Chief Decision Scientist, Google Inc. It explains how to understand and interpret *p* values in an intuitive way using an example based on puppies.
 - Here is a nice [Editorial by Jeff Witmer](https://www.tandfonline.com/doi/full/10.1080/10691898.2019.1702415) (from Oberlin College) at the *Journal of Statistics Education* which is *a position paper on the use of p-values, statistical inference, terminology, and related ideas*. I got a lot out of it, and there's a lot here related to our discussion.
-
 
 ## Come see me in Agatha Christie's "And Then There Were None"!
 
