@@ -1,0 +1,100 @@
+# Favorite Movies: Breakout Activity 3
+
+We will complete this task in Class 15 (2024-10-15).
+
+## 81 Variables are in `movies_2024-10-15`
+
+The current codebook for the data set called **movies_2024-10-15**, is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2024-10-15** sheet available in our Shared folder on Google Drive.
+
+Variable | Source | Description
+:---------: | :----: | -----------------------------------------------------------------------------------------------
+`mov_id` | TEL | Code # (M001-M228) - alphabetical with #s first; sequels after originals
+`movie` | TEL | Name of Movie
+`year` | IMDB | Year Movie was Released
+`length` | IMDB | Length of Movie (minutes)
+`imdb_ratings` | IMDB | # of IMDB public ratings as of September 2024
+`imdb_stars` | IMDB | # of stars (1-10) in IMDB public rating as of September 2024
+`imdb_pct10` | IMDB | % of 10-star public ratings in IMDB as of September 2024
+`mpa` | IMDB | Motion Picture Association rating
+`director` | IMDB | Name of director(s) of film
+`star_1` | IMDB | Name of first listed actor (star) in film
+`gen_1` | IMDB | Gender of star_1 (M or F)
+`star_2` | IMDB | Name of second listed actor (star) in film
+`gen_2` | IMDB | Gender of star_2 (M or F)
+`star_3` | IMDB | Name of third listed actor (star) in film
+`gen_3` | IMDB | Gender of star_3 (M or F)
+`metascore` | IMDB | Metascore (0-100 scale) from critic reviews at Metacritic.com
+`critic_revs` | IMDB | # of critic reviews gathered at IMDB as of September 2024
+`origin` | IMDB | Country (Countries) of Origin
+`lang_1` | IMDB | Primary language used in the Movie
+`color` | IMDB | Color or Black and White movie
+`dr_love` | TEL | Has Dr. Love seen this movie? (Yes or No)
+`mentions` | TEL | # of times movie has been mentioned by students in 431 in 2020-2024
+`list_20` | TEL | # of students who mentioned this movie in the Fall 2020 version of 431
+`list_21` | TEL | # of students who mentioned this movie in the Fall 2021 version of 431
+`list_22` | TEL | # of students who mentioned this movie in the Fall 2022 version of 431
+`list_23` | TEL | # of students who mentioned this movie in the Fall 2023 version of 431
+`list_24` | TEL | # of students who mentioned this movie in the Fall 2024 version of 431
+`bw_rating` | bechdeltest.com | Bechdel-Wallace Test Criteria Met (0-3)
+`oscars` | IMDB | # of Oscar (Academy Award) wins according to IMDB
+`awards` | IMDB | # of awards (wins) according to IMDB
+`budget` | IMDB | Estimated Budget via IMDB (in $)
+`gross_northA` | IMDB | Gross Revenue in US and Canada ($)
+`gross_world` | IMDB | Gross Revenue Worldwide ($)
+`pct_northA` | IMDB | % of gross_world from US and Canada
+`box_off_mult` | IMDB | World Wide Gross Revenue (as a fraction of production budget)
+`fc_globalrk` | Flickchart.com | Global ranking on flickchart (at flickchart dot com) as of 2024-09
+`fc_pctwins` | Flickchart.com | % of matchups won on flickchart as of 2024-09
+`fc_users` | Flickchart.com | Flickchart users who've ranked movie as of 2024-09
+`fc_no1` | Flickchart.com | Flickchart users who have movie as number 1 on their list as of 2024-09
+`fc_top20` | Flickchart.com | Flickchart users who have movie in top 20 of their list as of 2024-09
+`fc_link` | Flickchart.com | Link to film at FlickChart
+`rt_critic` | Rotten Tomatoes | Rotten Tomatoes Tomatometer (% Fresh via Critics) as of 2024-09
+`rt_audience` | Rotten Tomatoes | Rotten Tomatoes Popcornmeter (% Fresh via Audience) as of 2024-09
+`rt_reviews` | Rotten Tomatoes | # of Critic Reviews gathered at Rotten Tomatoes as of 2024-09
+`rt_link` | Rotten Tomatoes | Link to film at Rotten Tomatoes
+`ebert` | RogerEbert.com | Movie Review (from Roger Ebert or other reviewer) on 1 to 4 stars scale
+`theaters` | the-numbers.com | Maximum number of Theaters in which the movie played
+`run` | the-numbers.com | Average weeks run per theater
+`legs` | the-numbers.com | Legs (Domestic Box Office / Biggest Weekend)
+`box_2023` | the-numbers.com | Inflation-Adjusted Domestic Box Office (in 2023 $)
+`triggers` | doesthedogdie.com | Number of Potentially Triggering Events (Abandonment, Abuse, etc.)
+`kim_sn` | kids-in-mind.com | Kids-In-Mind Sex & Nudity rating (1 - 10, higher = more)
+`kim_vg` | kids-in-mind.com | Kids-In-Mind Violence & Gore rating (1 - 10, higher = more)
+`kim_lang` | kids-in-mind.com | Kids-In-Mind Language rating (1 - 10, higher = more)
+`imdb_cats` | IMDB | Genre Categories (up to 10) listed by IMDB (Note: See below for indicator variables for the 12 most common genre categories.)
+`synopsis` | IMDB | Synopsis from IMDB Front Page
+`Action` | IMDB | Is Action one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Adventure` | IMDB | Is Adventure one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Animation` | IMDB | Is Animation one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Comedy` | IMDB | Is Comedy one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Crime` | IMDB | Is Crime one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Drama` | IMDB | Is Drama one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Family` | IMDB | Is Family one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Fantasy` | IMDB | Is Fantasy one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Mystery` | IMDB | Is Mystery one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Romance` | IMDB | Is Romance one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Sci-Fi` | IMDB | Is Sci-Fi one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`Thriller` | IMDB | Is Thriller one of the genres listed in imdb_categories? (1 = yes, 0 = no)
+`imdb_id` | IMDB | IMDB Film ID # (just a useful and numeric code)
+`imdb_link` | IMDB | Link to IMDB public page for movie
+`streamers` | Rotten Tomatoes | Streaming services listed at RT under Where to Watch as of 2024-10-04
+`st_fandango` | Rotten Tomatoes | Is Fandango at Home one of the `streamers`? (1 = yes, 0 = no)
+`st_prime` | Rotten Tomatoes | Is Prime Video one of the `streamers`? (1 = yes, 0 = no)
+`st_apple` | Rotten Tomatoes | Is Apple TV one of the `streamers`? (1 = yes, 0 = no)
+`st_disney` | Rotten Tomatoes | Is Disney+ one of the `streamers`? (1 = yes, 0 = no)
+`st_hulu` | Rotten Tomatoes | Is Hulu one of the `streamers`? (1 = yes, 0 = no)
+`st_max` | Rotten Tomatoes | Is Max one of the `streamers`? (1 = yes, 0 = no)
+`st_netflix` | Rotten Tomatoes | Is Netflix one of the `streamers`? (1 = yes, 0 = no)
+`st_paramount` | Rotten Tomatoes | Is Paramount+ one of the `streamers`? (1 = yes, 0 = no)
+`st_peacock` | Rotten Tomatoes | Is Peacock one of the `streamers`? (1 = yes, 0 = no)
+`stream_n` | Rotten Tomatoes | # of Streaming Services listed in `streamers`
+
+## Your Task(s) for Breakout Activity 3
+
+You'll have 25 minutes to accomplish the following tasks.
+
+1. Form a group of 4-6 people. Come up with a name for your group that each of you will remember at our next class. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
+2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2024-movies-2>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
+3. As a group, you will ...
+4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2024-movies-3) to report your group's response and has submitted the form successfully (they should receive an email confirmation.)
