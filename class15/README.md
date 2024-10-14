@@ -19,4 +19,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. A reminder that we don't have class next Tuesday 2024-10-22, and that office hours are canceled on Monday 2024-10-21 and Tuesday 2024-10-22. Enjoy your Fall Break.
 4. More to come.
 
+---
+
+## Favorite Movies Breakout 3
+
+A new version (dated 2024-10-15) of the favorite movies data, incorporating [several of your suggested additions](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies#breakout-session-2), is now available at our Shared Google Drive folder.
+    - New variables include information on the Bechdel-Wallace rating, Academy Awards and other award wins, budgets and revenue results from The-Numbers, rankings from Flickchart and Rotten Tomatoes, potentially triggering events from doesthedogdie, ratings of sex and nudity, violence and gore, and language, from kids-in-mind, and streaming information, along with expanded indicator variables for IMDB's top 12 genres.
+
+---
+
+## One Last Thing
+
+
+---
+
+## Come see me in Agatha Christie's "And Then There Were None"!
+
+October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/> 
 
