@@ -14,5 +14,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. Our next class will be Thursday 2024-10-24. Office hours are canceled on Monday 2024-10-21 and Tuesday 2024-10-22. Enjoy your Fall Break.
+2. To come.
 
