@@ -20,4 +20,7 @@ On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a ser
     - This version is called `movies_2024-10-15` and is found in our Shared Google Drive folder.
     - An Excel version of the 2024-10-15 data [is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/movies_2024-10-15.xlsx), too.
 
+## Breakout Session 3
+
+- Here's our [third breakout activity](breakout3.md), which we will go through in Class 15 (2024-10-15). It uses the `movies_2024-10-15` version of the data.
 
