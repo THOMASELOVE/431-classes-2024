@@ -2,9 +2,13 @@
 
 We will complete this task in Class 15 (2024-10-15).
 
+## Breakout Activity 2 report
+
+A Brief Report on your Proposed Variables and Exploratory Questions from Breakout 2 [is available here](breakout2_results.md).
+
 ## 81 Variables are in `movies_2024-10-15`
 
-The current codebook for the data set called **movies_2024-10-15**, is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2024-10-15** sheet available in our Shared folder on Google Drive.
+The primary outcome from Breakout Activity 2 was a new data set, called **movies_2024-10-15**. The current codebook is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2024-10-15** sheet available in our Shared folder on Google Drive. An Excel version of the file is [available for download here](https://github.com/THOMASELOVE/431-classes-2024/raw/refs/heads/main/movies/movies_2024-10-15.xlsx), if you prefer.
 
 Variable | Source | Description
 :---------: | :----: | -----------------------------------------------------------------------------------------------
@@ -92,9 +96,7 @@ Variable | Source | Description
 
 ## Your Task(s) for Breakout Activity 3
 
-You'll have 25 minutes to accomplish the following tasks.
-
 1. Form a group of 4-6 people. Come up with a name for your group that each of you will remember at our next class. If your group has fewer than 4 or more than 6 people, raise your hand, and we'll change the groups around.
 2. One person in your group will report the results of your work using the Google Form found at <https://bit.ly/431-2024-movies-2>. Try to have someone who hasn't done this for prior work do this, so I can spread around the credit.
-3. As a group, you will ...
+3. As a group, you will **DETAILS TO COME**
 4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2024-movies-3) to report your group's response and has submitted the form successfully (they should receive an email confirmation.)
