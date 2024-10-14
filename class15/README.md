@@ -24,7 +24,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Favorite Movies Breakout 3
 
 A new version (dated 2024-10-15) of the favorite movies data, incorporating [several of your suggested additions](https://github.com/THOMASELOVE/431-classes-2024/tree/main/movies#breakout-session-2), is now available at our Shared Google Drive folder.
-    - New variables include information on the Bechdel-Wallace rating, Academy Awards and other award wins, budgets and revenue results from The-Numbers, rankings from Flickchart and Rotten Tomatoes, potentially triggering events from doesthedogdie, ratings of sex and nudity, violence and gore, and language, from kids-in-mind, and streaming information, along with expanded indicator variables for IMDB's top 12 genres.
+
+- New variables include information on the Bechdel-Wallace rating, Academy Awards and other award wins, budgets and revenue results from The-Numbers, rankings from Flickchart and Rotten Tomatoes, potentially triggering events from doesthedogdie, ratings of sex and nudity, violence and gore, and language, from kids-in-mind, and streaming information, along with expanded indicator variables for IMDB's top 12 genres.
 
 ---
 
