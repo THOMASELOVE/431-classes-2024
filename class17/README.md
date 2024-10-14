@@ -14,5 +14,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. To come.
+1. Class 17 is envisioned as an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom. More details to come.
 
