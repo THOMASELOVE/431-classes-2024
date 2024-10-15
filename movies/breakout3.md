@@ -8,7 +8,7 @@ A Brief Report on your Proposed Variables and Exploratory Questions from Breakou
 
 ## 81 Variables are in `movies_2024-10-15`
 
-The primary outcome from Breakout Activity 2 was a new data set, called **movies_2024-10-15**. The current codebook is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2024-10-15** sheet available in our Shared folder on Google Drive. An Excel version of the file is [available for download here](https://github.com/THOMASELOVE/431-classes-2024/raw/refs/heads/main/movies/movies_2024-10-15.xlsx), if you prefer.
+The primary outcome from Breakout Activity 2 was a new data set, called **movies_2024-10-15**. The current codebook is listed below. A more detailed version is in the Variable Descriptions tab in the **movies_2024-10-15** sheet available in our Shared folder on Google Drive.
 
 Variable | Source | Description
 :---------: | :----: | -----------------------------------------------------------------------------------------------
