@@ -18,13 +18,18 @@ We will complete this task in Class 15 (2024-10-15).
 
 **Step 1.** First, you will identify a comparison of a quantitative outcome (from the [outcome options list below](#outcome-options-for-step-1)) across levels of a binary predictor (from the [binary predictor options list below](#binary-predictor-options-for-step-1) that is of interest to you, and create a research question which leads directly to that comparison, is written clearly, and ends with a question mark.
 
-**Step 2.** Next, you will identify a covariate (a quantitative predictor which should have a reasonably strong relationship with the outcome you chose in Step 1) which we could adjust for in making the comparison you developed in Step 1, and you'll then create a revised Step 1 research question to include the fact that you'll be adjusting for this covariate. The [list of available covariate options is here](#covariate-options-for-step-2).
+**Step 2.** Next, you will identify a covariate (a quantitative predictor which should have a reasonably strong relationship with the outcome you chose in Step 1) which we could adjust for in making the comparison you developed in Step 1, and you'll then create a revised Step 1 research question to include the fact that you'll be adjusting for this covariate. 
+    - The [list of available covariate options is here](#covariate-options-for-step-2).
 
 **Step 3.** Finally, you will identify a new predictor for the comparison in Step 1, this time using a multi-categorical predictor (from the [multi-categorical predictor list below](#multi-categorical-predictor-options-for-step-3)), and you'll use this to create a Step 3 research question to use this predictor instead of the one you identified in Step 1, and the fact that you'll again be adjusting for the covariate from Step 2 in this model, while re-using the outcome from Step 1.
 
-**Step 4.** Identify the number of missing observations in each of your four chosen variables (the outcome from Step 1, the binary predictor from Step 1, the covariate from Step 2, and the multi-categorical predictor for Step 3.) **At least one of your four variables must have at least one missing value, please.** You'll do this as you specify each variable in the [Google Form](https://bit.ly/431-2024-movies-3), and the tables below specify the number of missing values in each variable listed, plus this information is also available in the Variable Descriptions tab of the Google Sheet for movies_2024-10-15 in our Shared Folder.
+**Step 4.** Identify the number of missing observations in each of your four chosen variables (the outcome from Step 1, the binary predictor from Step 1, the covariate from Step 2, and the multi-categorical predictor for Step 3.) 
+    - **At least one of your four variables must have at least one missing value, please.** 
+    - You'll be asked about missing values as you specify each variable in the [Google Form](https://bit.ly/431-2024-movies-3).
+    - The tables below specify the number of missing values in each variable listed, plus this information is also available in the Variable Descriptions tab of the Google Sheet for movies_2024-10-15 in our Shared Folder.
 
-**Step 5.** Use R to find the Pearson correlation between your covariate (from Step 2) and your outcome (from Step 1). Drop any missing values when estimating this correlation value, and specify the correlation coefficient to two decimal places.
+**Step 5.** Use R to find the Pearson correlation between your covariate (from Step 2) and your outcome (from Step 1).
+    - Drop any missing values when estimating this correlation value, and specify the correlation coefficient to two decimal places.
 
 ### Outcome Options (for Step 1)
 
