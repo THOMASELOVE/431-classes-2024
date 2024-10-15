@@ -14,19 +14,19 @@ We will complete this task in Class 15 (2024-10-15).
 3. As a group, you will select four variables, which will fuel three analyses, and then describe research questions that lead to specific comparisons using those variables, as described below.
 4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2024-movies-3) to report your group's responses and has submitted the form successfully (they should receive an email confirmation.)
 
-**Step 1.** First, you will identify a comparison of a quantitative outcome (from the [outcome options list below](#outcome-options-for-step-1)) across levels of a binary predictor (from the list below) that is of interest to you, and create a research question which leads directly to that comparison, is written clearly, and ends with a question mark.
+**Step 1.** First, you will identify a comparison of a quantitative outcome (from the [outcome options list below](#outcome-options-for-step-1)) across levels of a binary predictor (from the [binary predictor options list below](#binary-predictor-options-for-step-1) that is of interest to you, and create a research question which leads directly to that comparison, is written clearly, and ends with a question mark.
 
-**Step 2.** Next, you will identify a covariate (a quantitative predictor which should have a reasonably strong relationship with the outcome you chose in Step 1) which we could adjust for in making the comparison you developed in Step 1, and you'll then create a revised Step 1 research question to include the fact that you'll be adjusting for this covariate.
+**Step 2.** Next, you will identify a covariate (a quantitative predictor which should have a reasonably strong relationship with the outcome you chose in Step 1) which we could adjust for in making the comparison you developed in Step 1, and you'll then create a revised Step 1 research question to include the fact that you'll be adjusting for this covariate. The [list of available covariate options is here](#covariate-options-for-step-2).
 
-**Step 3.** Finally, you will identify a different predictor for the comparison in Step 1, this time using a multi-categorical predictor (from the list below), and you'll then create a Step 3 research question to use this predictor instead of the one you identified in Step 1, and the fact that you'll again be adjusting for the covariate from Step 2 in this model.
+**Step 3.** Finally, you will identify a new predictor for the comparison in Step 1, this time using a multi-categorical predictor (from the [multi-categorical predictor list below](#multi-categorical-predictor-options-for-step-3)), and you'll use this to reate a Step 3 research question to use this predictor instead of the one you identified in Step 1, and the fact that you'll again be adjusting for the covariate from Step 2 in this model, while re-using the outcome from Step 1.
 
 **Step 4.** Identify the number of missing observations in each of your four chosen variables (the outcome from Step 1, the binary predictor from Step 1, the covariate from Step 2, and the multi-categorical predictor for Step 3.) **At least one of your four variables must have at least one missing value, please.**
 
-**Step 5.** Use R to find the Pearson correlation between your covariate (from Step 2) and your outcome (from Step 1). Drop any missing values when estimating this correlation value.
+**Step 5.** Use R to find the Pearson correlation between your covariate (from Step 2) and your outcome (from Step 1). Drop any missing values when estimating this correlation value, and specify the correlation coefficient to two decimal places.
 
 ### Outcome Options (for Step 1)
 
-Variable | Description | NA
+Variable | Description | NA (# missing)
 --------: | ------------------------------------------ | ----
 `length` | Length of Movie (minutes) | 0
 `imdb_pct10` | % of 10-star public ratings in IMDB as of September 2024 | 0
@@ -44,7 +44,7 @@ Variable | Description | NA
 
 ### Binary Predictor Options (for Step 1)
 
-Variable | Description | NA
+Variable | Description | NA (# missing)
 --------: | ------------------------------------------ | ----
 `gen_1` | Gender of star_1 (M or F) | 0
 `origin` | Country of Origin includes US? (Yes or No) | 0
@@ -61,7 +61,7 @@ Variable | Description | NA
 
 Any of the variables in the outcome options list that you didn't already use, and also any of these variables:
 
-Variable | Description | NA
+Variable | Description | NA (# missing)
 --------: | ------------------------------------------ | ----
 `year` | Year Movie was Released | 0
 `kim_sn` | Kids-In-Mind Sex & Nudity rating (1 - 10, higher = more) | 71
@@ -70,7 +70,7 @@ Variable | Description | NA
 
 ### Multi-Categorical Predictor Options (for Step 3)
 
-Variable | Description | NA
+Variable | Description | NA (# missing)
 --------: | ------------------------------------------ | ----
 `mpa` | Motion Picture Association rating (we'll only use PG, PG-13, R and Other) | 0
 `bw_rating` | Bechdel-Wallace Test Criteria Met (0-3) | 10
