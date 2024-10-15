@@ -45,11 +45,15 @@ We'll do [Breakout Activity 3 about our Favorite Movies](https://github.com/THOM
 
 ## One Last Thing
 
-![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/rcp_2024-10-14.png)
+A great piece to read about polling and the presidential election is from Nate Cohn at the New York Times called [How One Polling Decision Is Leading to Two Distinct Stories of the Election](https://www.nytimes.com/2024/10/06/upshot/polling-methods-election.html), posted 2024-10-06 and updated 2024-10-07.
 
-![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/nyt_2024-10-14.png)
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/rcp_2024-10-14.png) from <https://www.realclearpolling.com/polls/president/general/2024/trump-vs-harris>
 
-![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/silver_2024-10-14.png)
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/nyt_2024-10-14.png) from <https://www.nytimes.com/interactive/2024/us/elections/polls-president.html>
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/silver_2024-10-14.png) from <https://www.natesilver.net/p/nate-silver-2024-president-election-polls-model>
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/nyt_2024-10-14_2.png) from <https://www.nytimes.com/2024/10/14/upshot/polling-trump-harris-election.html>
 
 
 
