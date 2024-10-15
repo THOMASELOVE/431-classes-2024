@@ -14,7 +14,7 @@ We will complete this task in Class 15 (2024-10-15).
 3. As a group, you will select four variables, which will fuel three analyses, and then describe research questions that lead to specific comparisons using those variables, as described below.
 4. Ensure that your group's reporter has completed [the Google Form](https://bit.ly/431-2024-movies-3) to report your group's responses and has submitted the form successfully (they should receive an email confirmation.)
 
-**Step 1.** First, you will identify a comparison of a quantitative outcome (from the list below) across levels of a binary predictor (from the list below) that is of interest to you, and create a research question which leads directly to that comparison, is written clearly, and ends with a question mark.
+**Step 1.** First, you will identify a comparison of a quantitative outcome (from the [outcome options list below](#outcome-options-for-step-1)) across levels of a binary predictor (from the list below) that is of interest to you, and create a research question which leads directly to that comparison, is written clearly, and ends with a question mark.
 
 **Step 2.** Next, you will identify a covariate (a quantitative predictor which should have a reasonably strong relationship with the outcome you chose in Step 1) which we could adjust for in making the comparison you developed in Step 1, and you'll then create a revised Step 1 research question to include the fact that you'll be adjusting for this covariate.
 
