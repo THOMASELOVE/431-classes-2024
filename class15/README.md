@@ -40,5 +40,11 @@ We'll do [Breakout Activity 3 about our Favorite Movies](https://github.com/THOM
 
 ## One Last Thing
 
-![](
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/rcp_2024-10-14.png)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/nyt_2024-10-14.png)
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class15/silver_2024-10-14.png)
+
+
 
