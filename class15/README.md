@@ -6,10 +6,9 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 - Suggested [R/RStudio/Quatro learning resources](https://thomaselove.github.io/431-2024/resources.html)
 
-## Seven More Wins
+## Seven (or Eight) More Wins...
 
 ![](fg_2024-10-14.png)
-
 
 ## Today's Slides
 
