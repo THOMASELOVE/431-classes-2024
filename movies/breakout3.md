@@ -46,7 +46,6 @@ Variable | Source | Description
 `gross_northA` | IMDB | Gross Revenue in US and Canada ($)
 `gross_world` | IMDB | Gross Revenue Worldwide ($)
 `pct_northA` | IMDB | % of gross_world from US and Canada
-`box_off_mult` | IMDB | World Wide Gross Revenue (as a fraction of production budget)
 `fc_globalrk` | Flickchart.com | Global ranking on flickchart (at flickchart dot com) as of 2024-09
 `fc_pctwins` | Flickchart.com | % of matchups won on flickchart as of 2024-09
 `fc_users` | Flickchart.com | Flickchart users who've ranked movie as of 2024-09
