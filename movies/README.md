@@ -23,5 +23,5 @@ On our Shared Google Drive in the `Favorite Movies` subfolder, you'll find a ser
 
 ## Breakout Session 3
 
-- Here's our [third breakout activity](breakout3.md), which we will go through in Class 15 (2024-10-15). It uses the `movies_2024-10-15` version of the data.
+- Here's our [third breakout activity](breakout3.md). It uses the `movies_2024-10-15` version of the data, which we'll ingest into R in [Class 15](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class15) before we tackle the activity.
 
