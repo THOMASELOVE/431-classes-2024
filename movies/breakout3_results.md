@@ -2,9 +2,9 @@
 
 Group | Outcome | Binary  | Covariate | Multi-Category | Complete | r
 :----------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-------: | ---:
-Tukey (from Atticus) | potentially triggering events (3) | primary language English | length | oscars won | 225 | 0.15
+Tukey (from Ajay) | potentially triggering events (3) | primary language English | length | streaming services | 225 | 0.15
 Hard R Cafe | potentially triggering events (3) | country of origin includes US | year (or age) | oscars won | 225 | 0.06
-Tukey (from Ajay) | potentially triggering events (3) | star 1 gender | length | streaming services | 225 | 0.15
+Tukey (from Atticus) | potentially triggering events (3) | star 1 gender | length | oscars won | 225 | 0.15
 Halloween Time Stats | budget (22) | country of origin includes US | year (or age) | Bechdel-Wallace rating (10) | 203 | 0.38
 Something Unique Tokyo Drift | budget (22) | country of origin includes US | length | oscars won | 206 | 0.22
 PB & J | gross worldwide revenue (8) | star 1 gender | budget (22) | oscars won | 204 | 0.78
