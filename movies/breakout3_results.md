@@ -16,4 +16,4 @@ And Then There Were Three | gross worldwide revenue (8) | is movie a drama | Kid
 Vintage Macbooks | awards won | has Dr. Love seen it | length | Bechdel-Wallace rating (10) | 218 | 0.23
 Ghostbusters | awards won | star 1 gender | year (or age) | Bechdel-Wallace rating (10) | 218 | 0.26
 
-See the slides for Class 16 for more detailed reporting on your suggested analyses.
+See the slides from [Class 16](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class16) for more detailed reporting on your suggested analyses.
