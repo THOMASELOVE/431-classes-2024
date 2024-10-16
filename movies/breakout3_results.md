@@ -1,5 +1,9 @@
 # Results from Breakout Activity 3
 
+- Numbers in parentheses next to variable names show missing value counts.
+- **Complete** is the number of movies (out of our 228 movies) which have complete data on the group's proposed four variables.
+- **r** is the Pearson correlation between the outcome and the covariate, using the observations with complete data on those two variables.
+
 Group | Outcome | Binary  | Covariate | Multi-Category | Complete | r
 :----------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-----------------------: | :-------: | ---:
 Tukey (from Ajay) | potentially triggering events (3) | primary language English | length | streaming services | 225 | 0.15
@@ -12,6 +16,4 @@ And Then There Were Three | gross worldwide revenue (8) | is movie a drama | Kid
 Vintage Macbooks | awards won | has Dr. Love seen it | length | Bechdel-Wallace rating (10) | 218 | 0.23
 Ghostbusters | awards won | star 1 gender | year (or age) | Bechdel-Wallace rating (10) | 218 | 0.26
 
-- Numbers in parentheses next to variable names show missing value counts.
-- **Complete** is the number of movies (out of our 228 movies) which have complete data on the group's proposed four variables.
-- **r** is the Pearson correlation between the outcome and the covariate, using the observations with complete data on those two variables.
+See the slides for Class 16 for more detailed reporting on your suggested analyses.
