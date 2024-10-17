@@ -17,3 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. Our next class (Class 17) will be Thursday 2024-10-24. It will be an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom, rather than in person.
 2. Class is cancelled on Tuesday 2024-10-22 and Office hours are canceled on Monday 2024-10-21 and Tuesday 2024-10-22. Enjoy your Fall Break.
 3. Our next in-person class will be Class 18, on Tuesday 2024-10-29.
+
+## One Last Thing
+
+![](silver_2024-10-15.png), from [Are Republican pollsters “flooding the zone?”](https://www.natesilver.net/p/are-republican-pollsters-flooding) by Eli McKown-Dawson at Silver Bulletin posted 2024-10-16.
