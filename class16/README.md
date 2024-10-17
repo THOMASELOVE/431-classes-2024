@@ -22,7 +22,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Quiz 1 
 
 - A set of Answers and a summary of Results across all 54 students is **available now** as a PDF in our Shared Google Drive folder. Look for the "Answers and Results for Quiz 1" subfolder within "431 Quiz 1 Materials." It's a 45 page document, so it'll take you some time to look through it all.
-    - Nonetheless, I'm asking you to read through the document before you ask me any questions about the Quiz. I am very likely to have answered your question within the document.
+    - Nonetheless, I'm asking you to read through the document **before** you ask me any questions about the Quiz. I am very likely to have answered your question within the document.
 - At the end of the PDF document is a summary of how the class did, and an **explanation** of how your score on Quiz 1 was calculated.
 - Most of the grades were in the A or B range, so that's great.
 - Later today, you will receive an email from me containing:
