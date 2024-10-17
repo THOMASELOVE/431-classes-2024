@@ -19,10 +19,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. Class is cancelled on Tuesday 2024-10-22 and Office hours are canceled on Monday 2024-10-21 and Tuesday 2024-10-22. Enjoy your Fall Break.
 4. Our next in-person class will be Class 18, on Tuesday 2024-10-29.
 
-## Quiz 1 Advice
+## Quiz 1 
 
-- If you didn't do as well as you'd like on the Quiz, go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on your Project A.
-- If you did do as well as you'd like on the Quiz, great! Go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on your Project A.
+- Most of the grades were in the A or B range, so that's great.
+- Here is our advice to you about the Quiz...
+    - If you didn't do as well as you'd like on the Quiz, go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on Project A.
+    - If you did do as well as you'd like on the Quiz, great! Go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on Project A.
+
 
 ## One Last Thing
 
