@@ -33,6 +33,17 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - If you didn't do as well as you'd like on the Quiz, go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on Project A.
     - If you did do as well as you'd like on the Quiz, great! Go over the provided Answer Sketch (PDF) in our Shared Google Drive folder to see where you went wrong, and if you still don't understand something, ask us about it on Campuswire or in TA office hours. Then forget about the Quiz, and work on Project A.
 
+## References related to Multiple Imputation and Today's Slides
+
+- Sterne JAC et al [Multiple imputation for missing data in epidemiological and clinical research: potential and pitfalls](https://www.bmj.com/content/338/bmj.b2393) BMJ 2009; 338:b2393.
+- [Flexible Imputation of Missing Data, 2nd edition](https://stefvanbuuren.name/fimd/) by Stef Van Buuren
+- The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
+    - Stef van Buuren, Karin Groothuis-Oudshoorn (2011). [mice: Multivariate Imputation by Chained Equations in R](https://www.jstatsoft.org/article/view/v045i03). Journal of Statistical Software, 45(3), 1-67. DOI 10.18637/jss.v045.i03.
+- Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
+- The `mipo` (Multiple Imputation pooled object) help file [can be found here](https://rdrr.io/cran/mice/man/mipo.html).
+- [Getting Started with Multiple Imputation in R](https://library.virginia.edu/data/articles/getting-started-with-multiple-imputation-in-r)
+- [Multiple Imputation with the mice package](https://rmisstastic.netlify.app/tutorials/erler_course_multipleimputation_2018/erler_practical_mice_2018)
+
 ## One Last Thing
 
 ![](silver_2024-10-15.png), from [Are Republican pollsters “flooding the zone?”](https://www.natesilver.net/p/are-republican-pollsters-flooding) by Eli McKown-Dawson at Silver Bulletin posted 2024-10-16.
