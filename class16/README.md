@@ -21,3 +21,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## One Last Thing
 
 ![](silver_2024-10-15.png), from [Are Republican pollsters “flooding the zone?”](https://www.natesilver.net/p/are-republican-pollsters-flooding) by Eli McKown-Dawson at Silver Bulletin posted 2024-10-16.
+
+## Come see me in Agatha Christie's "And Then There Were None"!
+
+October 25 - November 16, 2024 on Fridays and Saturdays at 7:30 PM. Tickets and more information at <https://www.auroracommunitytheatre.com/>. My [theater page is here](https://github.com/THOMASELOVE/theater), if you're interested.
+
+![](attwn.jpg)
