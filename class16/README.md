@@ -18,6 +18,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Our next class (Class 17) will be Thursday 2024-10-24. It will be an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom, rather than in person.
 3. Class is cancelled on Tuesday 2024-10-22 and Office hours are canceled on Monday 2024-10-21 and Tuesday 2024-10-22. Enjoy your Fall Break.
 4. Our next in-person class will be Class 18, on Tuesday 2024-10-29.
+5. Part of today's class will be devoted to discussing the [results from Breakout Activity 3](https://github.com/THOMASELOVE/431-classes-2024/blob/main/movies/breakout3_results.md) (in the Favorite Movies saga.)
 
 ## Quiz 1 
 
