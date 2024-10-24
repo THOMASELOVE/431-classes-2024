@@ -8,7 +8,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 ## Announcements
 
-1. Today's Class 17 is an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom during our usual class time. So far, there are no slides.
+1. Today's Class 17 is an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link should be in your email.
 2. Your [Project A Portfolio](https://thomaselove.github.io/431-projectA-2024/) is due Wednesday 2024-10-30 at Noon.
     - Completing the portfolio means sending your (1) R data set, (2) Quarto file, (3) HTML result of rendering the Quarto file, and (4) video file (maximum 3 minutes, highlighting 2 of your analyses) to us via [Canvas](https://canvas.case.edu), then completing (5) [the self-evaluation form](https://bit.ly/431-projectA-self-evaluation-2024).
     - Be sure to review the [detailed instructions for the highlight video](https://thomaselove.github.io/431-projectA-2024/portfolio.html#the-highlight-video) in the instructions carefully. Details matter.
