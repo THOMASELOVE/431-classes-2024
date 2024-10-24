@@ -55,4 +55,4 @@ I also have various professional roles (as a teacher, for example) where I have 
 
 ## One Last Thing
 
-I'm not much of a Reddit guy, but [this is my favorite Reddit thread](https://www.reddit.com/r/askscience/comments/hrljbe/askscience_ama_series_we_are_statistics/), I think. At least in a professional capacity.
+I'm not someone who uses Reddit, but [this is my favorite Reddit thread](https://www.reddit.com/r/askscience/comments/hrljbe/askscience_ama_series_we_are_statistics/), I think. At least in a professional capacity. It's about data literacy.
