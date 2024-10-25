@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. There is a Minute Paper due Wednesday 2024-10-30 at noon. **Link to be posted by class time.**
+1. There is a [Minute Paper](https://bit.ly/431-2024-minute-18) due Wednesday 2024-10-30 at noon. That link is <https://bit.ly/431-2024-minute-18>.
 2. Your [Project A Portfolio](https://thomaselove.github.io/431-projectA-2024/) is also due Wednesday 2024-10-30 at Noon.
     - Completing the portfolio means sending your (1) R data set, (2) Quarto file, (3) HTML result of rendering the Quarto file, and (4) video file (maximum 3 minutes, highlighting 2 of your analyses) to us via [Canvas](https://canvas.case.edu), then completing (5) [the self-evaluation form](https://bit.ly/431-projectA-self-evaluation-2024).
     - Please review the [detailed instructions for the highlight video](https://thomaselove.github.io/431-projectA-2024/portfolio.html#the-highlight-video) in the instructions carefully. Details matter.
