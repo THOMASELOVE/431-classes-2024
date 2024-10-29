@@ -4,8 +4,8 @@ Current Stage: Submission of Rds, qmd, html and mp4 to Canvas, as well as self-e
 
 ## Individuals
 
-Group | Investigator | Submission Status | Self-Evalulation
-:---: | :----------------: | :---------------------------------------------------------------------------: | :------------:
+Group | Investigator | Portfolio Status | Self-Evalulation
+:---: | :----------------: | :--------------------------------------------------------------------------- | :------------:
 1 | Haley Altadonna |
 2 | Saar Anis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 6:33 PM | Received
 4 | Kelly Bowen |
@@ -39,8 +39,8 @@ Group | Investigator | Submission Status | Self-Evalulation
 
 ## Teams of Two
 
-Group | Investigators | Submission Status | Self-Evalulation
-:---: | :----------------: | :---------------------------------------------------------------------------: | :------------:
+Group | Investigators | Portfolio Status | Self-Evalulation
+:---: | :----------------: | :--------------------------------------------------------------------------- | :------------:
 3 | Brooke Bhattacharya <br /> Veda Machiraju |
 7 | Carly DaCosta <br /> Gabrielle Davis | 
 9 | Reilly Burhanna <br /> Jose Diz Ferre |
@@ -48,7 +48,7 @@ Group | Investigators | Submission Status | Self-Evalulation
 36 | Zuhair Khan <br /> Graham Stockdale | 
 19 | Anika Krishna <br /> Madaline Witort | 
 21 | Tom Kupferer <br /> Shraddha Dumawat | 
-30 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-20 9:32 AM <br /> Partner note also posted. | Received from each person. 
+30 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-20 9:32 AM <br /> Partner note posted. | Received <br /> Received 
 38 | Gina Lin <br /> JiaWei Yu | 
 34 | Cassandra Lopez <br /> Debbie Seifert | 
 33 | Feriel Presswalla <br /> Alayna Rowell | 
