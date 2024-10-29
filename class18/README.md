@@ -33,6 +33,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Chapter 2 on [Data and measurement (pdf)](https://statmodeling.stat.columbia.edu/wp-content/uploads/2021/01/raos_chapter2.pdf) from [Regression and Other Stories](https://avehtari.github.io/ROS-Examples/) by Andrew Gelman, Jennifer Hill and Aki Vehtari.
     - Chapter 16 on [Design and sample size decisions (pdf)](https://statmodeling.stat.columbia.edu/wp-content/uploads/2021/01/raos_chapter16.pdf) is also available, and this is a substantial part of the 432 class.
 
+## If we have time...
+
+I'll spend a few minutes on the [538 model of the US elections](https://projects.fivethirtyeight.com/2024-election-forecast/) that conclude next Tuesday.
+
 ## One Last Thing
 
 Can you guess the Graph? <https://www.graphs.world/>
