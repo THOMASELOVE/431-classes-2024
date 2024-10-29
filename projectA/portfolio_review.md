@@ -1,4 +1,6 @@
-# Project A Portfolio Review Status
+# Project A Portfolio Status
+
+Current Stage: Submission of Materials to Canvas, due 2024-10-30 at noon.
 
 ## Individuals
 
