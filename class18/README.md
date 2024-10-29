@@ -22,7 +22,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. Once you've completed Project A and the Minute Paper, good things to work on are [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5), due 2024-11-06, and [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7).
 4. We will start to discuss [Project B](https://thomaselove.github.io/431-projectB-2024/) on Thursday.
 5. Remember that I have cancelled 431 class on Election Day: next Tuesday 2024-11-05. CWRU, in general, is open that day, and TA office hours will be held that day.
-6. Chapters 1-20 of the [Course Book](https://thomaselove.github.io/431-book/) are now available.
+6. Chapters 19-20 of the [Course Book](https://thomaselove.github.io/431-book/) are now available.
 
 ## References That Might Interest You
 
