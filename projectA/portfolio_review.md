@@ -39,8 +39,8 @@ Group | Investigator | Submission Status | Self-Evalulation
 
 ## Teams of Two
 
-Group | Investigators | Status
-:---: | :----------------: | :---------------------------------------------------------------------------:
+Group | Investigators | Submission Status | Self-Evalulation
+:---: | :----------------: | :---------------------------------------------------------------------------: | :------------:
 3 | Brooke Bhattacharya <br /> Veda Machiraju |
 7 | Carly DaCosta <br /> Gabrielle Davis | 
 9 | Reilly Burhanna <br /> Jose Diz Ferre |
