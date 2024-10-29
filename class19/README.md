@@ -12,6 +12,20 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 19 | 2024-10-31 | **[Slides 19](https://thomaselove.github.io/431-slides-2024/class19.html)** | **[Word 19](https://thomaselove.github.io/431-slides-2024/class19w.docx)** | **[Code 19](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class19.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Happy Halloween
+
+![](halloween_2024.png)
+
+- Excerpt from [Halloween Facts Infographic: Spooky Stats for 2024](https://wallethub.com/blog/halloween-facts/25374) by John S. Kiernan.
+
 ## Announcements
 
 1. To come.
+
+
+## One Last Thing
+
+[The Ultimate Halloween Candy Power Ranking](https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/) from FiveThirty Eight in 2017.
+
+- Data available [on Github](https://github.com/fivethirtyeight/data/tree/master/candy-power-ranking)
+- Check out the survey at [What's the best Halloween candy?](https://walthickey.com/2017/10/18/whats-the-best-halloween-candy/)
