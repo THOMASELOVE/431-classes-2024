@@ -2,7 +2,7 @@
 
 ## Individuals
 
-Group | Investigator | Status
+Group | Investigator | Submission Status
 :---: | :----------------: | :---------------------------------------------------------------------------:
 1 | Haley Altadonna |
 2 | Saar Anis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 6:33 PM
