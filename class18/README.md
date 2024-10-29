@@ -42,6 +42,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 I'll spend a few minutes on the [538 model of the US elections](https://projects.fivethirtyeight.com/2024-election-forecast/) that conclude next Tuesday.
 
+## And Then There Were None
+
+The first two performances went very well. If you'd like to see the play, which continues on Fridays and Saturdays at 7:30 for the next three weeks, visit <https://www.auroracommunitytheatre.com/> for tickets.
+
 ## One Last Thing
 
 Can you guess the Graph? <https://www.graphs.world/>
