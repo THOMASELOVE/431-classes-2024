@@ -23,6 +23,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. We will start to discuss [Project B](https://thomaselove.github.io/431-projectB-2024/) on Thursday.
 5. Remember that I have cancelled 431 class on Election Day: next Tuesday 2024-11-05. CWRU, in general, is open that day, and TA office hours will be held that day.
 6. Chapters 19-20 of the [Course Book](https://thomaselove.github.io/431-book/) are now available.
+7. If you haven't [updated your R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages) recently, now would be a good time to do so.
 
 ## References That Might Interest You
 
