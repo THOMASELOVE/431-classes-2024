@@ -20,10 +20,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - Please review the [detailed instructions for the highlight video](https://thomaselove.github.io/431-projectA-2024/portfolio.html#the-highlight-video) in the instructions carefully. Details matter.
     - I hope to complete grading on the Project A work and return feedback to you before class 20 on Thursday 2024-11-07.
 3. Once you've completed Project A and the Minute Paper, good things to work on are [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5), due 2024-11-06, and [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7).
-4. We will start to discuss [Project B](https://thomaselove.github.io/431-projectB-2024/) on Thursday.
-5. Remember that I have cancelled 431 class on Election Day: next Tuesday 2024-11-05. CWRU, in general, is open that day, and TA office hours will be held that day.
-6. Chapters 19-20 of the [Course Book](https://thomaselove.github.io/431-book/) are now available.
-7. If you haven't [updated your R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages) recently, now would be a good time to do so.
+    - I made a small addition to the Lab 5 instructions this morning (2024-10-29) to clarify what seed to use and how many bootstrap replications to use.
+4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) instructions are also available now, although we haven't covered everything you'll need to do that one yet.
+5. Chapters 19-20 of the [Course Book](https://thomaselove.github.io/431-book/) are now available.
+6. I will start to discuss [Project B](https://thomaselove.github.io/431-projectB-2024/) on Thursday 2024-10-31.
+7. Remember that I have cancelled 431 class on Election Day: next Tuesday 2024-11-05. CWRU, in general, is open that day, and TA office hours will be held that day.
+8. If you haven't [updated your R packages](https://thomaselove.github.io/431-2024/software.html#updating-your-r-packages) recently, now would be a good time to do so.
 
 ## References That Might Interest You
 
