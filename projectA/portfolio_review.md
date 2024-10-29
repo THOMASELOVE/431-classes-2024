@@ -1,6 +1,6 @@
 # Project A Portfolio Status
 
-Current Stage: Submission of Rds, qmd, html and mp4 to Canvas, as well as self-evaluation Google Form, due 2024-10-30 at noon.
+**Current Stage**: Submission of Rds, qmd, html and mp4 to Canvas, as well as self-evaluation Google Form, due 2024-10-30 at noon.
 
 ## Individuals
 
