@@ -17,8 +17,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 1. There is a [Minute Paper](https://bit.ly/431-2024-minute-18) due Wednesday 2024-10-30 at noon. That link is <https://bit.ly/431-2024-minute-18>.
 2. Your [Project A Portfolio](https://thomaselove.github.io/431-projectA-2024/) is also due Wednesday 2024-10-30 at Noon.
     - Completing the portfolio means sending your (1) R data set, (2) Quarto file, (3) HTML result of rendering the Quarto file, and (4) video file (maximum 3 minutes, highlighting 2 of your analyses) to us via [Canvas](https://canvas.case.edu), then completing (5) [the self-evaluation form](https://bit.ly/431-projectA-self-evaluation-2024).
-    - Please review the [detailed instructions for the highlight video](https://thomaselove.github.io/431-projectA-2024/portfolio.html#the-highlight-video) in the instructions carefully. Details matter.
-    - I hope to complete grading on the Project A work and return feedback to you before class 20 on Thursday 2024-11-07.
+    - If you're working with a partner, make sure that each of you (separately) complete [the self-evaluation form](https://bit.ly/431-projectA-self-evaluation-2024).
+    - Please review the [detailed instructions for the highlight video](https://thomaselove.github.io/431-projectA-2024/portfolio.html#the-highlight-video) with care. Details matter.
+    - We hope to complete grading on the Project A work and return feedback to you before Class 20 on Thursday 2024-11-07.
 3. Once you've completed Project A and the Minute Paper, good things to work on are [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5), due 2024-11-06, and [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7).
     - I made a small addition to the Lab 5 instructions this morning (2024-10-29) to clarify what seed to use and how many bootstrap replications to use.
 4. [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) instructions are also available now, although we haven't covered everything you'll need to do that one yet.
