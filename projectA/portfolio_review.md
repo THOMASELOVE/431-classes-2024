@@ -1,6 +1,6 @@
 # Project A Portfolio Status
 
-**Current Stage**: Reviewing submissions.
+**Current Stage**: The TAs and Dr. Love are now actively reviewing your submitted work.
 
 - I am in receipt of all "partner" notes, all Self-Evaluation forms and all R data sets, video, Quarto and HTML files.
 
