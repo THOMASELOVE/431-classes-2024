@@ -46,10 +46,10 @@ Group | Investigator(s) | Submission |
 
 ## Third Set of 14 projects
 
-Group | Investigator(s) | Submission | 
-:---: | :----------------: | :-------: | 
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :---------------------------------------------------
 29 | Ajay Mahenthiran | OK
-30 | Morgan McLoughlin | **No Rds file. No video submitted (.m4a is audio only).**
+30 | Morgan McLoughlin | **Problems** | **No Rds file. No video submitted (.m4a is audio only).**
 31 | Nihit Mehta | OK
 32 | Mohammad Nasirpour | OK
 33 | Nick Nazak <br /> Rebecca Stinson | OK
@@ -60,5 +60,5 @@ Group | Investigator(s) | Submission |
 38 | Toni Shoyinka | OK
 39 | Guanyu Wei | OK
 40 | Megan Zelinsky | OK
-41 | Isaac Zeng | **Rds file not submitted.** 
+41 | Isaac Zeng | **Problem** | **Rds file not submitted.** 
 42 | Spancer Zhou | OK
