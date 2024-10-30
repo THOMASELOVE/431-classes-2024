@@ -34,7 +34,7 @@ Group | Investigator | Portfolio Status | Self-Evalulation
 35 | Toni Shoyinka | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 11:50 AM | Received
 37 | Guanyu Wei |  OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:56 AM | Received
 39 | Megan Zelinsky | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:12 AM | Received
-40 | Isaac Zeng | - | Received
+40 | Isaac Zeng | **Rds file not submitted.** | Received
 41 | Spancer Zhou | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:14 PM | Received
 
 ## Teams of Two
