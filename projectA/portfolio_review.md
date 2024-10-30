@@ -50,6 +50,6 @@ Group | Investigators | Portfolio Status | Self-Evalulation
 3 | Veda Machiraju <br /> Brooke Bhattacharya | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:09 PM <br /> - | Received <br /> -
 37 | Nick Nazak <br /> Rebecca Stinson | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:30 AM <br /> Partner note posted. | Received <br /> Received
 33 | Feriel Presswalla <br /> Alayna Rowell | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:33 PM <br /> Partner note posted. | Received <br /> Received
-34 | Debbie Seifert <br /> Cassandra Lopez | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:54 AM <br /> Partner note posted. | Received < br /> -
+34 | Debbie Seifert <br /> Cassandra Lopez | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:54 AM <br /> Partner note posted. | Received <br /> -
 10 | Mahsa Sheikh <br /> Tatiana Dombrovski | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 6:56 AM <br /> Partner note posted. | Received <br /> Received
 38 | JiaWei Yu <br /> Gina Lin | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 10:04 PM <br /> Partner note posted. | Received <br /> Received
