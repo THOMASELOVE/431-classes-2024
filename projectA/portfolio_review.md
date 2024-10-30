@@ -1,10 +1,9 @@
 # Project A Portfolio Status
 
-**Current Stage**: Reviewing submission details.
+**Current Stage**: Reviewing submissions.
 
-- All "partner" notes have been received.
-- All Self-Evaluation forms have been received.
-- I have Quarto and HTML files for all 42 projects. I am missing one video and two R data sets.
+- I am in receipt of all "partner" notes, all Self-Evaluation forms and all Quarto and HTML files.
+- At present, I am missing one video and two R data sets.
 
 ## First 7 projects
 
