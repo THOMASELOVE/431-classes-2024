@@ -32,7 +32,7 @@ Group | Investigator(s) | Submission |
 15 | Derek Host | OK
 16 | Dana Jian | OK
 17 | Paul Jones | OK
-18 | Brooke Jurasius | OK
+18 | Brooke Jurasius | OK | Video is 3:21 (21 seconds longer than the limit)
 19 | Atticus Kenny | OK
 20 | Zuhair Khan <br /> Graham Stockdale | OK
 21 | Anika Krishna <br /> Madaline Witort | OK
@@ -53,7 +53,7 @@ Group | Investigator(s) | Submission | Details
 31 | Nihit Mehta | OK
 32 | Mohammad Nasirpour | OK
 33 | Nick Nazak <br /> Rebecca Stinson | OK
-34 | Dali Nemecio | OK
+34 | Dali Nemecio | OK | Video is 3:23 (23 seconds longer than the limit)
 35 | Katherine Papahadjoulos | OK
 36 | Arya Patel | OK
 37 | Feriel Presswalla <br /> Alayna Rowell | OK
