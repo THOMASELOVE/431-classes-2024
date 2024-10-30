@@ -8,8 +8,8 @@
 
 ## First Set of 14 projects
 
-Group | Investigator(s) | Submission | 
-:---: | :----------------: | :-------: | 
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :-------------------:
 01 | Haley Altadonna | OK | 
 02 | Saar Anis | OK
 03 | Veda Machiraju <br /> Brooke Bhattacharya | OK
