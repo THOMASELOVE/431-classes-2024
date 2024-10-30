@@ -6,10 +6,10 @@
 - All Self-Evaluation forms have been received.
 - I have Quarto and HTML files for all 42 projects. I am missing one video and two R data sets.
 
-## First Set of 14 projects
+## First 7 projects
 
 Group | Investigator(s) | Submission | Details
-:---: | :----------------: | :-------: | :-------------------:
+:---: | :----------------: | :-------: | :---------------------------------------------------
 01 | Haley Altadonna | OK | 
 02 | Saar Anis | OK
 03 | Veda Machiraju <br /> Brooke Bhattacharya | OK
@@ -17,6 +17,11 @@ Group | Investigator(s) | Submission | Details
 05 | Reilly Burhanna <br /> Jose Diz Ferre | OK
 06 | Sonny Caradonna | OK
 07 | Sarah Cooke | OK
+
+## Projects 08-14
+
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :---------------------------------------------------
 08 | Carly DaCosta <br /> Gabrielle Davis | OK
 09 | Aishwarya Deengar | OK
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | OK
@@ -25,10 +30,10 @@ Group | Investigator(s) | Submission | Details
 13 | Monica Ghosh | OK
 14 | Alexis Heath | OK
 
-## Second Set of 14 projects
+## Projects 15-21
 
-Group | Investigator(s) | Submission | 
-:---: | :----------------: | :-------: | 
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :---------------------------------------------------
 15 | Derek Host | OK
 16 | Dana Jian | OK
 17 | Paul Jones | OK
@@ -36,6 +41,11 @@ Group | Investigator(s) | Submission |
 19 | Atticus Kenny | OK
 20 | Zuhair Khan <br /> Graham Stockdale | OK
 21 | Anika Krishna <br /> Madaline Witort | OK
+
+## Projects 22-28
+
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :---------------------------------------------------
 22 | Harshita Kumar | OK
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK
 24 | Weiyun Liang | OK
@@ -44,7 +54,7 @@ Group | Investigator(s) | Submission |
 27 | Rachel Liu | OK
 28 | Debbie Seifert <br /> Cassandra Lopez | OK
 
-## Third Set of 14 projects
+## Projects 29-35
 
 Group | Investigator(s) | Submission | Details
 :---: | :----------------: | :-------: | :---------------------------------------------------
@@ -55,6 +65,11 @@ Group | Investigator(s) | Submission | Details
 33 | Nick Nazak <br /> Rebecca Stinson | OK
 34 | Dali Nemecio | OK | Video is 3:23 (23 seconds longer than the limit)
 35 | Katherine Papahadjoulos | OK
+
+## Projects 36-42
+
+Group | Investigator(s) | Submission | Details
+:---: | :----------------: | :-------: | :---------------------------------------------------
 36 | Arya Patel | OK
 37 | Feriel Presswalla <br /> Alayna Rowell | OK
 38 | Toni Shoyinka | OK
