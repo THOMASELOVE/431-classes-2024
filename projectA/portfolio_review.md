@@ -32,7 +32,7 @@ Group | Investigator | Portfolio Status | Self-Evalulation
 31 | Katherine Papahadjoulos | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 7:32 PM | Received
 32 | Arya Patel | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 5:15 AM | Received
 35 | Toni Shoyinka | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 11:50 AM | Received
-37 | Guanyu Wei |  OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:56 AM | 
+37 | Guanyu Wei |  OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:56 AM | Received
 39 | Megan Zelinsky | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:12 AM | Received
 40 | Isaac Zeng | - | Received
 41 | Spancer Zhou | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:14 PM | Received
@@ -45,7 +45,7 @@ Group | Investigators | Portfolio Status | Self-Evalulation
 7 | Carly DaCosta <br /> Gabrielle Davis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 11:13 PM <br /> Partner note posted. | Received <br /> Received
 21 | Shraddha Dumawat <br /> Tom Kupferer | - <br /> Partner note posted. | Received <br /> -
 36 | Zuhair Khan <br /> Graham Stockdale | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:11 PM <br /> Partner note posted. | Received <br /> Received
-19 | Anika Krishna <br /> Madaline Witort | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:05 PM <br /> - |
+19 | Anika Krishna <br /> Madaline Witort | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:05 PM <br /> - | - <br /> Received
 30 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-20 9:32 AM <br /> Partner note posted. | Received <br /> Received 
 3 | Veda Machiraju <br /> Brooke Bhattacharya | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:09 PM <br /> - | Received <br /> -
 37 | Nick Nazak <br /> Rebecca Stinson | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:30 AM <br /> Partner note posted. | Received <br /> Received
