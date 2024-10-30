@@ -45,9 +45,9 @@ Group | Investigators | Portfolio Status | Self-Evalulation
 7 | Carly DaCosta <br /> Gabrielle Davis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 11:13 PM <br /> Partner note posted. | Received <br /> Received
 21 | Shraddha Dumawat <br /> Tom Kupferer | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:10 PM <br /> Partner note posted. | Received <br /> Received 
 36 | Zuhair Khan <br /> Graham Stockdale | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:11 PM <br /> Partner note posted. | Received <br /> Received
-19 | Anika Krishna <br /> Madaline Witort | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:05 PM <br /> - | - <br /> Received
+19 | Anika Krishna <br /> Madaline Witort | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:05 PM <br /> Partner note posted. | - <br /> Received
 30 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-20 9:32 AM <br /> Partner note posted. | Received <br /> Received 
-3 | Veda Machiraju <br /> Brooke Bhattacharya | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:09 PM <br /> - | Received <br /> Received
+3 | Veda Machiraju <br /> Brooke Bhattacharya | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 12:09 PM <br /> Partner note posted. | Received <br /> Received
 37 | Nick Nazak <br /> Rebecca Stinson | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:30 AM <br /> Partner note posted. | Received <br /> Received
 33 | Feriel Presswalla <br /> Alayna Rowell | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:33 PM <br /> Partner note posted. | Received <br /> Received
 34 | Debbie Seifert <br /> Cassandra Lopez | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:54 AM <br /> Partner note posted. | Received <br /> Received
