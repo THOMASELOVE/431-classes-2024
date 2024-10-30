@@ -35,7 +35,7 @@ Group | Investigator(s) | Notes
 15 | Derek Host | 
 16 | Dana Jian | 
 17 | Paul Jones | 
-18 | Brooke Jurasius | Video is 3:21 (21 seconds longer than the limit)
+18 | Brooke Jurasius | Video is 3:21 (21 seconds over limit)
 19 | Atticus Kenny | 
 20 | Zuhair Khan <br /> Graham Stockdale | 
 21 | Anika Krishna <br /> Madaline Witort | Two videos.
@@ -61,7 +61,7 @@ Group | Investigator(s) | Notes
 31 | Nihit Mehta 
 32 | Mohammad Nasirpour 
 33 | Nick Nazak <br /> Rebecca Stinson 
-34 | Dali Nemecio | Video is 3:23 (23 seconds longer than the limit)
+34 | Dali Nemecio | Video is 3:23 (23 seconds over limit)
 35 | Katherine Papahadjoulos 
 
 ## Projects 36-42
