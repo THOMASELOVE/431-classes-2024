@@ -3,7 +3,7 @@
 **Current Stage**: Reviewing submissions.
 
 - I am in receipt of all "partner" notes, all Self-Evaluation forms and all Quarto and HTML files.
-- At present, I am missing one video and two R data sets.
+- At present, I am missing one video and one R data set.
 
 ## First 7 projects
 
@@ -11,7 +11,7 @@ Group | Investigator(s) | Submission | Details
 :---: | :----------------: | :-------: | :---------------------------------------------------
 01 | Haley Altadonna | OK | 
 02 | Saar Anis | OK
-03 | Veda Machiraju <br /> Brooke Bhattacharya | OK
+03 | Veda Machiraju <br /> Brooke Bhattacharya | OK | Two videos rather than one.
 04 | Kelly Bowen | OK
 05 | Reilly Burhanna <br /> Jose Diz Ferre | OK
 06 | Sonny Caradonna | OK
@@ -23,7 +23,7 @@ Group | Investigator(s) | Submission | Details
 :---: | :----------------: | :-------: | :---------------------------------------------------
 08 | Carly DaCosta <br /> Gabrielle Davis | OK
 09 | Aishwarya Deengar | OK
-10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | OK
+10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | OK | Two videos rather than one.
 11 | Shraddha Dumawat <br /> Tom Kupferer | OK
 12 | Leia George | OK
 13 | Monica Ghosh | OK
@@ -39,7 +39,7 @@ Group | Investigator(s) | Submission | Details
 18 | Brooke Jurasius | OK | Video is 3:21 (21 seconds longer than the limit)
 19 | Atticus Kenny | OK
 20 | Zuhair Khan <br /> Graham Stockdale | OK
-21 | Anika Krishna <br /> Madaline Witort | OK
+21 | Anika Krishna <br /> Madaline Witort | OK | Two videos rather than one.
 
 ## Projects 22-28
 
@@ -48,7 +48,7 @@ Group | Investigator(s) | Submission | Details
 22 | Harshita Kumar | OK
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha | OK
 24 | Weiyun Liang | OK
-25 | JiaWei Yu <br /> Gina Lin | OK
+25 | JiaWei Yu <br /> Gina Lin | OK | Two videos rather than one.
 26 | Olivia Lindberg | OK
 27 | Rachel Liu | OK
 28 | Debbie Seifert <br /> Cassandra Lopez | OK
@@ -74,5 +74,5 @@ Group | Investigator(s) | Submission | Details
 38 | Toni Shoyinka | OK
 39 | Guanyu Wei | OK
 40 | Megan Zelinsky | OK
-41 | Isaac Zeng | **Problem** | **Rds file not submitted.** 
+41 | Isaac Zeng | OK
 42 | Spancer Zhou | OK
