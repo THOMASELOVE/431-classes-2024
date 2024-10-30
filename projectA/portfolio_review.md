@@ -2,9 +2,12 @@
 
 **Current Stage**: Submission of Rds, qmd, html and mp4 to Canvas, as well as self-evaluation Google Form, due 2024-10-30 at noon.
 
+- All "partner" notes have been received.
+- All Self-Evaluation forms have been received.
+
 ## Individuals
 
-Group | Investigator | Portfolio Status | Self-Evalulation
+Group | Investigator | Submission | Self-Evalulation
 :---: | :----------------: | :--------------------------------------------------------------------------- | :------------:
 1 | Haley Altadonna | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:33 AM | Received
 2 | Saar Anis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 6:33 PM | Received
@@ -25,7 +28,7 @@ Group | Investigator | Portfolio Status | Self-Evalulation
 23 | Olivia Lindberg | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 10:39 AM | Received
 24 | Rachel Liu | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 10:48 AM | Received
 42 | Ajay Mahenthiran | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:26 AM | Received
-25 | Morgan McLoughlin | **Rds file not submitted.** | Received
+25 | Morgan McLoughlin | **No Rds file submitted. No video submitted.** | Received
 26 | Nihit Mehta | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 11:43 PM | Received
 27 | Mohammad Nasirpour | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:40 AM | Received
 29 | Dali Nemecio | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:47 AM | Received
