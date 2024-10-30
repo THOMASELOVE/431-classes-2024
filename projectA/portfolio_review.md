@@ -9,7 +9,7 @@ Group | Investigator | Portfolio Status | Self-Evalulation
 1 | Haley Altadonna | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:33 AM | Received
 2 | Saar Anis | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 6:33 PM | Received
 4 | Kelly Bowen | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 10:02 PM | Received
-5 | Sonny Caradonna | - | Received
+5 | Sonny Caradonna | **No submission** | Received
 6 | Sarah Cooke | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 5:35 AM | Received
 8 | Aishwarya Deengar | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-29 9:09 PM | Received
 11 | Leia George | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 10:15 AM | Received
@@ -25,7 +25,7 @@ Group | Investigator | Portfolio Status | Self-Evalulation
 23 | Olivia Lindberg | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 10:39 AM | Received
 24 | Rachel Liu | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 10:48 AM | Received
 42 | Ajay Mahenthiran | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:26 AM | Received
-25 | Morgan McLoughlin | - | **No**
+25 | Morgan McLoughlin | **No submission** | **No**
 26 | Nihit Mehta | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-28 11:43 PM | Received
 27 | Mohammad Nasirpour | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:40 AM | Received
 29 | Dali Nemecio | OK. Rds, qmd, html and mp4 posted to Canvas 2024-10-30 11:47 AM | Received
