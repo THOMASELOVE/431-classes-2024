@@ -28,6 +28,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 4. I reposted [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) to make it clear that we want you to use **90%** confidence throughout. It is due next Wednesday 2024-11-06 at noon.
 5. Remember that we don't have 431 class (but our TAs will hold office hours) next Tuesday 2024-11-05 (Election Day).
 
+-------
+
+## On Early Voting Numbers (from [Silver Bulletin](https://www.natesilver.net/))
+
+![](stevens_2024.png)
+![](stevens_2024b.png)
+
+
+
+
 ## One Last Thing
 
 [The Ultimate Halloween Candy Power Ranking](https://fivethirtyeight.com/videos/the-ultimate-halloween-candy-power-ranking/) from FiveThirty Eight in 2017.
