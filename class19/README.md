@@ -30,19 +30,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 -------
 
-## On Early Voting Numbers (from [Silver Bulletin](https://www.natesilver.net/))
-
-![](stevens_2024a.png)
-
-...
-
-![](stevens_2024.png)
-
-...
-
-![](stevens_2024b.png)
-
-## State of the Race
+## State of the Presidential Race
 
 ![](evote_2024.png)
 
@@ -77,6 +65,21 @@ And this is the big, fundamental problem with preelection polling: We don't know
 As we enter the final week of this election, it is a good time to remember that uncertainty is an inherent part of polling and elections. That is especially true this year, with deadlocked races across the swing states. Given that polls are imperfect, our expectation is for them to be off by some amount in either direction. And if the polls do end up being off, given the closeness of the election, there is a rather wide spread in the range of Electoral College outcomes.
 
 In other words, we can sum up the current state of the race like this: Although Trump and Harris have roughly equal chances of winning the election, the final margin is not necessarily going to be close. In fact, there's a pretty high probability that it won't be.
+
+---
+
+## On Early Voting Numbers (from [Silver Bulletin](https://www.natesilver.net/))
+
+![](stevens_2024a.png)
+
+...
+
+![](stevens_2024.png)
+
+...
+
+![](stevens_2024b.png)
+
 
 ----
 
