@@ -56,9 +56,29 @@ North Carolina | 16 | 37.6% | R +1.1 | 40% | R +1.3 | R +1.0 | R < +1
 Pennsylvania | 19 | 43.0% | R +0.6 | 47% | R +0.4 | R +0.8 | R +1
 Wisconsin | 10 | 54.8% | D +0.7 | 56% | D +0.8 | D +0.2 | D +1
 
-as of 2024-10-30.
+as of 2024-10-30. 
 
----
+-----
+
+From [FiveThirtyEight](https://abcnews.go.com/538/) "[Trump and Harris are both a normal polling error away from a blowout](https://abcnews.go.com/538/trump-harris-normal-polling-error-blowout)": 
+
+Based on how much polls have been off in the past, **our election model estimates that the average polling error in competitive states this year will be 3.8 points on the margin** (see detail in bullet point below.) This error is not uniform across states — for example, states with different demographics tend to have [different levels of polling error](https://abcnews.go.com/538/states-accurate-polls/story?id=115108709) — but, generally speaking, when polls overestimate a candidate, they tend to overestimate them across the board. In other words, the model is expecting a roughly 2020-sized polling error — although not necessarily in the same direction as 2020. (In 50 percent of the model's simulations, Trump beats his polls, and 50 percent of the time, Harris does.) The direction of polling error is [impossible to predict in advance](https://fivethirtyeight.com/features/2022-election-polling-accuracy/).
+
+This point is worth dwelling on. Because our average expectation is for there to be a decently large polling error at least half of the time, there is actually a very low probability that the polls are perfect and the election plays out exactly how the polls suggest. Let's look at this using the largest lead either candidate has in the seven swing states: Trump's current 2-point lead in Arizona. Nationwide, our model expects polling error to be greater than 2 points in either direction 62 percent of the time. In other words, there's only about a 1-in-3 chance that polls miss by less than 2 points (which we would consider a small polling error historically).
+
+Given that all seven key swing states are so close, even small polling errors in the same direction can have a big impact on who wins the election. According to the simulations from our model, there is a 60-in-100 chance either candidate wins over 300 Electoral College votes — which Harris could do by winning five of the seven swing states and Trump six out of the seven.
+
+* We simulate potential polling errors for future elections using a fat-tailed distribution — specifically, a Student's t distribution with five degrees of freedom (a parameter that increases or decreases the likelihood of surprise "tail" events in our simulations). [A] 3.8-point error is the spread, or sigma, of that distribution — analogous to the standard deviation of a normal distribution. 538's distributions are slightly wider than the ones used by other forecasting models. This is because our model accounts for the fact that polling misses have gotten bigger over the last decade.
+
+In particular, pollsters are still reporting difficulty [reaching voters at all](https://x.com/UpshotNYT/status/1580188137359552512), and Trump supporters may still be less likely to respond to polls — [even high-quality ones](https://www.vox.com/2024-elections/370649/trust-polls-2016-2020-election-2024-pollster-polling-miss). This means that pollsters are as reliant as ever ([or maybe more](https://www.msnbc.com/opinion/msnbc-opinion/trump-harris-2024-election-polls-challenges-rcna176467)!) on weighting and modeling to get good estimates of public opinion. But the decisions they [make matter a lot](https://goodauthority.org/news/election-poll-vote2024-data-pollster-choices-weighting/), and in particular, there appear to be large differences between polls that try to use these techniques to [balance their samples by party or past vote and those that do not](https://goodauthority.org/news/pollsters-are-weighting-surveys-differently-in-2024/).
+
+And this is the big, fundamental problem with preelection polling: We don't know what the demographic and political composition of the actual electorate will be, so pollsters are just making the best guesses they can. Those guesses have always, and will always, come with error attached to them.
+
+As we enter the final week of this election, it is a good time to remember that uncertainty is an inherent part of polling and elections. That is especially true this year, with deadlocked races across the swing states. Given that polls are imperfect, our expectation is for them to be off by some amount in either direction. And if the polls do end up being off, given the closeness of the election, there is a rather wide spread in the range of Electoral College outcomes.
+
+In other words, we can sum up the current state of the race like this: Although Trump and Harris have roughly equal chances of winning the election, the final margin is not necessarily going to be close. In fact, there's a pretty high probability that it won't be.
+
+----
 
 ## One Last Thing
 
