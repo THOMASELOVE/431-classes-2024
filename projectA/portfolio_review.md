@@ -18,8 +18,8 @@ Group | Investigator(s) | Title | Notes
 
 ## Projects 08-14
 
-Group | Investigator(s) | Notes
-:---: | :----------------: | :---------------------------------------------------
+Group | Investigator(s) | Title | Notes
+:---: | :----------------: | :----------------------------------------------- | :------------
 08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | 
 09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | 
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | 2 videos.
@@ -30,8 +30,8 @@ Group | Investigator(s) | Notes
 
 ## Projects 15-21
 
-Group | Investigator(s) | Notes
-:---: | :----------------: | :---------------------------------------------------
+Group | Investigator(s) | Title | Notes
+:---: | :----------------: | :----------------------------------------------- | :------------
 15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | 
 16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | 
 17 | Paul Jones | Health and Socioeconomic Disparities in Six US States |
@@ -42,8 +42,8 @@ Group | Investigator(s) | Notes
 
 ## Projects 22-28
 
-Group | Investigator(s) | Notes
-:---: | :----------------: | :---------------------------------------------------
+Group | Investigator(s) | Title | Notes
+:---: | :----------------: | :----------------------------------------------- | :------------
 22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days | 
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health | 
 24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States |
@@ -54,8 +54,8 @@ Group | Investigator(s) | Notes
 
 ## Projects 29-35
 
-Group | Investigator(s) | Notes
-:---: | :----------------: | :---------------------------------------------------
+Group | Investigator(s) | Title | Notes
+:---: | :----------------: | :----------------------------------------------- | :------------
 29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest |
 30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region |
 31 | Nihit Mehta | English Proficiency and Health Status Across Six States |
@@ -66,8 +66,8 @@ Group | Investigator(s) | Notes
 
 ## Projects 36-42
 
-Group | Investigator(s) | Notes
-:---: | :----------------: | :---------------------------------------------------
+Group | Investigator(s) | Title | Notes
+:---: | :----------------: | :----------------------------------------------- | :------------
 36 | Arya Patel | Higher Levels of Food Insecurity Are Associated with Higher Adult Obesity ... | 
 37 | Feriel Presswalla <br /> Alayna Rowell | Are measures of poor health associated with binge-drinking or being uninsured? |
 38 | Toni Shoyinka | Education, Coverage, and Mortality |
