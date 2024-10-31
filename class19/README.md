@@ -42,8 +42,23 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ![](stevens_2024b.png)
 
+## State of the Race
 
+![](evote_2024.png)
 
+State | Electoral <br /> Votes | [Silver Bulletin](https://www.natesilver.net/) <br /> Pr(D wins) | [Silver Bulletin](https://www.natesilver.net/) <br /> Polling Avg. | [538](https://projects.fivethirtyeight.com/2024-election-forecast) <br /> Pr(D wins) | [538](https://projects.fivethirtyeight.com/2024-election-forecast) <br /> Polling Avg. | [RealClearPolling](https://www.realclearpolling.com/) <br /> Polling Avg. | [NY Times](https://www.nytimes.com/interactive/2024/us/elections/polls-president.html) <br /> Polling Avg.
+-----: | --: | -----: | -----: | -----: | -----: | -----: | -----:
+Arizona | 11 | 28.7% | R +2.3 | 35% | R +2.0 | R +2.5 | R +3
+Georgia | 16 | 33.2% | R +1.9 | 37% | R +1.2 | R +2.4 | R +2
+Michigan | 15 | 59.2% | D +1.1 | 59% | D +1.1 | D +0.5 | D < +1
+Nevada | 6 | 50.0% | D +0.1 | 51% | D +0.1 | R +0.5 | Even
+North Carolina | 16 | R +1.1 | 37.6% | 40% | R +1.3 | R +1.0 | R < +1
+Pennsylvania | 19 | 43.0% | R +0.6 | 47% | R +0.4 | R +0.8 | R +1
+Wisconsin | 10 | 54.8% | D +0.7 | 56% | D +0.8 | D +0.2 | D +1
+
+as of 2024-10-30.
+
+---
 
 ## One Last Thing
 
