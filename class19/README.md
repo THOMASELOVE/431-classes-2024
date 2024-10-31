@@ -32,6 +32,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## On Early Voting Numbers (from [Silver Bulletin](https://www.natesilver.net/))
 
+![](stevens_2024a.png)
+
+...
+
 ![](stevens_2024.png)
 
 ...
