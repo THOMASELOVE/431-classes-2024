@@ -16,3 +16,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
 2. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
+3. I'd like to start incorporating at least one **standing break** into class today. We'll see how that goes.
