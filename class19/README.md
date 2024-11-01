@@ -24,7 +24,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Project A Portfolio Review Status [is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md). Ignore any grades you see on [Canvas](https://canvas.case.edu/).
 3. Today, we'll talk about [Project B](https://thomaselove.github.io/431-projectB-2024/) a bit, so you can get started as early as this weekend.
     - See the [Calendar](https://thomaselove.github.io/431-2024/calendar.html) for all Project B deadlines.
-    - The [Project B Registration Form](https://bit.ly/431-projB-registration-2024) will go live (tomorrow) on Friday 2024-11-02.
+    - The [Project B Registration Form](https://bit.ly/431-projB-registration-2024) is available now at <https://bit.ly/431-projB-registration-2024>.
     - The [Project B Sample Report for Study 1](https://thomaselove.github.io/431-projectB-2024/study1c.html) and [Project B Sample Report for Study 2](https://thomaselove.github.io/431-projectB-2024/study2c.html) will go live before our next class on Thursday 2024-11-07.
 4. I reposted [Lab 5](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab5) to make it clear that we want you to use **90%** confidence throughout. It is due next Wednesday 2024-11-06 at noon.
 5. Remember that we don't have 431 class (but our TAs will hold office hours) next Tuesday 2024-11-05 (Election Day).
