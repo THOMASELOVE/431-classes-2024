@@ -16,4 +16,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
 2. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
-3. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that our Department is involved in here at Case. We'll see how that goes.
+3. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
