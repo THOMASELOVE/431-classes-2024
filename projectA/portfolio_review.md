@@ -4,6 +4,20 @@
 
 - I am in receipt of all "partner" notes, all Self-Evaluation forms and all R data sets, video, Quarto and HTML files.
 
+Trivia | Min | Median | Max | Sum
+------: | ------: | -----: | ------: | ------:
+Lines of Code | 433 | 658 | 1024 | 28,399
+Rows of Data | 320 | 544 | 700 | 22,316
+R Packages Loaded | 6 | 11 | 24 | 478
+
+Package  | janitor, xfun, easystats, tidyverse | knitr, naniar, rstanarm | patchwork | MKinfer | car | infer | glue | ggpubr
+-------: | :-------------------: | :-----------------------: | :------------: | :----: | :-----: | :------: | :-----: | :-----:
+Projects | 42 | 41 | 39 | 32 | 30 | 23 | 13 | 11
+
+- kableExtra (9), ggdist (7)
+- broom (4), boot (3), gridExtra (3), Epi (2), qqplotr (2), shiny (2)
+- data.table, DHARMa, ggeffects, ggpmisc, glmnet, grid, gt, gtExtras, Hmisc, MASS, mosaic, pROC, readxl, skimr, summarytools (each once)
+
 ## First 7 projects
 
 Group | Investigator(s) | Title | Notes
@@ -75,3 +89,5 @@ Group | Investigator(s) | Title | Notes
 40 | Megan Zelinsky | Paired Analysis of Changes in Poor Mental Health Days from 2019 to 2024 |
 41 | Isaac Zeng | From Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. ... |
 42 | Spancer Zhou | Income Inequality and Health Outcomes in U.S. Counties: Insights from CHR 2024
+
+
