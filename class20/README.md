@@ -34,7 +34,7 @@ is selling very well, but there are [still some tickets available](https://www.a
 
 ## The coin flip came up "tails".
 
-If this upsets you, you're not alone. Some things will be extra-challenging in the days (and years) to come. Try to be there for the people who will be hit harder than you, and don't be afraid to give yourself time to regroup and process the news.
+If this upsets you, you're not alone. Some things will be extra-challenging in the days (and years) to come. Try to be there for the people who will be hit harder than you, and don't be afraid to give yourself time to regroup and process the news. Please, though, don't tell me if you are happy about this.
 
 
 
