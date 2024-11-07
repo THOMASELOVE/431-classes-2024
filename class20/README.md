@@ -29,8 +29,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
         5. and treat all of the subjects with HIQ011 refused or don't know, plus all of the subjects with HIQ011 = "Yes" who don't fall into the "Commercial", "Medicare" or "Medicaid" categories defined above, as missing for INSURANCE. That will leave you with not a lot of missing data, and I don't think you want to get into small groups, like you'd get with Medi-Gap or other Government Programs.
 6. The bonus for using non-NHANES data in Project B is four points. I've tried to correct that now in the spot I've heard about in the [Project B instructions](https://thomaselove.github.io/431-projectB-2024/).
 7. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
-8. R version 4.4.2 is now available, for instance at <https://cran.case.edu/>. This is very much a minor release, and I am fine with you either switching to 4.4.2, or continuing to use 4.4.1 for the remainder of this calendar year, if you choose to do so. 
-9. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
+8. R version 4.4.2 is now available, for instance at <https://cran.case.edu/>. This is very much a minor release, and I am fine with you either switching to 4.4.2, or continuing to use 4.4.1 for the remainder of this calendar year, if you choose to do so. \
+9. Regardless of whether you install version 4.4.2 of R, I suggest you [install the nhanesA R package](https://github.com/THOMASELOVE/431-packages/blob/main/README.md). 
+10. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
 
 ---
 
