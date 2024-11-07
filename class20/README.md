@@ -20,8 +20,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Updates on Project A feedback and grading (with a sample video and some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
 3. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
 4. The Sample Project B materials will be posted as soon as I can finish them, but right now, Project A grading is the priority.
-5. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
-6. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
+5. The bonus for using non-NHANES data in Project B is four points. I've tried to correct that now in the spot I've heard about in the [Project B instructions](https://thomaselove.github.io/431-projectB-2024/).
+6. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
+7. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
 
 ---
 
