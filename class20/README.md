@@ -17,7 +17,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. I have a terrifying amount of Halloween candy to share. Please take some, by which I mean, all of it.
-2. Updates on Project A feedback and grading (with some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
+2. Updates on Project A feedback and grading (with a sample video and some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
 3. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
 4. The Sample Project B materials will be posted as soon as I can finish them, but right now, Project A grading is the priority.
 5. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
