@@ -17,10 +17,11 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ## Announcements
 
 1. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
-2. Updates on Project A feedback and grading (with some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
-3. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
-4. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
-5. I have a terrifying amount of Halloween candy to share. Please take some, by which I mean, all of it.
+2. The Sample Project B materials will be posted as soon as I can finish them, but right now, Project A grading is the priority.
+3. Updates on Project A feedback and grading (with some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
+4. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
+5. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
+6. I have a terrifying amount of Halloween candy to share. Please take some, by which I mean, all of it.
 
 ---
 
