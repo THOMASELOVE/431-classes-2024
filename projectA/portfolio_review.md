@@ -3,6 +3,8 @@
 **Current Stage**: We've completed all reviews of the R data sets, self-evaluations, Quarto and HTML files, and I've awarded your fraction of 90 of the 120 total points available.
 
 - All that's left are the videos, which are not yet complete, and then the aggregation into documents we can send to you. I honestly don't know when that will be finished.
+- I did build an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
+    - Material posted to our Shared Drive folder under **Project A Example Video** includes an mp4 video from me, and a Word document containing the results I summarize in the video. 
 - I am in receipt of all "partner" notes, all Self-Evaluation forms and all R data sets, video, Quarto and HTML files.
 
 Trivia | Min | Median | Max | Sum
