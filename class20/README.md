@@ -23,7 +23,9 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 5. **NHANES: Insurance in In Project B**. A student asked on Campuswire about insurance groups in NHANES.
     - A problem is that you will have people who are listed as covered by multiple types of insurance, so you'll have to decide on what to do about that, since your categories need to be collectively exhaustive and mutually exclusive. I encourage you to create a four-level categorical variable for insurance type.
     - I built [a small example (PDF)](nhanes_insurance.pdf) to create this variable using the 2017-18 NHANES data, and then also ran it for 2017-March 2020 data (what you would use in Project B) so you can check your work if you decide to do this.
-6. **NHANES: Income Levels in Project B** I didn't realize that only the `INDFMPIR` variable (and not `INDHHIN2`) was available in 2017-March 2020 data. Sorry about that. Stick with `INDFMPIR`, and I'll update the Project B instructions accordingly soon to eliminate the advice to use `INDHHIN2`.
+6. **NHANES: Income Levels in Project B**
+    - I didn't realize that only the `INDFMPIR` variable (and not `INDHHIN2`) was available in 2017-March 2020 data. Sorry about that.
+    - Stick with `INDFMPIR`, and I'll update the Project B instructions accordingly soon to eliminate the advice to use `INDHHIN2`.
 7. The bonus for using non-NHANES data in Project B is four points. I've tried to correct that now in the spot I've heard about in the [Project B instructions](https://thomaselove.github.io/431-projectB-2024/).
 8. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
 9. R version 4.4.2 is now available, for instance at <https://cran.case.edu/>. This is very much a minor release, and I am fine with you either switching to 4.4.2, or continuing to use 4.4.1 for the remainder of this calendar year, if you choose to do so.
