@@ -20,9 +20,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 2. Updates on Project A feedback and grading (with a sample video and some trivia) [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md).
 3. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due next Wednesday 2024-11-13 at noon.
 4. The Sample Project B materials will be posted as soon as I can finish them, but right now, Project A grading is the priority.
-5. The bonus for using non-NHANES data in Project B is four points. I've tried to correct that now in the spot I've heard about in the [Project B instructions](https://thomaselove.github.io/431-projectB-2024/).
-6. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
-7. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
+5. In Project B, a student asked on Campuswire about insurance groups in NHANES.
+    - A problem is that you will have people who are listed as covered by multiple types of insurance, so you'll have to decide on what to do about that, since your categories need to be collectively exhaustive and mutually exclusive. I encourage you to create a four-level categorical variable for insurance type called INSURANCE as follows:
+        1. If HIQ011 = No then INSURANCE = "Uninsured"
+        2. If HIQ011 = Yes and HIQ032D is Yes, then INSURANCE = "Medicaid"
+        3. If HIQ011 = Yes and HIQ032D is No, but HIQ032B = Yes then INSURANCE = "Medicare" (it's up to you whether you decide to treat the Medi-Gap group as part of this: see HIQ032C or not)
+        4. If HIQ011 = Yes and HIQ032D and HIQ032B are both No, then if HIQ032A = Yes then INSURANCE = "Commercial" or "Private"
+        5. and treat all of the subjects with HIQ011 refused or don't know, plus all of the subjects with HIQ011 = "Yes" who don't fall into the "Commercial", "Medicare" or "Medicaid" categories defined above, as missing for INSURANCE. That will leave you with not a lot of missing data, and I don't think you want to get into small groups, like you'd get with Medi-Gap or other Government Programs.
+6. The bonus for using non-NHANES data in Project B is four points. I've tried to correct that now in the spot I've heard about in the [Project B instructions](https://thomaselove.github.io/431-projectB-2024/).
+7. The Lab 5 answer sketch will be posted on Friday 2024-11-08 by noon.
+8. I'd like to start incorporating at least one **standing break** into class starting today, as part of the [Stand & Move at Work Initiative](https://www.sph.umn.edu/research/projects/stand-move/) that the PQHS Department (and many other departments) are involved in here at Case. We'll see how that goes.
 
 ---
 
