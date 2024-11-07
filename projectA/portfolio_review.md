@@ -1,7 +1,8 @@
 # Project A Portfolio Status
 
-**Current Stage**: The TAs and Dr. Love are now actively reviewing your submitted work.
+**Current Stage**: We've completed all reviews of the R data sets, self-evaluations, Quarto and HTML files, and I've awarded your fraction of 90 of the 120 total points available.
 
+- All that's left are the videos, which are not yet complete, and then the aggregation into documents we can send to you. I honestly don't know when that will be finished.
 - I am in receipt of all "partner" notes, all Self-Evaluation forms and all R data sets, video, Quarto and HTML files.
 
 Trivia | Min | Median | Max | Sum
