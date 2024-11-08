@@ -14,4 +14,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. Nihit Mehta was kind enough to write up some [detailed instructions for getting your Lab 7 website published to Github](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), after following Marvin Schmitt's tutorial. See the [Lab 7 page](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/README.md) for more instructions, and for examples of Nihit's site and those of several other students.
