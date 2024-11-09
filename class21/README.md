@@ -22,6 +22,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - **Lab 6**: (due 2024-11-20) Thanks to an alert student, I fixed typos in [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/README.md) where I'd inadvertently used both Lab 4 and Lab 5 when I meant Lab 6.
     - **Lab 5**: The Answer Sketch for Lab 5 is now available in our Shared Google Drive folder. Grades and feedback will, I hope, be in your hands **by class time**.
 4. **Project A**: Details on Project A review are here. Grades and feedback will, I hope, be in your hands **by class time**.
-5. I've added the `gt` package to the list of suggested packages for loading. We'll see this in action today.
+5. I've added [the `gt` package](https://gt.rstudio.com/) to the list of suggested packages for loading. We'll see this in action today.
 
 ## More to come.
