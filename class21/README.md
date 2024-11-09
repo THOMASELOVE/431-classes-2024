@@ -21,7 +21,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - **Lab 7**: (due 2024-12-04) Nihit Mehta was kind enough to write up some [detailed instructions for getting your Lab 7 website published to Github](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), after following Marvin Schmitt's tutorial. See the [Lab 7 page](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/README.md) for more instructions, and for examples of Nihit's site and those of several other students.
     - **Lab 6**: (due 2024-11-20) Thanks to an alert student, I fixed typos in [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab6/README.md) where I'd inadvertently used both Lab 4 and Lab 5 when I meant Lab 6.
     - **Lab 5**: The Answer Sketch for Lab 5 is now available in our Shared Google Drive folder. Grades and feedback will, I hope, be in your hands **by class time**.
-4. **Project A**: Details on Project A review are here. Grades and feedback will, I hope, be in your hands **by class time**.
-5. I've added [the `gt` package](https://gt.rstudio.com/) to the list of suggested packages for loading. We'll see this in action today.
+4. **Project A**: Details on Project A review [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md). Grades and feedback will, I hope, be in your hands **by class time**.
+5. I've added the **gt** [package](https://gt.rstudio.com/) to the [list of suggested packages for installation](https://github.com/THOMASELOVE/431-packages). We'll see this in action today.
 
 ## More to come.
