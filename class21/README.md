@@ -16,6 +16,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due tomorrow (Wednesday 2024-11-13) at noon.
     - I hope that the Sample Study 1 and Sample Study 2 materials for Project B will be in your hands **by class time**.
+    - I added reminders about missing data (essentially, you use complete cases for Study 1, and imputation for missing data in Study 2) to the instructions on Sunday evening 2024-11-10 to clarify those details.
 2. Also, there is a [Minute Paper](https://bit.ly/431-2024-minute-21) after today's class, due tomorrow (Wednesday 2024-11-13) at noon. The link is <https://bit.ly/431-2024-minute-21>.
 3. Lab updates
     - **Lab 7**: (due 2024-12-04) Nihit Mehta was kind enough to write up some [detailed instructions for getting your Lab 7 website published to Github](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/lab7_publishing_advice_for_github.pdf), after following Marvin Schmitt's tutorial. See the [Lab 7 page](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/README.md) for more instructions, and for examples of Nihit's site and those of several other students.
