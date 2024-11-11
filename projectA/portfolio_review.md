@@ -64,7 +64,7 @@ Group | Investigator(s) | Title | Review Status
 30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | **Complete.**
 31 | Nihit Mehta | English Proficiency and Health Status Across Six States | **Complete.**
 32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States | Reviewing video.
-33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio | Reviewing video.
+33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio | **Complete.**
 34 | Dali Nemecio | Evaluating physical and mental health in 563 counties from CHR 2024/2019 Data | **Complete.**
 35 | Katherine Papahadjoulos | A County-Level Analysis of Mental Health, Diabetes, and Physical Health | **Complete.**
 
