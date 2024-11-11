@@ -42,7 +42,7 @@ Group | Investigator(s) | Title | Review Status
 18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes | Reviewing video.
 19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | Reviewing video.
 20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes |  **Complete.**
-21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest | Reviewing videos.
+21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest | **Complete.**
 
 ## Projects 22-28
 
