@@ -26,7 +26,7 @@ Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
 08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | Reviewing video.
 09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | Reviewing video.
-10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | Reviewing videos.
+10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | **Complete.**
 11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | Reviewing video.
 12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States | **Complete.**
 13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data | Reviewing video.
