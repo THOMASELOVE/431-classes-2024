@@ -1,25 +1,12 @@
 # Project A Portfolio Status
 
-**Current Stage**: All reviews of R data sets, self-evaluations, Quarto and HTML files are done, and some of the videos are also done. I've awarded your fraction of 90 of the 120 total points available to everyone, and all 120 points to the students whose review status below is listed as **complete**.
+## Current Status
 
-- All that's left for me to do are (1) finishing some video reviews, and (2) aggregating our feedback into documents we can send to you. I hope to send those via email before 9 AM Tuesday 2024-11-12.
-- I did build an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
+All reviews of R data sets, self-evaluations, Quarto and HTML files are done, and some of the videos are also done. I've awarded your fraction of 90 of the 120 total points available to everyone, and all 120 points to the students whose review status below is listed as **complete**.
+
+- All that's left for me to do are (1) finishing the video reviews indicated below, and (2) aggregating our feedback into documents we can send to you. I hope to send those via email before 9 AM Tuesday 2024-11-12.
+- I built an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
     - Material posted to our Shared Drive folder under **Project A Example Video** includes an mp4 video from me, and a Word document containing the results I summarize in the video. 
-- I am in receipt of all "partner" notes, all Self-Evaluation forms and all R data sets, video, Quarto and HTML files.
-
-Trivia | Min | Median | Max | Sum
-------: | ------: | -----: | ------: | ------:
-Lines of Code | 433 | 658 | 1024 | 28,399
-Rows of Data | 320 | 544 | 700 | 22,316
-R Packages Loaded | 6 | 11 | 24 | 478
-
-Package  | janitor, xfun, easystats, tidyverse | knitr, naniar, rstanarm | patchwork | MKinfer | car | infer | glue | ggpubr
--------: | :-------------------: | :-----------------------: | :------------: | :----: | :-----: | :------: | :-----: | :-----:
-Projects | 42 | 41 | 39 | 32 | 30 | 23 | 13 | 11
-
-- kableExtra (9), ggdist (7)
-- broom (4), boot (3), gridExtra (3), Epi (2), qqplotr (2), shiny (2)
-- data.table, DHARMa, ggeffects, ggpmisc, glmnet, grid, gt, gtExtras, Hmisc, MASS, mosaic, pROC, readxl, skimr, summarytools (each once)
 
 ## First 7 projects
 
@@ -92,6 +79,23 @@ Group | Investigator(s) | Title | Review Status
 40 | Megan Zelinsky | Paired Analysis of Changes in Poor Mental Health Days from 2019 to 2024 | **Complete.**
 41 | Isaac Zeng | From Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. ... | **Complete.**
 42 | Spancer Zhou | Income Inequality and Health Outcomes in U.S. Counties: Insights from CHR 2024 | **Complete.**
-|
+
+## Trivia
+
+Trivia | Min | Median | Max | Sum
+------: | ------: | -----: | ------: | ------:
+Lines of Code | 433 | 658 | 1024 | 28,399
+Rows of Data | 320 | 544 | 700 | 22,316
+R Packages Loaded | 6 | 11 | 24 | 478
+
+Package  | janitor, xfun, easystats, tidyverse | knitr, naniar, rstanarm | patchwork | MKinfer | car | infer | glue | ggpubr
+-------: | :-------------------: | :-----------------------: | :------------: | :----: | :-----: | :------: | :-----: | :-----:
+Projects | 42 | 41 | 39 | 32 | 30 | 23 | 13 | 11
+
+- kableExtra (9), ggdist (7)
+- broom (4), boot (3), gridExtra (3), Epi (2), qqplotr (2), shiny (2)
+- data.table, DHARMa, ggeffects, ggpmisc, glmnet, grid, gt, gtExtras, Hmisc, MASS, mosaic, pROC, readxl, skimr, summarytools (each once)
+
+
 
 
