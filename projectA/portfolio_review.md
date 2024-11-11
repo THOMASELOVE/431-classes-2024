@@ -24,7 +24,7 @@ Group | Investigator(s) | Title | Review Status
 
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
-08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | Reviewing video.
+08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | **Complete.**
 09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | Reviewing video.
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | **Complete.**
 11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | Reviewing video.
