@@ -49,12 +49,12 @@ Group | Investigator(s) | Title | Notes
 
 Group | Investigator(s) | Title | Notes
 :---: | :----------------: | :----------------------------------------------- | :------------
-15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | 
+15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | **Review is complete.** 
 16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | Review complete except for video.
-17 | Paul Jones | Health and Socioeconomic Disparities in Six US States |
+17 | Paul Jones | Health and Socioeconomic Disparities in Six US States | **Review is complete.**
 18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes | Review complete except for video.
 19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | Review complete except for video.
-20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes | 
+20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes |  **Review is complete.**
 21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest | Review complete except for videos.
 
 ## Projects 22-28
