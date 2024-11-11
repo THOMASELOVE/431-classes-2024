@@ -23,5 +23,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - **Lab 5**: The Answer Sketch for Lab 5 is now available in our Shared Google Drive folder. Grades and feedback will, I hope, be in your hands **by class time**.
 4. **Project A**: Details on Project A review [are here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectA/portfolio_review.md). Grades and feedback will, I hope, be in your hands **by class time**.
 5. I've added the **gt** [package](https://gt.rstudio.com/) and the **nhanesA** [package](https://cran.r-project.org/web/packages/nhanesA/vignettes/Introducing_nhanesA.html) to the [list of suggested packages for installation](https://github.com/THOMASELOVE/431-packages). We'll see **gt** in action today.
+6. I made a mistake in Slide Set 19 and Slide Set 20. I have replaced the old versions of these slides (and the Word versions) for each class.
+    - The mistake occurred when I fit the models `fit1`, `fit2`, and `fit3`.
+    - I should have created a new outcome `transa1c` = 100/`a1c` once I settled on a transformation before fitting the models to that outcome.
+    - So, instead of fitting, for example, `lm((100/a1c) ~ a1c_old, data = dm500_i_train)`, I should have fit `lm(transa1c ~ a1c_old, data = dm500_i_train)`.
+    - The main thing this changes is the `check_model()` results. It doesn't affect anything else yet, but I should have done it this way to demonstrate best practice.
 
 ## More to come.
