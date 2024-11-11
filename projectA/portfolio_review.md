@@ -11,7 +11,7 @@ All reviews of R data sets, self-evaluations, Quarto and HTML files are done, an
 ## First 7 projects
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 01 | Haley Altadonna | Analyzing Premature Death, Housing Issues, and Mental Health Among U.S. Counties | Reviewing video.
 02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... | Reviewing video.
 03 | Veda Machiraju <br /> Brooke Bhattacharya | Diabetes, Food Insecurity, and Quality of Health | **Complete.**
@@ -23,7 +23,7 @@ Group | Investigator(s) | Title | Review Status
 ## Projects 08-14
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | Reviewing video.
 09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | Reviewing video.
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | Reviewing videos.
@@ -35,7 +35,7 @@ Group | Investigator(s) | Title | Review Status
 ## Projects 15-21
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | **Complete.**
 16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | Reviewing video.
 17 | Paul Jones | Health and Socioeconomic Disparities in Six US States | **Complete.**
@@ -47,7 +47,7 @@ Group | Investigator(s) | Title | Review Status
 ## Projects 22-28
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days | Reviewing video.
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health | Reviewing video.
 24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States | Reviewing video.
@@ -59,7 +59,7 @@ Group | Investigator(s) | Title | Review Status
 ## Projects 29-35
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest | Reviewing video.
 30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | Reviewing video.
 31 | Nihit Mehta | English Proficiency and Health Status Across Six States | **Complete.**
@@ -71,7 +71,7 @@ Group | Investigator(s) | Title | Review Status
 ## Projects 36-42
 
 Group | Investigator(s) | Title | Review Status
-:---: | :----------------: | :----------------------------------------------- | :------------
+:---: | :---------------------: | :----------------------------------------------- | :------------
 36 | Arya Patel | Higher Levels of Food Insecurity Are Associated with Higher Adult Obesity ... | **Complete.**
 37 | Feriel Presswalla <br /> Alayna Rowell | Are measures of poor health associated with binge-drinking or being uninsured? | **Complete.**
 38 | Toni Shoyinka | Education, Coverage, and Mortality | **Complete.**
