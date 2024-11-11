@@ -61,7 +61,7 @@ Group | Investigator(s) | Title | Review Status
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
 29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest | Reviewing video.
-30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | Reviewing video.
+30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | **Complete.**
 31 | Nihit Mehta | English Proficiency and Health Status Across Six States | **Complete.**
 32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States | Reviewing video.
 33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio | Reviewing video.
