@@ -16,7 +16,7 @@ Group | Investigator(s) | Title | Review Status
 02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... | Reviewing video.
 03 | Veda Machiraju <br /> Brooke Bhattacharya | Diabetes, Food Insecurity, and Quality of Health | **Complete.**
 04 | Kelly Bowen | Increased broadband access is associated with fewer poor mental health days <br /> **This is my favorite Project A title**. | Reviewing video.
-05 | Reilly Burhanna <br /> Jose Diz Ferre | The Relationship of Obesity and Mental Health and Changes in Physical Inactivity | Reviewing video.
+05 | Reilly Burhanna <br /> Jose Diz Ferre | The Relationship of Obesity and Mental Health and Changes in Physical Inactivity | **Complete.**
 06 | Sonny Caradonna | Lifestyle Choices Effects on Subjective vs Objective Health Outcomes | Reviewing video.
 07 | Sarah Cooke | Food Insecurity Partially Predicts Diabetes Prevalence In The Midwest | Reviewing video.
 
