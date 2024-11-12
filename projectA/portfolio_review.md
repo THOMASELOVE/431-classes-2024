@@ -54,7 +54,7 @@ Group | Investigator(s) | Title | Review Status
 25 | JiaWei Yu <br /> Gina Lin | Linear Association Not Found Between Income Inequality and the Gender Pay Gap | **Complete.**
 26 | Olivia Lindberg | Exploring Health Behaviors in Ohio and Neighboring States | Reviewing video.
 27 | Rachel Liu | Premature age-adjusted mortality increases with insufficient sleep | Reviewing video.
-28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths | Reviewing video.
+28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths | **Complete.**
 
 ## Projects 29-35
 
