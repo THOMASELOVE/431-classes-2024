@@ -29,7 +29,7 @@ Group | Investigator(s) | Title | Review Status
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | **Complete.**
 11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | **Complete.**
 12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States | **Complete.**
-13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data | Reviewing video.
+13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data | **Complete.**
 14 | Alexis Heath | Evaluating Excessive Drinking Rates by High School Completion Status | Reviewing video.
 
 ## Projects 15-21
