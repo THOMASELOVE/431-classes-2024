@@ -45,17 +45,17 @@ Group | Investigator(s) | Title
 20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes 
 21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest 
 
-## Projects 22-28
+## Projects 22-28 - all reviews are complete
 
-Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
-22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days | **Complete.**
-23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health | **Complete.**
-24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States | **Complete.**
-25 | JiaWei Yu <br /> Gina Lin | Linear Association Not Found Between Income Inequality and the Gender Pay Gap | **Complete.**
-26 | Olivia Lindberg | Exploring Health Behaviors in Ohio and Neighboring States | **Complete.**
-27 | Rachel Liu | Premature age-adjusted mortality increases with insufficient sleep | Reviewing video.
-28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths | **Complete.**
+Group | Investigator(s) | Title 
+:---: | :---------------------: | :-----------------------------------------------
+22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days 
+23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health 
+24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States 
+25 | JiaWei Yu <br /> Gina Lin | Linear Association Not Found Between Income Inequality and the Gender Pay Gap
+26 | Olivia Lindberg | Exploring Health Behaviors in Ohio and Neighboring States 
+27 | Rachel Liu | Premature age-adjusted mortality increases with insufficient sleep 
+28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths 
 
 ## Projects 29-35 - all reviews are complete
 
