@@ -49,7 +49,7 @@ Group | Investigator(s) | Title
 
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
-22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days | Reviewing video.
+22 | Harshita Kumar | Examining the relationship between adult obesity and poor mental health days | **Complete.**
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health | **Complete.**
 24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States | **Complete.**
 25 | JiaWei Yu <br /> Gina Lin | Linear Association Not Found Between Income Inequality and the Gender Pay Gap | **Complete.**
