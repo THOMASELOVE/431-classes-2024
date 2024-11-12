@@ -57,17 +57,17 @@ Group | Investigator(s) | Title | Review Status
 27 | Rachel Liu | Premature age-adjusted mortality increases with insufficient sleep | Reviewing video.
 28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths | **Complete.**
 
-## Projects 29-35
+## Projects 29-35 - all reviews are complete
 
 Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
-29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest | Reviewing video.
-30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | **Complete.**
-31 | Nihit Mehta | English Proficiency and Health Status Across Six States | **Complete.**
-32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States | **Complete.**
-33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio | **Complete.**
-34 | Dali Nemecio | Evaluating physical and mental health in 563 counties from CHR 2024/2019 Data | **Complete.**
-35 | Katherine Papahadjoulos | A County-Level Analysis of Mental Health, Diabetes, and Physical Health | **Complete.**
+:---: | :---------------------: | :-----------------------------------------------
+29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest
+30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
+31 | Nihit Mehta | English Proficiency and Health Status Across Six States
+32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States
+33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio
+34 | Dali Nemecio | Evaluating physical and mental health in 563 counties from CHR 2024/2019 Data
+35 | Katherine Papahadjoulos | A County-Level Analysis of Mental Health, Diabetes, and Physical Health
 
 ## Projects 36-42 - all reviews are complete
 
