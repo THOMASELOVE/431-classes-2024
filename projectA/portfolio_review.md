@@ -35,7 +35,7 @@ Group | Investigator(s) | Title
 
 ## Projects 15-21 - all reviews are complete
 
-Group | Investigator(s) | Title | Review Status
+Group | Investigator(s) | Title 
 :---: | :---------------------: | :----------------------------------------------- 
 15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States 
 16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity 
@@ -71,8 +71,8 @@ Group | Investigator(s) | Title | Review Status
 
 ## Projects 36-42 - all reviews are complete
 
-Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
+Group | Investigator(s) | Title 
+:---: | :---------------------: | :----------------------------------------------- 
 36 | Arya Patel | Higher Levels of Food Insecurity Are Associated with Higher Adult Obesity ... 
 37 | Feriel Presswalla <br /> Alayna Rowell | Are measures of poor health associated with binge-drinking or being uninsured? 
 38 | Toni Shoyinka | Education, Coverage, and Mortality 
