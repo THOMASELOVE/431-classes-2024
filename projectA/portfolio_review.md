@@ -26,7 +26,7 @@ Group | Investigator(s) | Title | Review Status
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
 08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | **Complete.**
-09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | Reviewing video.
+09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | **Complete.**
 10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | **Complete.**
 11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | **Complete.**
 12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States | **Complete.**
@@ -38,7 +38,7 @@ Group | Investigator(s) | Title | Review Status
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
 15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | **Complete.**
-16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | Reviewing video.
+16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | **Complete.**
 17 | Paul Jones | Health and Socioeconomic Disparities in Six US States | **Complete.**
 18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes | **Complete.**
 19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | **Complete.**
