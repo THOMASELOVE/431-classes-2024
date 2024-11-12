@@ -30,7 +30,7 @@ Group | Investigator(s) | Title | Review Status
 11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | **Complete.**
 12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States | **Complete.**
 13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data | **Complete.**
-14 | Alexis Heath | Evaluating Excessive Drinking Rates by High School Completion Status | Reviewing video.
+14 | Alexis Heath | Evaluating Excessive Drinking Rates by High School Completion Status | **Complete.**
 
 ## Projects 15-21
 
@@ -40,7 +40,7 @@ Group | Investigator(s) | Title | Review Status
 16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | Reviewing video.
 17 | Paul Jones | Health and Socioeconomic Disparities in Six US States | **Complete.**
 18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes | **Complete.**
-19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | Reviewing video.
+19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | **Complete.**
 20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes |  **Complete.**
 21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest | **Complete.**
 
