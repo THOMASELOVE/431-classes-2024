@@ -53,7 +53,7 @@ Group | Investigator(s) | Title | Review Status
 23 | Jeff Lambe <br /> Tatchaporn Ongphichetmetha  | Social and Economic Factors Influence Mortality and Self-Reported Health | **Complete.**
 24 | Weiyun Liang | Excessive Drinking, Mental Health, Unemployment and Obesity in Six US States | **Complete.**
 25 | JiaWei Yu <br /> Gina Lin | Linear Association Not Found Between Income Inequality and the Gender Pay Gap | **Complete.**
-26 | Olivia Lindberg | Exploring Health Behaviors in Ohio and Neighboring States | Reviewing video.
+26 | Olivia Lindberg | Exploring Health Behaviors in Ohio and Neighboring States | **Complete.**
 27 | Rachel Liu | Premature age-adjusted mortality increases with insufficient sleep | Reviewing video.
 28 | Debbie Seifert <br /> Cassandra Lopez | Predicting Mental Health Days, Insufficient Sleep and Premature Deaths | **Complete.**
 
@@ -64,7 +64,7 @@ Group | Investigator(s) | Title | Review Status
 29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest | Reviewing video.
 30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region | **Complete.**
 31 | Nihit Mehta | English Proficiency and Health Status Across Six States | **Complete.**
-32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States | Reviewing video.
+32 | Mohammad Nasirpour | Unemployment, Obesity and Health Status in Six U.S. States | **Complete.**
 33 | Nick Nazak <br /> Rebecca Stinson | Insurance Rates and Premature Death Link and other Health Outcomes around Ohio | **Complete.**
 34 | Dali Nemecio | Evaluating physical and mental health in 563 counties from CHR 2024/2019 Data | **Complete.**
 35 | Katherine Papahadjoulos | A County-Level Analysis of Mental Health, Diabetes, and Physical Health | **Complete.**
