@@ -2,24 +2,22 @@
 
 ## Current Status
 
-- Reviews of R data sets, self-evaluations, Quarto and HTML files are done for all 42 projects.
-- Reviews of  videos are also done for all of the projects marked below with Review Status **Complete**.
-
-- Remaining tasks are: (1) finishing the video reviews indicated below, and (2) aggregating our feedback into documents we can send to you. I hope to send those via email before 11 AM Tuesday 2024-11-12.
+- Reviews of videos, R data sets, self-evaluations, Quarto and HTML files are done for all 42 projects.
+- Remaining task is: aggregating our feedback into documents we can send to you. I hope to send those via email before 11 AM Tuesday 2024-11-12.
 - I built an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
     - Material posted to our Shared Drive folder under **Project A Example Video** includes an mp4 video from me, and a Word document containing the results I summarize in the video. 
 
-## First 7 projects
+## First 7 projects - all reviews are complete
 
-Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
-01 | Haley Altadonna | Analyzing Premature Death, Housing Issues, and Mental Health Among U.S. Counties | Reviewing video.
-02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... | **Complete.**
-03 | Veda Machiraju <br /> Brooke Bhattacharya | Diabetes, Food Insecurity, and Quality of Health | **Complete.**
-04 | Kelly Bowen | Increased broadband access is associated with fewer poor mental health days <br /> **This is my favorite Project A title**. | Reviewing video.
-05 | Reilly Burhanna <br /> Jose Diz Ferre | The Relationship of Obesity and Mental Health and Changes in Physical Inactivity | **Complete.**
-06 | Sonny Caradonna | Lifestyle Choices Effects on Subjective vs Objective Health Outcomes | **Complete.**
-07 | Sarah Cooke | Food Insecurity Partially Predicts Diabetes Prevalence In The Midwest | **Complete.**
+Group | Investigator(s) | Title 
+:---: | :---------------------: | :----------------------------------------------- 
+01 | Haley Altadonna | Analyzing Premature Death, Housing Issues, and Mental Health Among U.S. Counties 
+02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... 
+03 | Veda Machiraju <br /> Brooke Bhattacharya | Diabetes, Food Insecurity, and Quality of Health 
+04 | Kelly Bowen | Increased broadband access is associated with fewer poor mental health days <br /> **This is my favorite Project A title**. 
+05 | Reilly Burhanna <br /> Jose Diz Ferre | The Relationship of Obesity and Mental Health and Changes in Physical Inactivity 
+06 | Sonny Caradonna | Lifestyle Choices Effects on Subjective vs Objective Health Outcomes 
+07 | Sarah Cooke | Food Insecurity Partially Predicts Diabetes Prevalence In The Midwest 
 
 ## Projects 08-14 - all reviews are complete
 
