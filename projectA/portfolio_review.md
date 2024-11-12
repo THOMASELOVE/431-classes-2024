@@ -14,7 +14,7 @@
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
 01 | Haley Altadonna | Analyzing Premature Death, Housing Issues, and Mental Health Among U.S. Counties | Reviewing video.
-02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... | Reviewing video.
+02 | Saar Anis | Insufficient Sleep and Physical Inactivity Harm Mental and Physical Health in... | **Complete.**
 03 | Veda Machiraju <br /> Brooke Bhattacharya | Diabetes, Food Insecurity, and Quality of Health | **Complete.**
 04 | Kelly Bowen | Increased broadband access is associated with fewer poor mental health days <br /> **This is my favorite Project A title**. | Reviewing video.
 05 | Reilly Burhanna <br /> Jose Diz Ferre | The Relationship of Obesity and Mental Health and Changes in Physical Inactivity | **Complete.**
