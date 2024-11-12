@@ -12,6 +12,13 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 21 | 2024-11-12 | **[Slides 21](https://thomaselove.github.io/431-slides-2024/class21.html)** | **[Word 21](https://thomaselove.github.io/431-slides-2024/class21w.docx)** | **[Code 21](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class21.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## An Opening Thought
+
+![](spurious.png) 
+
+- Note the correlation is 0.9586 for the two measures plotted above.
+- Some more fun examples of the [difference between correlation and causation](http://www.tylervigen.com/spurious-correlations), from Tyler Vigen.
+
 ## Announcements
 
 1. The Project B registration form is available at <https://bit.ly/431-projB-registration-2024>. That's due tomorrow (Wednesday 2024-11-13) at noon.
