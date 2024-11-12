@@ -2,9 +2,10 @@
 
 ## Current Status
 
-All reviews of R data sets, self-evaluations, Quarto and HTML files are done, and some of the videos are also done. I've awarded your fraction of 90 of the 120 total points available to everyone, and all 120 points to the students whose review status below is listed as **complete**.
+- Reviews of R data sets, self-evaluations, Quarto and HTML files are done for all 42 projects.
+- Reviews of  videos are also done for all of the projects marked below as **complete**.
 
-- All that's left for me to do are (1) finishing the video reviews indicated below, and (2) aggregating our feedback into documents we can send to you. I hope to send those via email before 9 AM Tuesday 2024-11-12.
+- Remaining tasks are: (1) finishing the video reviews indicated below, and (2) aggregating our feedback into documents we can send to you. I hope to send those via email before 9 AM Tuesday 2024-11-12.
 - I built an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
     - Material posted to our Shared Drive folder under **Project A Example Video** includes an mp4 video from me, and a Word document containing the results I summarize in the video. 
 
