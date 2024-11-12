@@ -59,7 +59,7 @@ Group | Investigator(s) | Title | Review Status
 
 ## Projects 29-35 - all reviews are complete
 
-Group | Investigator(s) | Title | Review Status
+Group | Investigator(s) | Title
 :---: | :---------------------: | :-----------------------------------------------
 29 | Ajay Mahenthiran | Food Access and Lifestyle Factors Linked to Health Outcomes in the Midwest
 30 | Morgan McLoughlin | Physical and Mental Health Outcomes in the Great Lakes Region
