@@ -21,29 +21,29 @@ Group | Investigator(s) | Title | Review Status
 06 | Sonny Caradonna | Lifestyle Choices Effects on Subjective vs Objective Health Outcomes | **Complete.**
 07 | Sarah Cooke | Food Insecurity Partially Predicts Diabetes Prevalence In The Midwest | **Complete.**
 
-## Projects 08-14
+## Projects 08-14 - all reviews are complete
+
+Group | Investigator(s) | Title 
+:---: | :---------------------: | :----------------------------------------------- 
+08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis 
+09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... 
+10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties 
+11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States 
+12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States 
+13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data 
+14 | Alexis Heath | Evaluating Excessive Drinking Rates by High School Completion Status 
+
+## Projects 15-21 - all reviews are complete
 
 Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
-08 | Carly DaCosta <br /> Gabrielle Davis | How Employment Status Affects Health Outcomes: A Comparative Analysis | **Complete.**
-09 | Aishwarya Deengar | Health Trends via Environmental & Tech Predictors: Broadband, Air Pollution ... | **Complete.**
-10 | Mahsa Sheikh <br /> Tatiana Dombrovaki | CHR 2024 and 2019 data describing 638 counties | **Complete.**
-11 | Shraddha Dumawat <br /> Tom Kupferer | Alcohol, Sleep and Money in Six US States | **Complete.**
-12 | Leia George | Understanding Physical and Mental Health Indicators Across Selected States | **Complete.**
-13 | Monica Ghosh | Modelling the Impact of income and sleep-habit on health aspects using CHR Data | **Complete.**
-14 | Alexis Heath | Evaluating Excessive Drinking Rates by High School Completion Status | **Complete.**
-
-## Projects 15-21
-
-Group | Investigator(s) | Title | Review Status
-:---: | :---------------------: | :----------------------------------------------- | :------------
-15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States | **Complete.**
-16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity | **Complete.**
-17 | Paul Jones | Health and Socioeconomic Disparities in Six US States | **Complete.**
-18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes | **Complete.**
-19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States | **Complete.**
-20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes |  **Complete.**
-21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest | **Complete.**
+:---: | :---------------------: | :----------------------------------------------- 
+15 | Derek Host | Leveraging CHS 2024 Data to Answer Health Questions Across 6 States 
+16 | Dana Jian | Socioeconomic Inequalities, Sleep and Physical Inactivity 
+17 | Paul Jones | Health and Socioeconomic Disparities in Six US States 
+18 | Brooke Jurasius | Impact of Uninsurance and Unemployment on Obesity, Premature Death, and Diabetes 
+19 | Atticus Kenny | Relationship of Household Income and Obesity in 6 MidWest States 
+20 | Zuhair Khan <br /> Graham Stockdale | Understanding the role of graduation rates and insurance on health outcomes 
+21 | Anika Krishna <br /> Madaline Witort | Income Inequality and Health Outcomes in the U.S. Midwest 
 
 ## Projects 22-28
 
@@ -69,17 +69,17 @@ Group | Investigator(s) | Title | Review Status
 34 | Dali Nemecio | Evaluating physical and mental health in 563 counties from CHR 2024/2019 Data | **Complete.**
 35 | Katherine Papahadjoulos | A County-Level Analysis of Mental Health, Diabetes, and Physical Health | **Complete.**
 
-## Projects 36-42
+## Projects 36-42 - all reviews are complete
 
 Group | Investigator(s) | Title | Review Status
 :---: | :---------------------: | :----------------------------------------------- | :------------
-36 | Arya Patel | Higher Levels of Food Insecurity Are Associated with Higher Adult Obesity ... | **Complete.**
-37 | Feriel Presswalla <br /> Alayna Rowell | Are measures of poor health associated with binge-drinking or being uninsured? | **Complete.**
-38 | Toni Shoyinka | Education, Coverage, and Mortality | **Complete.**
-39 | Guanyu Wei | Educational attainment, flu vaccination, and physical health in six states | **Complete.**
-40 | Megan Zelinsky | Paired Analysis of Changes in Poor Mental Health Days from 2019 to 2024 | **Complete.**
-41 | Isaac Zeng | From Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. ... | **Complete.**
-42 | Spancer Zhou | Income Inequality and Health Outcomes in U.S. Counties: Insights from CHR 2024 | **Complete.**
+36 | Arya Patel | Higher Levels of Food Insecurity Are Associated with Higher Adult Obesity ... 
+37 | Feriel Presswalla <br /> Alayna Rowell | Are measures of poor health associated with binge-drinking or being uninsured? 
+38 | Toni Shoyinka | Education, Coverage, and Mortality 
+39 | Guanyu Wei | Educational attainment, flu vaccination, and physical health in six states 
+40 | Megan Zelinsky | Paired Analysis of Changes in Poor Mental Health Days from 2019 to 2024
+41 | Isaac Zeng | From Premature Death to Drinking Habits: Uncovering Health Risks in 6 U.S. ...
+42 | Spancer Zhou | Income Inequality and Health Outcomes in U.S. Counties: Insights from CHR 2024
 
 ## Trivia
 
