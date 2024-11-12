@@ -2,7 +2,7 @@
 
 ## Current Status
 
-- Reviews of videos, R data sets, self-evaluations, Quarto and HTML files are done for all 42 projects.
+- Reviews of videos, R data sets, self-evaluations, Quarto and HTML files are done for **all 42 projects**.
 - Remaining task is: aggregating our feedback into documents we can send to you. I hope to send those via email before 11 AM Tuesday 2024-11-12.
 - I built an **example of a video** which (in just under three minutes) lets me accomplish the things I was hoping to see in Analyses 1 and 3, based on a student's project.
     - Material posted to our Shared Drive folder under **Project A Example Video** includes an mp4 video from me, and a Word document containing the results I summarize in the video. 
