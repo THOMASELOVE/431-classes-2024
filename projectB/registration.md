@@ -50,11 +50,9 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
-12 | Dana Jian | 10:10 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Minutes Sedentary per day | Ratio of Family Income to Poverty
+12 | Dana Jian | 10:10 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Minutes Sedentary per day | Ratio of Family Income to Poverty | 6830 | Not Yet (see note)
 
-- Dana: I am worried that the distribution of [PAD680](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PAQ.htm#PAD680) (your outcome) will be highly discrete, which will wind up being more than a little frustrating for you as an outcome, although it's a fine predictor choice. In addition, can you please also select a different key predictor? The INDFMPIR variable has a very pronounced ceiling effect. It's OK to use it as one of your predictors, but don't make it the key one.
-
-Here's a picture of the sedentary minutes per day to make my point...
+- Dana: I am worried that the distribution of [PAD680](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PAQ.htm#PAD680) (your outcome) will be highly discrete, which will wind up being more than a little frustrating for you as an outcome, although it's a fine predictor choice. In addition, can you please also select a different key predictor? The INDFMPIR variable has a very pronounced ceiling effect. It's OK to use it as one of your predictors, but don't make it the key one. Here's a histogram of the sedentary minutes per day to make my point about its discreteness. More than 70% of the 9610 values available for that variable (after you get rid of the missingness and refused codes) are either 120, 180, 240, 300, 360 or 480, and if you add in 60, 420, 600 and 720 you have now covered more than 90% of the observations.
 
 ![](images/PAD680.png)
 
