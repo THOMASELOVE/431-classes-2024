@@ -56,9 +56,10 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Here's a picture of the sedentary minutes per day to make my point...
 
-![](images/PAD6800.png)
+![](images/PAD680.png)
 
-
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 13 | Olivia Lindberg | 10:35 AM | US Well-Being and <br /> [Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#) |
 14 | Nick Nazak and Rebecca Stinson | 11:00 AM | HDHI Admissions <br /> [from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data?resource=download) | 
 15 | JiaWei Yu | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br />
