@@ -14,4 +14,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. The schedule for Project B Presentations [is now available](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md).
+2. 
