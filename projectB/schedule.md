@@ -55,15 +55,15 @@ Group | Investigator(s) | Date | Join Zoom at | Style
 28 | Haley Altadonna | Tuesday 2024-12-10 | 11:00 AM | Zoom
 29 | Brooke Jurasius | Tuesday 2024-12-10 | 11:25 AM | Zoom
 30 | Rachel Liu | Tuesday 2024-12-10 | 11:50 AM | Zoom
-31 | Cassandra Lopez and Guanyu Wei | Tuesday 2024-12-10 | 12:15 PM
-32 | Dali Nemecio | Tuesday 2024-12-10 | 12:40 PM
-33 | Arya Patel | Tuesday 2024-12-10 | 1:05 PM
-34 | Sonny Caradonna | Tuesday 2024-12-10 | 1:30 PM
-35 | Leia George | Tuesday 2024-12-10 | 1:55 PM
-36 | Reilly Burhanna and Jose Diz Ferre | Tuesday 2024-12-10 | 2:10 PM
-37 | Toni Shoyinka and Isaac Zeng | Tuesday 2024-12-10 | 2:45 PM
-38 | Derek Host | Tuesday 2024-12-10 | 3:10 PM 
-39 | Tom Kupferer | Tuesday 2024-12-10 | 3:35 PM
+31 | Cassandra Lopez and Guanyu Wei | Tuesday 2024-12-10 | 12:15 PM | Zoom
+32 | Dali Nemecio | Tuesday 2024-12-10 | 12:40 PM | Zoom
+33 | Arya Patel | Tuesday 2024-12-10 | 1:05 PM | Zoom
+34 | Sonny Caradonna | Tuesday 2024-12-10 | 1:30 PM | Zoom
+35 | Leia George | Tuesday 2024-12-10 | 1:55 PM | Zoom
+36 | Reilly Burhanna and Jose Diz Ferre | Tuesday 2024-12-10 | 2:10 PM | Zoom
+37 | Toni Shoyinka and Isaac Zeng | Tuesday 2024-12-10 | 2:45 PM | Zoom
+38 | Derek Host | Tuesday 2024-12-10 | 3:10 PM  | Zoom
+39 | Tom Kupferer | Tuesday 2024-12-10 | 3:35 PM | Zoom
 
 ## Wednesday 2024-12-11
 
