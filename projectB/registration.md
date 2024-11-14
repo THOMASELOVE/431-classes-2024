@@ -58,7 +58,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-10 | Saar Anis | 9:15 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Triglyceride | LDL Cholesterol | 4277 | OK
+10 | Saar Anis | 9:15 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Triglyceride | LDL Cholesterol | 4277 | Yes
 11 | Aishwarya Deengar and Harshita Kumar | 9:45 AM |[NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Urine Lead level | 2516 | Yes (see note)
 
 - Aishwarya and Harshita: Those of you using Body Mass Index as an outcome or a predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead. See my note at the top of this page. Not sure why you'd use lead levels from urine (URXUPB) (which I think is only available as a limited access data set anyway) instead of serum lead levels, as in [variable LBXBPB](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PBCD.htm#LBXBPB).
