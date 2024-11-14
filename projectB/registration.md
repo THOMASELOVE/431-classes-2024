@@ -15,7 +15,7 @@ Each project is briefly summarized below, in a table.
 2. Do not categorize quantitative variables for Study 2 if you can possibly avoid it. It's much better to keep your information as granular as possible.
 3. All values of Refused, Don't Know, Unsure, etc. should be converted by you into MISSING values, and should be imputed in Study 2, and filtered away in Study 1.
 4. If your key Study 2 predictor is categorical, be sure that each category contains a substantial fraction (I would say at minimum 10%) of your available data. If not, you should collapse categories until it does.
-5. **Note to myself**: In the instructions, I should have more actively discouraged people from using [Kaggle data sets](https://www.kaggle.com/datasets), especially those that have been pre-cleaned, and that have very limited amounts of information about how the study was designed or what the measures were. I think of these as just teaching data sets.
+5. **Note to myself**: In the instructions, I should have more actively discouraged people from using [Kaggle data sets](https://www.kaggle.com/datasets), especially those that have been pre-cleaned, and that have very limited amounts of information about how the study was designed or what the measures were. I think of these as teaching data sets.
  
 ## Notes for People Using NHANES data
 
