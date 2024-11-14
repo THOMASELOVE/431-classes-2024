@@ -12,6 +12,10 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
 22 | 2024-11-14 | **[Slides 22](https://thomaselove.github.io/431-slides-2024/class22.html)** | **[Word 22](https://thomaselove.github.io/431-slides-2024/class22w.docx)** | **[Code 22](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class22.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
+## Quote Investigator
+
+Who is really the source of the famous quip "[It is the mrk of a Truly Intelligent person to be moved by Statistics?](https://quoteinvestigator.com/2013/02/20/moved-by-stats/)"
+
 ## Announcements
 
 1. I fixed two typos (in slides 25 and 27) in the [Slides for Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18). Nothing that should affect you much, but the new versions (HTML and Word) are posted. Thanks to the student who brought these to my attention.
