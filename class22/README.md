@@ -58,7 +58,7 @@ In addition to 431, I teach two other semester-long courses, called **PQHS 432**
 
 ## And Then There Were None
 
-The last two performances are Friday and Satueday at 7:30. Some tickets remain available at <https://www.auroracommunitytheatre.com/>. If you come, and want to hang around for 5 minutes afterwards in the theater, the cast (including me) will come out and say hello after the play.
+The last two performances are Friday and Saturday at 7:30. Some tickets remain available at <https://www.auroracommunitytheatre.com/>. If you come, and want to hang around for a few minutes afterwards in the theater, the cast (including me) will come out and say hello after the play. Or, conversely, escape quickly so that you don't have to say hello to me. Your choice.
 
 ## One Last Thing
 
