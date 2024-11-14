@@ -55,6 +55,12 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 - Brooke and Veda: I don't love this key predictor, since you will have very few No responses. Instead of using ALQ111, I suggest you create a multi-categorical variable using [ALQ121](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_ALQ.htm#ALQ121) which describes alcohol consumption over the past 12 months, which I would probably divide into four levels (code 0 vs. 1-4 vs. 5-7 vs. 8-10)
 
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+42 | Morgan McLoughlin | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) | Sense of Parenting Competence | Depression (3 levels) | 918 | Yes (see note)
+
+- Morgan: I am a bit concerned about your outcome, since it's a count variable, really, and has a fairly small number of possible values.  Using an outcome like this requires methods for regression on count outcomes that we won't get to until well into the 432 class, so I'm worried you'll get quite frustrated with the choice in this work. I guess we'll see what happens.
+
 ## Monday 2024-12-09
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
@@ -215,5 +221,4 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 ## As Yet Unscheduled
 
-- Morgan McLoughlin
 - Monica Ghosh
