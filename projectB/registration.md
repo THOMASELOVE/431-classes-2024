@@ -24,7 +24,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
 1 | Alexis Heath | 9:00 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Blood lead | Race/Ethnicity | 6995 | Yes
 2 | Tatiana Dombrovski and Mahsa Sheikh | 9:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Fasting glucose | Serum Insulin | 3616 | Yes
-3 | Nihit Mehta | 9:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Meal skipping (3 levels) | 2112 | Yes
+3 | Nihit Mehta | 9:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Meal skipping (3 levels) | 2112 | Yes (see note)
 
 - Nihit: Consider using waist circumference instead of BMI. See note at the top of the page.
 
@@ -52,7 +52,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-9 | Anika Krishna and Madaline Witort | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Total # of Arrests | General Health (5 levels) | 5081 | Not Yet (see note)
+9 | Anika Krishna and Madaline Witort | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Total # of Arrests | General Health (5 levels) | 5081 | **Not Yet** (see note)
 
 - Anika and Madaline: Using a count as an outcome like this (which is likely to have many, many more 0 values than anything else) requires methods for regression on count outcomes that we won't get to until well into the 432 class. A problem with many surveys of this type is that they don't provide enough quantitative variables to be useful for a linear regression project. Can you choose a better outcome?
 
@@ -74,13 +74,13 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-13 | Olivia Lindberg | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#) | Typical hours worked per week | Food insecurity (Yes or No) | 453 | Not Yet (see note)
+13 | Olivia Lindberg | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#) | Typical hours worked per week | Food insecurity (Yes or No) | 453 | **Not Yet** (see note)
 
 - Olivia: Using an outcome like this (which is likely to have nearly all of the values be one of just a few values) isn't a good choice for a linear model. A problem with many surveys of this type is that they don't provide enough quantitative variables that actually describe a wide range of results to be useful for a linear regression project. Can you choose a better outcome?
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-14 | Nick Nazak and Rebecca Stinson | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) | Length of Stay in Hospital | Blood hemoglobin (3 levels) | 7789 | Not Yet (see note)
+14 | Nick Nazak and Rebecca Stinson | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) | Length of Stay in Hospital | Blood hemoglobin (3 levels) | 7789 | **Not Yet** (see note)
 
 - Nick and Rebecca: While I'm not a big fan of many Kaggle data sets, this one is at least semi-reasonably documented so it might be OK. But you cannot use length of stay as an outcome (it is a censored survival outcome; a time-to-event variable, and those require tools we'll see in 432), and there's no sense in categorizing the hemoglobin levels into categories like this in your key predictor - if the data are available as a quantity, use them as a quantity. You will need to figure out what to do about the same individual having multiple "admissions" in these data. I would prefer your unit to be an individual, rather than an admission, so you'll probably wind up using the first admission for each subject with multiple admissions, which will reduce the sample size, I assume. 
 
@@ -94,11 +94,11 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
 16 | Katherine Papahadjoulos | 11:50 AM | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles) | Psychological Distress Scale (0-24) | Substance use severity (4 levels) | 9299 | Yes (see note)
 
-- Katherine: I am a little concerned about your outcome, since it's a count (of points) and can only have 25 possible values, and I expect the values to be highly right skewed with some very commonly chosen values. 
+- Katherine: I am a little concerned about your outcome, since it's a count (of points) and can only have 25 possible values, and I expect the values to be highly right skewed with some very commonly chosen values. If you really do have complete data on all Study 2 variables (not just the outcome and key predictor), then take a random sample of 5000 people and use that instead.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-17 | Feriel Presswalla and Alayna Rowell | 12:15 PM | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core) | Alcoholic Drinks Per Day | Degree of Pain (3 levels) | 1130 |  Not Yet (see note)
+17 | Feriel Presswalla and Alayna Rowell | 12:15 PM | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core) | Alcoholic Drinks Per Day | Degree of Pain (3 levels) | 1130 | **Not Yet** (see note)
 
 - Feriel and Alyna: Using a count as an outcome like this (which is likely to have many, many more 0, 1, and 2 values than anything else and also has only 16 possible values) requires methods for regression on count outcomes that we won't get to until well into the 432 class. A problem with many surveys of this type is that they don't provide enough real quantitative variables to be useful for a linear regression project. Can you choose a better outcome? In addition, why is none (or no pain) an option in your key predictor? Is this a sample of people in pain?
 
@@ -110,28 +110,28 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-19 | Spancer Zhou | 1:05 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | **Insufficient detail** | **Insufficient detail** | 7465 | Not Yet (see note)
+19 | Spancer Zhou | 1:05 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | **Insufficient detail** | **Insufficient detail** | 7465 | **Not Yet** (see note)
 
 - Spancer: you need to be specific about what outcome (you wrote "depression quantitative" but that's not an answer) you plan to use. Give me the specifics for the variable from the NHANES materials. Then, instead of listing a long series of predictors, you needed to specify what your **key** predictor was. If you want to use blood pressure category, OK, but you need to again specify where you will obtain this information, and tell us how many people out of your 7465 are in each level.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-20 | Jeff Lambe and <br /> Tatchaporn Ongphichetmetha | 1:50 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | LDL Cholesterol | Food Security (4 levels) | 3068 | OK
+20 | Jeff Lambe and <br /> Tatchaporn Ongphichetmetha | 1:50 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | LDL Cholesterol | Food Security (4 levels) | 3068 | Yes
 21 | Debbie Seifert | 2:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hours of Sleep on Workdays | Snoring (4 levels) | 7255 | Yes (see note)
 
 - Debbie: Your outcome variable is a bit of a problem, because the data are very discrete, with only about 25 different values, of which 45% (roughly) are either 7, 8 or 9. Sleeping hours is a fine predictor, but I want to warn you that it may wind up being frustrating for you as an outcome.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-22 | Sarah Cooke | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total cholesterol | Body mass index | 7197 | Yes
+22 | Sarah Cooke | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total cholesterol | Body mass index | 7197 | Yes (see note)
 
 - Sarah: See my note at the top of this page about BMI vs. Waist Circumference.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-23 | Mohammad Nasirpour | 3:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | 1st Systolic BP | 7029 | Yes
+23 | Mohammad Nasirpour | 3:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | 1st Systolic BP | 7029 | Yes (see note)
 
-- Sarah: See my note at the top of this page about BMI vs. Waist Circumference.
+- Mohammad: See my note at the top of this page about BMI vs. Waist Circumference.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
@@ -141,7 +141,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-25 | Shraddha Dumawat | 4:00 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adult **females** ages 21-79 | Iron Binding Capacity | Marital Status (3 levels) | 1741 | Yes
+25 | Shraddha Dumawat | 4:00 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adult **females** ages 21-79 | Iron Binding Capacity | Marital Status (3 levels) | 1741 | Yes (see note)
 
 - Shraddha: You'll need to collapse the marital status options into 3 justifiable groups. Be sure each of those groups contains at least 10% of your data.
 
@@ -161,25 +161,61 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-28 | Haley Altadonna | 11:00 AM | (BRFSS) Behavioral Risk Factor <br /> [Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) |
-29 | Brooke Jurasius | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-30 | Rachel Liu | 11:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-31 | Cassandra Lopez and Guanyu Wei | 12:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-32 | Dali Nemecio | 12:40 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-33 | Arya Patel | 1:05 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-34 | Sonny Caradonna | 1:30 PM | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
-35 | Leia George | 1:55 PM | [Social Media Usage and Emotional Well-Being from Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being?select=train.csv)
-36 | Reilly Burhanna and Jose Diz Ferre | 2:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-37 | Toni Shoyinka and Isaac Zeng | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-38 | Derek Host | 3:10 PM  | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-39 | Tom Kupferer | 3:35 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
+28 | Haley Altadonna | 11:00 AM | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Poor Physical Health in past 30d | Physical Activity (4 levels) | 6980 | Yes
+29 | Brooke Jurasius | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 1st Systolic Blood Pressure | Total Cholesterol | 6632 | Yes
+30 | Rachel Liu | 11:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Urine arsenic level | Fatigue (4 categories) | 2699 | Yes
+31 | Cassandra Lopez and Guanyu Wei | 12:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | **Need new outcome** | Moderate Recreation Minutes/Day | 2820 | **Not Yet** (see note)
+
+- Cassandra and Guanyu, you cannot use INDFMMPI as your outcome, unless you restrict your sample to people with values of that variable above 0 and strictly less than 5, so as to avoid the huge ceiling effect (see my note to Group 16: Dana Jian, earlier on this page). Even with this change, though, it's not a good idea. Predict something other than income level.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+32 | Dali Nemecio | 12:40 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Blood lead | Poverty level category (3 levels) | 9268 | Yes (see note)
+
+- Dali: You have not filtered the NHANES data set properly to restrict yourself to adults ages 21-79 and to those with complete data on all of your predictors and outcome to get a sample size like this. It should be substantially smaller.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+33 | Arya Patel | 1:05 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | LDL Cholesterol | Minutes of Moderate Recreation | 3281 | Yes 
+34 | Sonny Caradonna | 1:30 PM | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx) | Cognitive Ability Scale | Ever hospitalized for a psychiatric problem? (Yes or No) | 10000 | Yes (see note)
+
+- Sonny: This is fine, so long as you have a reasonable number of people (at least 10% of your sample) with Yes and with No on your key predictor. If you really do have complete data on all Study 2 variables (not just the outcome and key predictor), then take a random sample of 5000 people and use that instead. 
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+35 | Leia George | 1:55 PM | [Social Media Usage and Emotional Well-Being from Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | % of negative emotion words | 
+subreddit domain (5 levels) | 2838 | **Not Yet** (see note)
+
+- Leia: In looking at the link you provided, I see multiple problems with this plan - specifically, I don't think this link provides 2838 observations or this outcome.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+36 | Reilly Burhanna and Jose Diz Ferre | 2:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults **who drink alcohol** ages 21-79 | Alcoholic drinks per day | Depression Status (4 levels) | 5863 | **Not Yet** (see note)
+
+- Reilly and Jose: you need a new outcome and maybe a new predictor. This one only has values between 1 and 13, so you'd have to restrict yourself to those who drink alcohol, unless you plan to combine this variable (ALQ130) with ALQ121 somehow to include the people at zero. Even if you did that, using a count as an outcome like this (which is likely to have many, many more 0, 1, and 2 values than anything else and also has only 14 possible values) requires methods for regression on count outcomes that we won't get to until well into the 432 class. Pick a new outcome. You also need a new key predictor, unless you're planning to create a binary variable for your chosen depression variable ([DPQ020](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DPQ.htm#DPQ020)) because not at all and "everything other than not at all" are the only categories you could use there that would work as a key predictor.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+37 | Toni Shoyinka and Isaac Zeng | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Insulin level | Taking low-dose aspirin (3 levels) | 2555 | Yes (see note)
+
+- Toni and Isaac: Shouldn't your sample be restricted to adults who have some reason to get their insulin checked (perhaps they have a diabetes diagnosis) and some reason to take a low-dose aspirin? So you should probably revise your description of the data sample. Also, you should only use a 3-category key predictor if all 3 levels have at least 10% of subjects in them.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+38 | Derek Host | 3:10 PM  | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Days/week of Physical Work | 556 | Yes (see note)
+
+- Derek: Instead of using this key predictor (PAQ610), please use measure [PAQ605](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PAQ.htm#PAQ605) instead, which is just yes or no, but is answered by almost everyone, so you can get your sample size back up to a reasonable level for NHANES work. In addition, consider using waist circumference instead of BMI as your outcome. See note at the top of the page.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+39 | Tom Kupferer | 3:35 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total Cholesterol | PHQ-9 Depression Score | 4816 | Yes
 
 ## Wednesday 2024-12-11
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-40 | Weiyun Liang | 10:30 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
-41 | Carly DaCosta and Gabrielle Davis | 10:55 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 
+40 | Weiyun Liang | 10:30 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 3rd Systolic Blood Pressure | LDL Cholesterol | 4617 | Yes
+41 | Carly DaCosta and Gabrielle Davis | 10:55 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hemoglobin level | Race/Ethnicity (5 levels) | 4291 | Yes 
 
 ## As Yet Unscheduled
 
