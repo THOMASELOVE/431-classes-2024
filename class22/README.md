@@ -14,7 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Quote Investigator
 
-Who is really the source of the famous quip "[It is the mrk of a Truly Intelligent person to be moved by Statistics?](https://quoteinvestigator.com/2013/02/20/moved-by-stats/)"
+Who is really the source of the famous quip "[It is the mark of a Truly Intelligent person to be moved by Statistics?](https://quoteinvestigator.com/2013/02/20/moved-by-stats/)"
 
 ## Announcements
 
