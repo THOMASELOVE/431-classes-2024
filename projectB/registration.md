@@ -2,6 +2,13 @@
 
 Unless otherwise indicated, all NHANES listings before refer exclusively to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle. 
 
+## Your Status
+
+Each project is briefly summarized below, in a table.
+
+- The "Approved?" column is **Yes** if I have approved your proposal. I don't need to hear from you again on Project B until your presentation. This is sometimes accompanied by a note below your details, and sometimes not, if everything looks OK so far. Just take my suggestions to heart and move forward to actually do Project B.
+- If the "Approved?" column indicates **Not Yet**, check your email for a note from me sent 2024-11-13, and reply to that email as soon as you can with whatever changes you plan to make in light of my feedback. Thanks.
+
 ## Notes for All
 
 1. If my listing of your project below is incorrect **in any detail**, please email me so I can fix it.
@@ -13,7 +20,7 @@ Unless otherwise indicated, all NHANES listings before refer exclusively to the 
 ## Notes for People Using NHANES data
 
 1. I'll remind you that NHANES provides neither a random sample, nor a representative sample (at least without weights) of the American population, so do not claim that it is either of those things.
-2. If you were not specific, I guessed that you were planning to work with adults between the ages of 21 and 79. If that is incorrect, please email me so I can fix it.
+2. If you were not specific about it, I guessed that you were planning to work with adults between the ages of 21 and 79. If that is incorrect, please email me so I can fix it.
 3. Those of you using Body Mass Index as an outcome or predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead. Waist circumference is generally considered a better measure of health, as it indicates something meaningful about fat distribution. Here are the data in NHANES 2017-March 2020 for adults ages 21-79 for these two measures, and you can see that waist circumference is a little closer to Normally distributed here, too.
 
 ![](images/bmivswaist.png)
