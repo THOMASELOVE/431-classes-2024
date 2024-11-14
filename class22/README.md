@@ -23,6 +23,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The Study 2 Sample Report for Project B will, I expect, be posted by next Tuesday.
     - If your plan is [not yet approved](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md), then respond to my email (sent Wednesday evening 2024-11-13) to get that resolved with me as soon as possible.
 4. I added two more packages, **here** and **mosaic**, to our list of [packages to install in R](https://github.com/THOMASELOVE/431-packages/blob/main/README.md). We'll demonstrate their use today.
+5. Don't forget about [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/blob/main/lab7/README.md) which you can do (and submit to me) at any time before its deadline.
 
 ## Our New Packages and some Nice R Resources
 
