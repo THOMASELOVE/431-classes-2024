@@ -14,7 +14,19 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. **Project B**
+1. I fixed two tiny typos (slides 25 and 27) in the [Slides for Class 18](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class18). Nothing that should affect you much, but the new versions (HTML and Word) are posted. Thanks to the student who brought these to my attention.
+2. [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) is due next Wednesday 2024-11-20 at noon. I revised the instructions on 2024-11-12, so make sure you have the revised version (as the changes I made should save you a lot of time in doing the Lab.)
+3. **Project B**
     - The schedule for Project B Presentations [is now available](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md).
-    - We will discuss each project plan briefly today. My [review of the project B plans is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) and there is valuable stuff here for everyone, even if I've already approved your plan.
-2. 
+    - We will walk through several issues related to the Project B plans today. My [review of the project B plans is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) and there is valuable stuff here for everyone, even if I've already approved your plan.
+    - If your plan is [not yet approved](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md), then respond to my email (sent Wednesday evening 2024-11-13) to get that resolved with me as soon as possible.
+
+----
+
+## Standing Break (at about 1:35)
+
+- Feedback on the Minute Paper after Class 21 should be available **by class time**. We'll discuss it during the standing break.
+
+## One Last Thing
+
+
