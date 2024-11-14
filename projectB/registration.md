@@ -186,12 +186,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-35 | Leia George | 1:55 PM | [Social Media Usage and Emotional Well-Being from Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | negative emotion word % | subreddit domain (5 levels) | 2838 | **Not Yet** (see note)
-
-- Leia: In looking at the link you provided, I see multiple problems with this plan - specifically, I don't think this link provides 2838 observations or this outcome.
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+35 | Leia George | 1:55 PM | [Stress Analysis in Social Media](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media) | negative emotion word % | subreddit domain (5 levels) | 2838 | Yes 
 36 | Reilly Burhanna and Jose Diz Ferre | 2:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults **who drink alcohol** ages 21-79 | Alcoholic drinks per day | Depression Status (4 levels) | 5863 | **Not Yet** (see note)
 
 - Reilly and Jose: you need a new outcome and maybe a new predictor. This one only has values between 1 and 13, so you'd have to restrict yourself to those who drink alcohol, unless you plan to combine this variable (ALQ130) with ALQ121 somehow to include the people at zero. Even if you did that, using a count as an outcome like this (which is likely to have many, many more 0, 1, and 2 values than anything else and also has only 14 possible values) requires methods for regression on count outcomes that we won't get to until well into the 432 class. Pick a new outcome. You also need a new key predictor, unless you're planning to create a binary variable for your chosen depression variable ([DPQ020](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DPQ.htm#DPQ020)) because not at all and "everything other than not at all" are the only categories you could use there that would work as a key predictor.
