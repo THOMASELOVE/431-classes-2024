@@ -19,6 +19,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 3. **Project B**
     - The schedule for Project B Presentations [is now available](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md).
     - We will walk through several issues related to the Project B plans today. My [review of the project B plans is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) and there is valuable stuff here for everyone, even if I've already approved your plan.
+    - The [Study 1 Sample Report for Project B is now available](https://thomaselove.github.io/431-projectB-2024/study1c.html), and we'll look at it today.
+    - The Study 2 Sample Report for Project B will, I expect, be posted by next Tuesday.
     - If your plan is [not yet approved](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md), then respond to my email (sent Wednesday evening 2024-11-13) to get that resolved with me as soon as possible.
 4. I added two more packages, **here** and **mosaic**, to our list of [packages to install in R](https://github.com/THOMASELOVE/431-packages/blob/main/README.md). We'll demonstrate their use today.
 
