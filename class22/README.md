@@ -24,16 +24,16 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Our New Packages and some Nice R Resources
 
-Recently, we've added `gt`, `nhanesA`, `mosaic` and `here` (and, less recently, `mice`) to our tool set.
+Recently, we've added **gt**, **nhanesA**, **mosaic** and **here** (and, less recently, **mice**) to our tool set of [packages to install in R](https://github.com/THOMASELOVE/431-packages/blob/main/README.md).
 
 - [Project MOSAIC website](https://www.mosaic-web.org/) including [R resources](https://www.mosaic-web.org/R-packages.html) and [free books on statistical thinking](https://www.mosaic-web.org/mosaic-books.html)
-- The [mosaic package](https://www.mosaic-web.org/mosaic/) website, including resources describing options for [favstats()](https://www.mosaic-web.org/mosaic/reference/fav_stats.html), [df_stats()](https://search.r-project.org/CRAN/refmans/mosaicCore/html/df_stats.html) and [inspect()](https://search.r-project.org/CRAN/refmans/mosaicCore/html/inspect.html).
+    - The [mosaic package](https://www.mosaic-web.org/mosaic/) website, including resources describing options for [favstats()](https://www.mosaic-web.org/mosaic/reference/fav_stats.html), [df_stats()](https://search.r-project.org/CRAN/refmans/mosaicCore/html/df_stats.html) and [inspect()](https://search.r-project.org/CRAN/refmans/mosaicCore/html/inspect.html).
 - The [here package](https://here.r-lib.org/) website, and Jenny Bryan's [Ode to the here package](https://github.com/jennybc/here_here)
 - The [gt package](https://gt.rstudio.com/) website
 - The mice (Multivariate Imputation by Chained Equations) package [reference page](https://amices.org/mice/).
-- Stef van Buuren's book on multiple imputation (and mice, in particular) [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
-- Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
-- nhanesA [package introduction](https://cran.r-project.org/web/packages/nhanesA/vignettes/Introducing_nhanesA.html)
+    - Stef van Buuren's book on multiple imputation (and mice, in particular) [Flexible Imputation of Missing Data](https://stefvanbuuren.name/fimd/)
+    - Heymans MW and Eekhout I [Applied Missing Data Analysis with SPSS and RStudio](https://bookdown.org/mwheymans/bookmi/)
+- The nhanesA [package introduction](https://cran.r-project.org/web/packages/nhanesA/vignettes/Introducing_nhanesA.html)
 
 ----
 
