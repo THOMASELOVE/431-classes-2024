@@ -14,5 +14,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. The schedule for Project B Presentations [is now available](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md).
+1. **Project B**
+    - The schedule for Project B Presentations [is now available](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md).
+    - We will discuss each project plan briefly today. My [review of the project B plans is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) and there is valuable stuff here for everyone, even if I've already approved your plan.
 2. 
