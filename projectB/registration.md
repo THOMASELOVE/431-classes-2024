@@ -68,7 +68,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 - Dana: The distribution of [PAD680](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PAQ.htm#PAD680) (your outcome) is highly discrete, which may wind up being frustrating for you as an outcome. Also the key predictor has a very pronounced ceiling effect, enough that it, too, may make your life very complicated.
 - On the left is a histogram of the sedentary minutes per day to make my point about its discreteness. More than 90% of the 9610 values available for that variable (after you get rid of the missingness and refused codes) are one of just 10 numbers: (60, 120, 180, 240, 300, 360, 420, 480, 600 or 720.) On the right, we see a histogram of the INDFMPIR variable. Note the enormous number of values at 5.
 
-![](images/PAD6800.png)
+![](images/PAD680.png)
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
