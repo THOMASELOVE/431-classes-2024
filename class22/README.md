@@ -10,7 +10,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
-22 | 2024-11-14 | **[Slides 22](https://thomaselove.github.io/431-slides-2024/class22.html)** | **[Word 22](https://thomaselove.github.io/431-slides-2024/class22w.docx)** | **[Code 22](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class22.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+22 | 2024-11-14 | **[Slides 22]()** | **[Word 22](https://thomaselove.github.io/431-slides-2024/class22w.docx)** | **[Code 22](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class22.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 ## Announcements
 
