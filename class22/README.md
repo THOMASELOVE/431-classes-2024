@@ -25,7 +25,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Standing Break (at about 1:35)
 
-- Feedback on the Minute Paper after Class 21 should be available **by class time**. We'll discuss it during the standing break.
+- Feedback on the Minute Paper after Class 21 [is now available](https://bit.ly/431-2024-min-21-feedback). We'll discuss it during the standing break.
 
 ## One Last Thing
 
