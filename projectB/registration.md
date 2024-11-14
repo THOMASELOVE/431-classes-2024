@@ -183,8 +183,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-35 | Leia George | 1:55 PM | [Social Media Usage and Emotional Well-Being from Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | % of negative emotion words | 
-subreddit domain (5 levels) | 2838 | **Not Yet** (see note)
+35 | Leia George | 1:55 PM | [Social Media Usage and Emotional Well-Being from Kaggle](https://www.kaggle.com/datasets/emirhanai/social-media-usage-and-emotional-well-being) | negative emotion word % | subreddit domain (5 levels) | 2838 | **Not Yet** (see note)
 
 - Leia: In looking at the link you provided, I see multiple problems with this plan - specifically, I don't think this link provides 2838 observations or this outcome.
 
