@@ -15,6 +15,7 @@ Group | Investigator(s) | Date | Join Zoom at | Style
 6 | Megan Zelinsky | Friday 2024-12-06 | 2:50 PM | Zoom
 7 | Paul Jones | Friday 2024-12-06 | 3:15 PM | Zoom
 8 | Brooke Bhattacharya and Veda Machiraju | Friday 2024-12-06 | 3:40 PM | Zoom
+42 | Morgan McLoughlin | Friday 2024-12-06 | 4:05 PM | Zoom
 
 ## Monday 2024-12-09
 
@@ -77,6 +78,5 @@ Group | Investigator(s) | Date | Join Zoom at | Style
 
 ## As Yet Unscheduled
 
-- Morgan McLoughlin
 - Monica Ghosh
 
