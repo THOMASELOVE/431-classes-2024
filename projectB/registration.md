@@ -11,8 +11,10 @@ Unless otherwise indicated, all NHANES listings before refer exclusively to the 
 ## Notes for People Using NHANES data
 
 1. I'll remind you that NHANES provides neither a random sample, nor a representative sample (at least without weights) of the American population, so do not claim that it is either of those things.
-2. Those of you using Body Mass Index as an outcome or a key predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead.
-3. If you were not specific, I guessed that you were planning to work with adults between the ages of 21 and 79. If that is incorrect, please email me so I can fix it.
+2. If you were not specific, I guessed that you were planning to work with adults between the ages of 21 and 79. If that is incorrect, please email me so I can fix it.
+3. Those of you using Body Mass Index as an outcome or predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead. Waist circumference is generally considered a better measure of health, as it indicates something meaningful about fat distribution. Here are the data in NHANES 2017-March 2020 for adults ages 21-79 for these two measures, and you can see that waist circumference is a little closer to Normally distributed here, too.
+
+![](images/bmivswaist.png)
 
 ## Friday 2024-12-06
 
@@ -22,29 +24,33 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 2 | Tatiana Dombrovski and Mahsa Sheikh | 9:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Fasting glucose | Serum Insulin | 3616 | Yes
 3 | Nihit Mehta | 9:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Meal skipping (3 levels) | 2112 | Yes
 
-- Nihit: Consider using waist circumference instead of BMI.
+- Nihit: Consider using waist circumference instead of BMI. See note at the top of the page.
 
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 4 | Atticus Kenny | 2:00 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Self-reported weight | Routine access to health care (Yes or No) | 1897 | Yes (see note)
 
-- Atticus: I would be inclined to use actual measured weight as the outcome here, rather than self-reported weight.
+- Atticus: I would be inclined to use actual measured weight (see [BMXWT](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWT)) as the outcome here, rather than self-reported weight.
 
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 5 | Graham Stockdale | 2:25 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Serum insulin | Triglyceride | 3330 | Yes
 6 | Megan Zelinsky | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](www.communitycatproject.org/data) | Length of stay in trap-neuter-rescue/return | Intake health status (6 levels) | 444 | Yes
 7 | Paul Jones | 3:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Physical activity (3 levels) | 7474 | Yes (see note)
 
-- Paul: I would stick with adults ages 21-79, instead of 21-75 (which is what you wrote in the form), unless you have a specific reason not to do so.
+- Paul: I would stick with adults ages 21-79, instead of 21-75 (which is what you wrote in the form), unless you have a specific reason not to do so. Consider using waist circumference instead of BMI. See note at the top of the page.
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 8 | Brooke Bhattacharya and <br /> Veda Machiraju | 3:40 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total Cholesterol | Ever drank Alcohol (Yes or No) | 2056 | Yes (see note)
 
-- Brooke and Veda: I don't love this key predictor, since you will have very few No responses. Instead of using ALQ111, I suggest you create a multi-categorical variable using [ALQ121](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_ALQ.htm#ALQ121)) which describes alcohol consumption over the past 12 months, which I would probably divide into four levels (code 0 vs. 1-4 vs. 5-7 vs. 8-10)
+- Brooke and Veda: I don't love this key predictor, since you will have very few No responses. Instead of using ALQ111, I suggest you create a multi-categorical variable using [ALQ121](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_ALQ.htm#ALQ121) which describes alcohol consumption over the past 12 months, which I would probably divide into four levels (code 0 vs. 1-4 vs. 5-7 vs. 8-10)
 
 ## Monday 2024-12-09
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
-9 | Anika Krishna and Madaline Witort | 8:50 AM | National Longitudinal <br /> [Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Total # of Arrests | General Health (5 levels) | 5081 | Not Yet (see note)
+9 | Anika Krishna and Madaline Witort | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Total # of Arrests | General Health (5 levels) | 5081 | Not Yet (see note)
 
 - Anika and Madaline: Using a count as an outcome like this (which is likely to have many, many more 0 values than anything else) requires methods for regression on count outcomes that we won't get to until well into the 432 class. A problem with many surveys of this type is that they don't provide enough quantitative variables to be useful for a linear regression project. Can you choose a better outcome?
 
@@ -53,7 +59,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 10 | Saar Anis | 9:15 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Triglyceride | LDL Cholesterol | 4277 | OK
 11 | Aishwarya Deengar and Harshita Kumar | 9:45 AM |[NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Urine Lead level | 2516 | Yes (see note)
 
-- Aishwarya and Harshita: Those of you using Body Mass Index as an outcome or a predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead. Not sure why you'd use lead levels from urine (URXUPB) (which I think is only available as a limited access data set anyway) instead of serum lead levels, as in [variable LBXBPB](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PBCD.htm#LBXBPB).
+- Aishwarya and Harshita: Those of you using Body Mass Index as an outcome or a predictor, consider using [Waist Circumference](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BMX.htm#BMXWAIST) instead. See my note at the top of this page. Not sure why you'd use lead levels from urine (URXUPB) (which I think is only available as a limited access data set anyway) instead of serum lead levels, as in [variable LBXBPB](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_PBCD.htm#LBXBPB).
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
@@ -111,7 +117,17 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 22 | Sarah Cooke | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total cholesterol | Body mass index | 7197 | Yes
+
+- Sarah: See my note at the top of this page about BMI vs. Waist Circumference.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 23 | Mohammad Nasirpour | 3:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | 1st Systolic BP | 7029 | Yes
+
+- Sarah: See my note at the top of this page about BMI vs. Waist Circumference.
+
+Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
+:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | -------: | :----: 
 24 | Ajay Mahenthiran | 3:35 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 **who smoke cigarettes** | Cigarettes/day | Health (5 levels) | 1687 | Yes
 25 | Shraddha Dumawat | 4:00 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adult **females** ages 21-79 | Iron Binding Capacity | Marital Status (3 levels) | 1741 | Yes
 26 | Kelly Bowen | 4:25 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Median Liver Stiffness | Waist Circumference | 2878 | Yes (see note)
