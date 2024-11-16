@@ -65,7 +65,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-9 | Anika Krishna and Madaline Witort | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Total Income from Wages | General Health (5 levels) | 5081 | Yes
+9 | Anika Krishna and Madaline Witort | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)) | Years of Education | General Health (5 levels) | 5081 | Yes
 10 | Saar Anis | 9:15 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Triglyceride | LDL Cholesterol | 4277 | Yes
 11 | Aishwarya Deengar and Harshita Kumar | 9:45 AM |[NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Waist Circumference | Blood Lead | 2516 | Yes 
 12 | Dana Jian | 10:10 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Sedentary Minutes per day | Ratio of Family Income to Poverty | 6830 | Yes (see note)
@@ -101,12 +101,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-17 | Feriel Presswalla and Alayna Rowell | 12:15 PM | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core) | Alcoholic Drinks Per Day | Degree of Pain (3 levels) | 1130 | **Not Yet** (see note)
-
-- Feriel and Alyna: Using a count as an outcome like this (which is likely to have many, many more 0, 1, and 2 values than anything else and also has only 16 possible values) requires methods for regression on count outcomes that we won't get to until well into the 432 class. A problem with many surveys of this type is that they don't provide enough real quantitative variables to be useful for a linear regression project. Can you choose a better outcome? In addition, why is none (or no pain) an option in your key predictor? Is this a sample of people in pain?
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+17 | Feriel Presswalla and Alayna Rowell | 12:15 PM | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core) individuals in pain | Most ever weighed | Degree of Pain (3 levels) | 633 | Yes
 18 | Gina Lin | 12:40 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 **with a diabetes diagnosis** | Diastolic blood pressure | Age when first told you had diabetes | 1433 | Yes (see note)
 
 - Gina: use the actually measured diastolic blood pressure in [the P_BPXO data](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_BPXO.htm) (variable BPXODI1 would be fine) instead of the questionnaire version as your Study 2 outcome. The Age variable is a problem here because if you are 30 years old, you cannot have an age when first told you had diabetes above 30, but if you are 60 years old, you can. You may want instead to look at years since diagnosis by subtracting this key predictor from the subject's age, although that too is problematic.
@@ -162,12 +157,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 28 | Haley Altadonna | 11:00 AM | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) | Poor Physical Health in past 30d | Physical Activity (4 levels) | 6980 | Yes
 29 | Brooke Jurasius | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 1st Systolic Blood Pressure | Total Cholesterol | 6632 | Yes
 30 | Rachel Liu | 11:50 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Urine arsenic level | Fatigue (4 categories) | 2699 | Yes
-31 | Cassandra Lopez and Guanyu Wei | 12:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | **Need new outcome** | Moderate Recreation Minutes/Day | 2820 | **Not Yet** (see note)
-
-- Cassandra and Guanyu, you cannot use INDFMMPI as your outcome, unless you restrict your sample to people with values of that variable above 0 and strictly less than 5, so as to avoid the huge ceiling effect (see my note to Group 16: Dana Jian, earlier on this page). Even with this change, though, it's not a good idea. Predict something other than income level.
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+31 | Cassandra Lopez and Guanyu Wei | 12:15 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Waist Circumference | Moderate Recreation Minutes/Day | 2820 | Yes
 32 | Dali Nemecio | 12:40 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Blood lead | Poverty level category (3 levels) | 9268 | Yes (see note)
 
 - Dali: You have not filtered the NHANES data set properly to restrict yourself to adults ages 21-79 and to those with complete data on all of your predictors and outcome to get a sample size like this. It should be substantially smaller.
