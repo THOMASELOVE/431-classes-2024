@@ -6,19 +6,19 @@ Data Source: NHANES refers to all NHANES listings before refer exclusively to th
 
 - In early December, the Zoom link for Friday presentations will be emailed to people speaking that day.
 - Please join the Zoom link by the Join Zoom at time listed below so that I can stay on time. If I'm not ready for you, you will be placed in a waiting room.
-- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each of the projects planned for Friday presentations.
+- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Friday presentations.
 
-Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | Zoom | NHANES
-2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | Zoom | NHANES
-3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | Zoom | NHANES
-4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | Zoom | NHANES
-5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | Zoom | NHANES
-6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | Zoom | [Cleveland Community Cat Project Outcomes Data Set](www.communitycatproject.org/data) 
-7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | Zoom | NHANES
-8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | Zoom | NHANES
-9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | Zoom | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
+Group | Investigator(s) | Date | Join Zoom at | Data Source | 
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
+1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | NHANES
+2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | NHANES
+3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | NHANES
+4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | NHANES
+5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
+6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](www.communitycatproject.org/data) 
+7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
+8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
+9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
 
 ## Monday 2024-12-09
 
@@ -52,34 +52,34 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 
 - In early December, the Zoom link for Tuesday presentations will be emailed to people speaking that day.
 - Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
-- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each of the projects planned for Tuesday presentations.
+- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Tuesday presentations.
 
-Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-28 | Zuhair Khan | Tuesday <br /> 2024-12-10 | 10:35 AM | Zoom | NHANES
-29 | Haley Altadonna | Tuesday <br /> 2024-12-10 | 11:00 AM | Zoom | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
-30 | Brooke Jurasius | Tuesday <br /> 2024-12-10 | 11:25 AM | Zoom | NHANES
-31 | Rachel Liu | Tuesday <br /> 2024-12-10 | 11:50 AM | Zoom | NHANES
-32 | Cassandra Lopez <br />  Guanyu Wei | Tuesday <br /> 2024-12-10 | 12:15 PM | Zoom | NHANES
-33 | Dali Nemecio | Tuesday <br /> 2024-12-10 | 12:40 PM | Zoom | NHANES
-34 | Arya Patel | Tuesday <br /> 2024-12-10 | 1:05 PM | Zoom | NHANES
-35 | Sonny Caradonna | Tuesday <br /> 2024-12-10 | 1:30 PM | Zoom | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
-36 | Leia George | Tuesday <br /> 2024-12-10 | 1:55 PM | Zoom | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
-37 | Reilly Burhanna <br />  Jose Diz Ferre | Tuesday <br /> 2024-12-10 | 2:10 PM | Zoom | NHANES
-38 | Toni Shoyinka <br />  Isaac Zeng | Tuesday <br /> 2024-12-10 | 2:45 PM | Zoom | NHANES
-39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  | Zoom | NHANES
-40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | Zoom | NHANES
-41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | Zoom | NHANES
+Group | Investigator(s) | Date | Join Zoom at | Data Source | 
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
+28 | Zuhair Khan | Tuesday <br /> 2024-12-10 | 10:35 AM | NHANES
+29 | Haley Altadonna | Tuesday <br /> 2024-12-10 | 11:00 AM | [BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
+30 | Brooke Jurasius | Tuesday <br /> 2024-12-10 | 11:25 AM | NHANES
+31 | Rachel Liu | Tuesday <br /> 2024-12-10 | 11:50 AM | NHANES
+32 | Cassandra Lopez <br />  Guanyu Wei | Tuesday <br /> 2024-12-10 | 12:15 PM | NHANES
+33 | Dali Nemecio | Tuesday <br /> 2024-12-10 | 12:40 PM | NHANES
+34 | Arya Patel | Tuesday <br /> 2024-12-10 | 1:05 PM | NHANES
+35 | Sonny Caradonna | Tuesday <br /> 2024-12-10 | 1:30 PM | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
+36 | Leia George | Tuesday <br /> 2024-12-10 | 1:55 PM | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
+37 | Reilly Burhanna <br />  Jose Diz Ferre | Tuesday <br /> 2024-12-10 | 2:10 PM | NHANES
+38 | Toni Shoyinka <br />  Isaac Zeng | Tuesday <br /> 2024-12-10 | 2:45 PM | HANES
+39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  |  NHANES
+40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
+41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
 
 ## Wednesday 2024-12-11
 
 - In early December, the Zoom link for Wednesday presentations will be emailed to people speaking that day.
 - Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
-- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for both of the projects planned for Wednesday presentations.
+- I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Wednesday presentations.
 
-Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-42 | Weiyun Liang | Wednesday <br /> 2024-12-11 | 10:30 AM | Zoom | NHANES
-43 | Carly DaCosta <br />  Gabrielle Davis | Wednesday <br /> 2024-12-11 | 10:55 AM | Zoom | NHANES
+Group | Investigator(s) | Date | Join Zoom at | Data Source | 
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
+42 | Weiyun Liang | Wednesday <br /> 2024-12-11 | 10:30 AM | NHANES
+43 | Carly DaCosta <br />  Gabrielle Davis | Wednesday <br /> 2024-12-11 | 10:55 AM | NHANES
 
 
