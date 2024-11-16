@@ -51,7 +51,7 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 ## Tuesday 2024-12-10
 
 - In early December, the Zoom link for Tuesday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
+- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Tuesday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
@@ -74,7 +74,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 ## Wednesday 2024-12-11
 
 - In early December, the Zoom link for Wednesday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
+- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Wednesday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
