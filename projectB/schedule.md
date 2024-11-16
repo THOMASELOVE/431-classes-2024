@@ -5,7 +5,7 @@ Data Source: NHANES refers to all NHANES listings before refer exclusively to th
 ## Friday 2024-12-06
 
 - In early December, the Zoom link for Friday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the Join Zoom at time listed below so that I can stay on time. If I'm not ready for you, you will be placed in a waiting room.
+- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each project planned for Friday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
