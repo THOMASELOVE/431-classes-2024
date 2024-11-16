@@ -16,7 +16,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) is due tomorrow (Wednesday 2024-11-20) at noon.
     - The answer sketch will be posted to our Shared Drive folder by noon on Friday 2024-11-22.
-2. There is a [Minute Paper after Class 23](https://bit.ly/431-2024-minute-23) due tomorrow (Wednesday 2024-11-20) at noon. The link is <https://bit.ly/431-2024-minute-23>. Thanks.
+2. There is a [Minute Paper after Class 23](https://bit.ly/431-2024-minute-23) due tomorrow (Wednesday 2024-11-20) at noon.
+    - The link is <https://bit.ly/431-2024-minute-23>. Thanks.
 3. **Remaining Classes**
     - [Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) will be held as usual, in person, this Thursday 2024-11-21.
     - You will receive [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) on Thursday 2024-11-21 by 5 PM.
