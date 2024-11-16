@@ -83,12 +83,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-14 | Nick Nazak and Rebecca Stinson | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) | Length of Stay in Hospital | Blood hemoglobin (3 levels) | 7789 | **Not Yet** (see note)
-
-- Nick and Rebecca: While I'm not a big fan of many Kaggle data sets, this one is at least semi-reasonably documented so it might be OK. But you cannot use length of stay as an outcome (it is a censored survival outcome; a time-to-event variable, and those require tools we'll see in 432), and there's no sense in categorizing the hemoglobin levels into categories like this in your key predictor - if the data are available as a quantity, use them as a quantity. You will need to figure out what to do about the same individual having multiple "admissions" in these data. I would prefer your unit to be an individual, rather than an admission, so you'll probably wind up using the first admission for each subject with multiple admissions, which will reduce the sample size, I assume. 
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+14 | Nick Nazak and Rebecca Stinson | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) | Total Platelet Count | Blood hemoglobin (3 levels) | 6013 | Yes
 15 | JiaWei Yu | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hours of Sleep on Workdays | Vigorous Recreation? (Yes or No) | 6623 | Yes (see note)
 
 - JiaWei: Your outcome variable is a bit of a problem, because the data are very discrete, with only about 25 different values, of which 45% (roughly) are either 7, 8 or 9. Sleeping hours is a fine predictor, but I want to warn you that it may wind up being frustrating for you as an outcome.
@@ -172,12 +167,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
 35 | Leia George | 1:55 PM | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media) | negative emotion word % | subreddit domain (5 levels) | 2838 | Yes 
-36 | Reilly Burhanna and Jose Diz Ferre | 2:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults **who drink alcohol** ages 21-79 | Alcoholic drinks per day | Depression Status (4 levels) | 5863 | **Not Yet** (see note)
-
-- Reilly and Jose: you need a new outcome and maybe a new predictor. This one only has values between 1 and 13, so you'd have to restrict yourself to those who drink alcohol, unless you plan to combine this variable (ALQ130) with ALQ121 somehow to include the people at zero. Even if you did that, using a count as an outcome like this (which is likely to have many, many more 0, 1, and 2 values than anything else and also has only 14 possible values) requires methods for regression on count outcomes that we won't get to until well into the 432 class. Pick a new outcome. You also need a new key predictor, unless you're planning to create a binary variable for your chosen depression variable ([DPQ020](https://wwwn.cdc.gov/Nchs/Nhanes/2017-2018/P_DPQ.htm#DPQ020)) because not at all and "everything other than not at all" are the only categories you could use there that would work as a key predictor.
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+36 | Reilly Burhanna and Jose Diz Ferre | 2:10 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults **who drink alcohol** ages 21-79 | Weight | Depression Status (2 or 4 levels) | 5863 | Yes
 37 | Toni Shoyinka and Isaac Zeng | 2:45 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Insulin level | Taking low-dose aspirin (3 levels) | 2555 | Yes (see note)
 
 - Toni and Isaac: Shouldn't your sample be restricted to adults who have some reason to get their insulin checked (perhaps they have a diabetes diagnosis) and some reason to take a low-dose aspirin? So you should probably revise your description of the data sample. Also, you should only use a 3-category key predictor if all 3 levels have at least 10% of subjects in them.
