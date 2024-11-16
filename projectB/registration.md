@@ -57,7 +57,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-8.5 | Morgan McLoughlin | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) | Sense of Parenting Competence | Depression (3 levels) | 918 | Yes (see note)
+9 | Morgan McLoughlin | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) | Sense of Parenting Competence | Depression (3 levels) | 918 | Yes (see note)
 
 - Morgan: I am a bit concerned about your outcome, since it's a count variable, really, and has a fairly small number of possible values.  Using an outcome like this requires methods for regression on count outcomes that we won't get to until well into the 432 class, so I'm worried you'll get quite frustrated with the choice in this work. I guess we'll see what happens.
 
@@ -181,14 +181,13 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
 39 | Tom Kupferer | 3:35 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Total Cholesterol | PHQ-9 Depression Score | 4816 | Yes
+40 | Monica Ghosh | 4:00 PM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Body mass index | Snoring frequency (4 levels) | 6715 | Yes (see note)
+
+- Monica: Consider using waist circumference instead of BMI. See note at the top of the page.
 
 ## Wednesday 2024-12-11
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-40 | Weiyun Liang | 10:30 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 3rd Systolic Blood Pressure | LDL Cholesterol | 4617 | Yes
-41 | Carly DaCosta and Gabrielle Davis | 10:55 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hemoglobin level | Race/Ethnicity (5 levels) | 4291 | Yes 
-
-## As Yet Unscheduled
-
-- Monica Ghosh
+41 | Weiyun Liang | 10:30 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | 3rd Systolic Blood Pressure | LDL Cholesterol | 4617 | Yes
+42 | Carly DaCosta and Gabrielle Davis | 10:55 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hemoglobin level | Race/Ethnicity (5 levels) | 4291 | Yes 
