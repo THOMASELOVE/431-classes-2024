@@ -14,4 +14,5 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. Today's Class 25 is an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and will also appear in your email on the morning of the class session.
+
