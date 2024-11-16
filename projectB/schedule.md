@@ -33,7 +33,7 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 12 | Aishwarya Deengar and Harshita Kumar | Monday 2024-12-09 | 9:45 AM | In Person | Yes | NHANES
 13 | Dana Jian | Monday 2024-12-09 | 10:10 AM | Zoom | Yes | NHANES
 14 | Olivia Lindberg | Monday 2024-12-09 | 10:35 AM | Zoom | **NOT YET** | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
-15 | Nick Nazak and Rebecca Stinson | Monday 2024-12-09 | 11:00 AM | Zoom | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
+15 | Nick Nazak and Rebecca Stinson | Monday 2024-12-09 | 11:00 AM | Zoom | Yes | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
 16 | JiaWei Yu | Monday 2024-12-09 | 11:25 AM | Zoom | Yes | NHANES
 17 | Katherine Papahadjoulos | Monday 2024-12-09 | 11:50 AM | Zoom | Yes | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
 18 | Feriel Presswalla and Alayna Rowell | Monday 2024-12-09 | 12:15 PM | Zoom | Yes | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
@@ -52,31 +52,31 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 - In early December, the Zoom link for Tuesday presentations will be emailed to people speaking that day.
 - Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
 
-Group | Investigator(s) | Date | Join Zoom at | Style
-:-----: | :---------------------------: | :---------------: | :--------------: | :---------:
-28 | Zuhair Khan | Tuesday 2024-12-10 | 10:35 AM | Zoom
-29 | Haley Altadonna | Tuesday 2024-12-10 | 11:00 AM | Zoom
-30 | Brooke Jurasius | Tuesday 2024-12-10 | 11:25 AM | Zoom
-31 | Rachel Liu | Tuesday 2024-12-10 | 11:50 AM | Zoom
-32 | Cassandra Lopez and Guanyu Wei | Tuesday 2024-12-10 | 12:15 PM | Zoom
-33 | Dali Nemecio | Tuesday 2024-12-10 | 12:40 PM | Zoom
-34 | Arya Patel | Tuesday 2024-12-10 | 1:05 PM | Zoom
-35 | Sonny Caradonna | Tuesday 2024-12-10 | 1:30 PM | Zoom
-36 | Leia George | Tuesday 2024-12-10 | 1:55 PM | Zoom
-37 | Reilly Burhanna and Jose Diz Ferre | Tuesday 2024-12-10 | 2:10 PM | Zoom
-38 | Toni Shoyinka and Isaac Zeng | Tuesday 2024-12-10 | 2:45 PM | Zoom
-39 | Derek Host | Tuesday 2024-12-10 | 3:10 PM  | Zoom
-40 | Tom Kupferer | Tuesday 2024-12-10 | 3:35 PM | Zoom
-41 | Monica Ghosh | Tuesday 2024-12-10 | 4:00 PM | Zoom
+Group | Investigator(s) | Date | Join Zoom at | Style | [Approved?](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) | Data Source | 
+:-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :------: | :--------------------- 
+28 | Zuhair Khan | Tuesday 2024-12-10 | 10:35 AM | Zoom | Yes | NHANES
+29 | Haley Altadonna | Tuesday 2024-12-10 | 11:00 AM | Zoom | Yes | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
+30 | Brooke Jurasius | Tuesday 2024-12-10 | 11:25 AM | Zoom | Yes | NHANES
+31 | Rachel Liu | Tuesday 2024-12-10 | 11:50 AM | Zoom | Yes | NHANES
+32 | Cassandra Lopez and Guanyu Wei | Tuesday 2024-12-10 | 12:15 PM | Zoom | Yes | NHANES
+33 | Dali Nemecio | Tuesday 2024-12-10 | 12:40 PM | Zoom | Yes | NHANES
+34 | Arya Patel | Tuesday 2024-12-10 | 1:05 PM | Zoom | Yes | NHANES
+35 | Sonny Caradonna | Tuesday 2024-12-10 | 1:30 PM | Zoom | Yes | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
+36 | Leia George | Tuesday 2024-12-10 | 1:55 PM | Zoom | Yes | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
+37 | Reilly Burhanna and Jose Diz Ferre | Tuesday 2024-12-10 | 2:10 PM | Zoom | Yes | NHANES
+38 | Toni Shoyinka and Isaac Zeng | Tuesday 2024-12-10 | 2:45 PM | Zoom | Yes | NHANES
+39 | Derek Host | Tuesday 2024-12-10 | 3:10 PM  | Zoom | Yes | NHANES
+40 | Tom Kupferer | Tuesday 2024-12-10 | 3:35 PM | Zoom | Yes | NHANES
+41 | Monica Ghosh | Tuesday 2024-12-10 | 4:00 PM | Zoom | Yes | NHANES
 
 ## Wednesday 2024-12-11
 
 - In early December, the Zoom link for Wednesday presentations will be emailed to people speaking that day.
 - Please join the Zoom link by the **Join Zoom at** time listed below so that I can keep to this schedule. If I'm not ready for you, you will be placed in a waiting room.
 
-Group | Investigator(s) | Date | Join Zoom at | Style
-:-----: | :---------------------------: | :---------------: | :--------------: | :---------:
-42 | Weiyun Liang | Wednesday 2024-12-11 | 10:30 AM | Zoom
-43 | Carly DaCosta and Gabrielle Davis | Wednesday 2024-12-11 | 10:55 AM | Zoom
+Group | Investigator(s) | Date | Join Zoom at | Style | [Approved?](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) | Data Source | 
+:-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :------: | :--------------------- 
+42 | Weiyun Liang | Wednesday 2024-12-11 | 10:30 AM | Zoom | Yes | NHANES
+43 | Carly DaCosta and Gabrielle Davis | Wednesday 2024-12-11 | 10:55 AM | Zoom | Yes | NHANES
 
 
