@@ -14,4 +14,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+1. If I were you, I would [update RStudio to the latest version](https://posit.co/download/rstudio-desktop/) (2024.09.1+394) if you haven't already. It's not vital, but useful, and shouldn't be disruptive. As for updating R, I have now upgraded to R version 4.4.2 for slides and other materials, but you can work with either R version 4.4.1 or 4.4.2 for the remainder of 2024.
