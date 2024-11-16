@@ -9,7 +9,7 @@ Data Source: NHANES refers to all NHANES listings before refer exclusively to th
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each of the projects planned for Friday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :----------------------------------------------------------------
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
 1 | Alexis Heath | Friday 2024-12-06 | 9:00 AM | Zoom | NHANES
 2 | Tatiana Dombrovski and Mahsa Sheikh | Friday 2024-12-06 | 9:25 AM | Zoom | NHANES
 3 | Nihit Mehta | Friday 2024-12-06 | 9:50 AM | Zoom | NHANES
@@ -55,7 +55,7 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for each of the projects planned for Tuesday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :----------------------------------------------------------------
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
 28 | Zuhair Khan | Tuesday 2024-12-10 | 10:35 AM | Zoom | NHANES
 29 | Haley Altadonna | Tuesday 2024-12-10 | 11:00 AM | Zoom | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
 30 | Brooke Jurasius | Tuesday 2024-12-10 | 11:25 AM | Zoom | NHANES
@@ -78,7 +78,7 @@ Group | Investigator(s) | Date | Join Zoom at | Style | Data Source |
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for both of the projects planned for Wednesday presentations.
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
-:-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :----------------------------------------------------------------
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
 42 | Weiyun Liang | Wednesday 2024-12-11 | 10:30 AM | Zoom | NHANES
 43 | Carly DaCosta and Gabrielle Davis | Wednesday 2024-12-11 | 10:55 AM | Zoom | NHANES
 
