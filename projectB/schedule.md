@@ -10,15 +10,15 @@ Data Source: NHANES refers to all NHANES listings before refer exclusively to th
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-1 | Alexis Heath | Friday 2024-12-06 | 9:00 AM | Zoom | NHANES
-2 | Tatiana Dombrovski and Mahsa Sheikh | Friday 2024-12-06 | 9:25 AM | Zoom | NHANES
-3 | Nihit Mehta | Friday 2024-12-06 | 9:50 AM | Zoom | NHANES
-4 | Atticus Kenny | Friday 2024-12-06 | 2:00 PM | Zoom | NHANES
-5 | Graham Stockdale | Friday 2024-12-06 | 2:25 PM | Zoom | NHANES
-6 | Megan Zelinsky | Friday 2024-12-06 | 2:50 PM | Zoom | [Cleveland Community Cat Project Outcomes Data Set](www.communitycatproject.org/data) 
-7 | Paul Jones | Friday 2024-12-06 | 3:15 PM | Zoom | NHANES
-8 | Brooke Bhattacharya and Veda Machiraju | Friday 2024-12-06 | 3:40 PM | Zoom | NHANES
-9 | Morgan McLoughlin | Friday 2024-12-06 | 4:05 PM | Zoom | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
+1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | Zoom | NHANES
+2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | Zoom | NHANES
+3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | Zoom | NHANES
+4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | Zoom | NHANES
+5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | Zoom | NHANES
+6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | Zoom | [Cleveland Community Cat Project Outcomes Data Set](www.communitycatproject.org/data) 
+7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | Zoom | NHANES
+8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | Zoom | NHANES
+9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | Zoom | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
 
 ## Monday 2024-12-09
 
@@ -29,24 +29,24 @@ Group | Investigator(s) | Date | Join Zoom at | Style | Data Source |
 
 Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) | Data Source | 
 :-----: | :---------------------------: | :---------------: | :--------------: | :---------: | :------: | :--------------------- 
-10 | Anika Krishna and Madaline Witort | Monday 2024-12-09 | 8:50 AM | In Person | Yes | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
-11 | Saar Anis | Monday 2024-12-09 | 9:15 AM | Zoom | Yes | NHANES
-12 | Aishwarya Deengar and Harshita Kumar | Monday 2024-12-09 | 9:45 AM | In Person | Yes | NHANES
-13 | Dana Jian | Monday 2024-12-09 | 10:10 AM | Zoom | Yes | NHANES
-14 | Olivia Lindberg | Monday 2024-12-09 | 10:35 AM | Zoom | **NOT YET** | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
-15 | Nick Nazak and Rebecca Stinson | Monday 2024-12-09 | 11:00 AM | Zoom | Yes | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
-16 | JiaWei Yu | Monday 2024-12-09 | 11:25 AM | Zoom | Yes | NHANES
-17 | Katherine Papahadjoulos | Monday 2024-12-09 | 11:50 AM | Zoom | Yes | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
-18 | Feriel Presswalla and Alayna Rowell | Monday 2024-12-09 | 12:15 PM | Zoom | Yes | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
-19 | Gina Lin | Monday 2024-12-09 | 12:40 PM | Zoom | Yes | NHANES
-20 | Spancer Zhou | Monday 2024-12-09 | 1:05 PM | Zoom | Yes | NHANES
-21 | Jeff Lambe and Tatchaporn Ongphichetmetha | Monday 2024-12-09 | 1:50 PM | Zoom | Yes | NHANES
-22 | Debbie Seifert | Monday 2024-12-09 | 2:15 PM | In Person | Yes | NHANES
-23 | Sarah Cooke | Monday 2024-12-09 | 2:45 PM | In Person | Yes | NHANES
-24 | Mohammad Nasirpour | Monday 2024-12-09 | 3:10 PM | Zoom | Yes | NHANES
-25 | Ajay Mahenthiran | Monday 2024-12-09 | 3:35 PM | Zoom | Yes | NHANES
-26 | Shraddha Dumawat | Monday 2024-12-09 | 4:00 PM | Zoom | Yes | NHANES
-27 | Kelly Bowen | Monday 2024-12-09 | 4:25 PM | Zoom | Yes | NHANES
+10 | Anika Krishna <br />  Madaline Witort | Monday <br /> 2024-12-09 | 8:50 AM | In Person | Yes | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
+11 | Saar Anis | Monday <br /> 2024-12-09 | 9:15 AM | Zoom | Yes | NHANES
+12 | Aishwarya Deengar <br />  Harshita Kumar | Monday <br /> 2024-12-09 | 9:45 AM | In Person | Yes | NHANES
+13 | Dana Jian | Monday <br /> 2024-12-09 | 10:10 AM | Zoom | Yes | NHANES
+14 | Olivia Lindberg | Monday <br /> 2024-12-09 | 10:35 AM | Zoom | **NOT YET** | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
+15 | Nick Nazak <br />  Rebecca Stinson | Monday <br /> 2024-12-09 | 11:00 AM | Zoom | Yes | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
+16 | JiaWei Yu | Monday <br /> 2024-12-09 | 11:25 AM | Zoom | Yes | NHANES
+17 | Katherine Papahadjoulos | Monday <br /> 2024-12-09 | 11:50 AM | Zoom | Yes | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
+18 | Feriel Presswalla <br />  Alayna Rowell | Monday <br /> 2024-12-09 | 12:15 PM | Zoom | Yes | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
+19 | Gina Lin | Monday <br /> 2024-12-09 | 12:40 PM | Zoom | Yes | NHANES
+20 | Spancer Zhou | Monday <br /> 2024-12-09 | 1:05 PM | Zoom | Yes | NHANES
+21 | Jeff Lambe <br />  Tatchaporn Ongphichetmetha | Monday <br /> 2024-12-09 | 1:50 PM | Zoom | Yes | NHANES
+22 | Debbie Seifert | Monday <br /> 2024-12-09 | 2:15 PM | In Person | Yes | NHANES
+23 | Sarah Cooke | Monday <br /> 2024-12-09 | 2:45 PM | In Person | Yes | NHANES
+24 | Mohammad Nasirpour | Monday <br /> 2024-12-09 | 3:10 PM | Zoom | Yes | NHANES
+25 | Ajay Mahenthiran | Monday <br /> 2024-12-09 | 3:35 PM | Zoom | Yes | NHANES
+26 | Shraddha Dumawat | Monday <br />  2024-12-09 | 4:00 PM | Zoom | Yes | NHANES
+27 | Kelly Bowen | Monday <br /> 2024-12-09 | 4:25 PM | Zoom | Yes | NHANES
 
 ## Tuesday 2024-12-10
 
@@ -56,20 +56,20 @@ Group | Investigator(s) | Date | Arrive at | Style | [Approved?](https://github.
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-28 | Zuhair Khan | Tuesday 2024-12-10 | 10:35 AM | Zoom | NHANES
-29 | Haley Altadonna | Tuesday 2024-12-10 | 11:00 AM | Zoom | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
-30 | Brooke Jurasius | Tuesday 2024-12-10 | 11:25 AM | Zoom | NHANES
-31 | Rachel Liu | Tuesday 2024-12-10 | 11:50 AM | Zoom | NHANES
-32 | Cassandra Lopez and Guanyu Wei | Tuesday 2024-12-10 | 12:15 PM | Zoom | NHANES
-33 | Dali Nemecio | Tuesday 2024-12-10 | 12:40 PM | Zoom | NHANES
-34 | Arya Patel | Tuesday 2024-12-10 | 1:05 PM | Zoom | NHANES
-35 | Sonny Caradonna | Tuesday 2024-12-10 | 1:30 PM | Zoom | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
-36 | Leia George | Tuesday 2024-12-10 | 1:55 PM | Zoom | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
-37 | Reilly Burhanna and Jose Diz Ferre | Tuesday 2024-12-10 | 2:10 PM | Zoom | NHANES
-38 | Toni Shoyinka and Isaac Zeng | Tuesday 2024-12-10 | 2:45 PM | Zoom | NHANES
-39 | Derek Host | Tuesday 2024-12-10 | 3:10 PM  | Zoom | NHANES
-40 | Tom Kupferer | Tuesday 2024-12-10 | 3:35 PM | Zoom | NHANES
-41 | Monica Ghosh | Tuesday 2024-12-10 | 4:00 PM | Zoom | NHANES
+28 | Zuhair Khan | Tuesday <br /> 2024-12-10 | 10:35 AM | Zoom | NHANES
+29 | Haley Altadonna | Tuesday <br /> 2024-12-10 | 11:00 AM | Zoom | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
+30 | Brooke Jurasius | Tuesday <br /> 2024-12-10 | 11:25 AM | Zoom | NHANES
+31 | Rachel Liu | Tuesday <br /> 2024-12-10 | 11:50 AM | Zoom | NHANES
+32 | Cassandra Lopez <br />  Guanyu Wei | Tuesday <br /> 2024-12-10 | 12:15 PM | Zoom | NHANES
+33 | Dali Nemecio | Tuesday <br /> 2024-12-10 | 12:40 PM | Zoom | NHANES
+34 | Arya Patel | Tuesday <br /> 2024-12-10 | 1:05 PM | Zoom | NHANES
+35 | Sonny Caradonna | Tuesday <br /> 2024-12-10 | 1:30 PM | Zoom | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
+36 | Leia George | Tuesday <br /> 2024-12-10 | 1:55 PM | Zoom | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
+37 | Reilly Burhanna <br />  Jose Diz Ferre | Tuesday <br /> 2024-12-10 | 2:10 PM | Zoom | NHANES
+38 | Toni Shoyinka <br />  Isaac Zeng | Tuesday <br /> 2024-12-10 | 2:45 PM | Zoom | NHANES
+39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  | Zoom | NHANES
+40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | Zoom | NHANES
+41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | Zoom | NHANES
 
 ## Wednesday 2024-12-11
 
@@ -79,7 +79,7 @@ Group | Investigator(s) | Date | Join Zoom at | Style | Data Source |
 
 Group | Investigator(s) | Date | Join Zoom at | Style | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :---------: | :----------------------------------------------------------------
-42 | Weiyun Liang | Wednesday 2024-12-11 | 10:30 AM | Zoom | NHANES
-43 | Carly DaCosta and Gabrielle Davis | Wednesday 2024-12-11 | 10:55 AM | Zoom | NHANES
+42 | Weiyun Liang | Wednesday <br /> 2024-12-11 | 10:30 AM | Zoom | NHANES
+43 | Carly DaCosta <br />  Gabrielle Davis | Wednesday <br /> 2024-12-11 | 10:55 AM | Zoom | NHANES
 
 
