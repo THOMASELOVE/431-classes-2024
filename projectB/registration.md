@@ -77,12 +77,7 @@ Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predi
 
 Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
 :-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
-14 | Olivia Lindberg | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#) | Typical hours worked per week | Food insecurity (Yes or No) | 453 | **Not Yet** (see note)
-
-- Olivia: Using an outcome like this (which is likely to have nearly all of the values be one of just a few values) isn't a good choice for a linear model. A problem with many surveys of this type is that they don't provide enough quantitative variables that actually describe a wide range of results to be useful for a linear regression project. Can you choose a better outcome?
-
-Group | Investigator(s) | Start | Data Source | S2 Outcome | S2 Key <br /> Predictor | $n_{complete}$ | Approved?
-:-----: | :-------------------------: | :-------: | :--------------------: | :-------: | :-------: | :-------: | :----: 
+14 | Olivia Lindberg | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#) | Typical hours worked per week | Food insecurity (Yes or No) | 453 | Yes
 15 | Nick Nazak and Rebecca Stinson | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) | Total Platelet Count | Blood hemoglobin (3 levels) | 6013 | Yes
 16 | JiaWei Yu | 11:25 AM | [NHANES](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) <br /> Adults ages 21-79 | Hours of Sleep on Workdays | Vigorous Recreation? (Yes or No) | 6623 | Yes (see note)
 
