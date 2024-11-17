@@ -6,8 +6,7 @@ Unless otherwise indicated, all NHANES listings before refer exclusively to the 
 
 Each project is briefly summarized below, in a table.
 
-- The "Approved?" column is **Yes** if I have approved your proposal. I don't need to hear from you again on Project B until your presentation. This is sometimes accompanied by a note below your details, and sometimes not, if everything looks OK so far. Just take my suggestions to heart and move forward to actually do Project B.
-- If the "Approved?" column indicates **Not Yet**, check your email for a note from me sent 2024-11-13, and reply to that email as soon as you can with whatever changes you plan to make in light of my feedback. Thanks.
+- All plans are approved.
 
 ## Notes for All
 
