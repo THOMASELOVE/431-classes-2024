@@ -28,7 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - TA office hours are cancelled from Saturday 2024-11-23 through Saturday 2024-11-30, resuming Sunday 2024-12-01.
 5. **Post-Thanksgiving Deadlines**
     - All current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
-        - Multiple "bonus opportunities" (on Campuswire and elsewhere) are active, and each have been active for a little while.
+        - Multiple "bonus opportunities" (on [Campuswire](https://campuswire.com/) and elsewhere) are active, and each have been active for a little while.
     - [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) and Lab 7 are due on Wednesday 2024-12-04 at noon.
     - Regardless of when you give your Project B presentation, your Project B written materials are due to Canvas on Wednesday 2024-12-11 at noon.
 6. The revised [Project B presentation schedule is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md). All 43 Project B registration plans are approved. Please check that I have your information correctly summarized. If I don't, send me an email.
