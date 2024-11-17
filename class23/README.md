@@ -31,6 +31,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - All current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
         - Multiple "bonus opportunities" (on [Campuswire](https://campuswire.com/) and elsewhere) are active, and each have been active for a little while.
     - [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) **and** [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) are due on Wednesday 2024-12-04 at noon. (Lab 7 cannot be "skipped".)
+    - Congratulations to those of [you who have already completed Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7#new-completed-websites-by-students-in-this-years-class)!
     - All [Project B written materials](https://thomaselove.github.io/431-projectB-2024/checklist.html) are due on Wednesday 2024-12-11 at noon.
 6. The revised [Project B presentation schedule is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md). All 43 Project B registration plans are approved. Please check that I have your information correctly summarized. If I don't, send me an email.
 7. Were I you, I would [update RStudio to the latest version](https://posit.co/download/rstudio-desktop/) (2024.09.1+394) if you haven't already. It's not vital, but useful, and shouldn't be disruptive.
