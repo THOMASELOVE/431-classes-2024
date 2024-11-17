@@ -28,8 +28,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - I will not hold 431 during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions Campuswire several times that week.
     - TA office hours for 431 are cancelled from Saturday 2024-11-23 through Saturday 2024-11-30, resuming Sunday 2024-12-01.
 5. **Post-Thanksgiving Deadlines**
-    - All current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
-        - Multiple "bonus opportunities" (on [Campuswire](https://campuswire.com/) and elsewhere) are active, and each have been active for a little while.
+    - All three current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
     - [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) **and** [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) are due on Wednesday 2024-12-04 at noon. (Lab 7 cannot be "skipped".)
     - Congratulations to those of [you who have already completed Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7#new-completed-websites-by-students-in-this-years-class)!
     - All [Project B written materials](https://thomaselove.github.io/431-projectB-2024/checklist.html) are due on Wednesday 2024-12-11 at noon.
