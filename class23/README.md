@@ -25,8 +25,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The "Ask Me Anything" Zoom session with Dr. Love will be [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25), on Tuesday 2024-12-03 (after Thanksgiving) at 1 PM.
     - Our final class (Class 26) will be held in person on Thursday 2024-12-05.
 4. **Thanksgiving Break**
-    - We do not have class during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions Campuswire several times that week.
-    - TA office hours are cancelled from Saturday 2024-11-23 through Saturday 2024-11-30, resuming Sunday 2024-12-01.
+    - I will not hold 431 during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions Campuswire several times that week.
+    - TA office hours for 431 are cancelled from Saturday 2024-11-23 through Saturday 2024-11-30, resuming Sunday 2024-12-01.
 5. **Post-Thanksgiving Deadlines**
     - All current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
         - Multiple "bonus opportunities" (on [Campuswire](https://campuswire.com/) and elsewhere) are active, and each have been active for a little while.
