@@ -16,6 +16,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 1. [Lab 6](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) is due tomorrow (Wednesday 2024-11-20) at noon.
     - The answer sketch will be posted to our Shared Drive folder by noon on Friday 2024-11-22.
+    - We will drop the lowest lab score of Labs 1-6 when building your grade. However, I wouldn't recommend skipping Lab 6 unless you really are in a bind with regard to your other work at the moment and your Lab grade based on Labs 1-5 is 90% or higher. Even then, I strongly recommend looking over the Lab and its answer sketch before you complete Quiz 2 and Project B. If you decide to skip Lab 6, please place a note on Canvas by the deadline to that effect. Thanks.
 2. There is a [Minute Paper after Class 23](https://bit.ly/431-2024-minute-23) due tomorrow (Wednesday 2024-11-20) at noon.
     - The link is <https://bit.ly/431-2024-minute-23>. Thanks.
 3. **Remaining Classes**
