@@ -35,3 +35,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 6. The revised [Project B presentation schedule is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md). All 43 Project B registration plans are approved. Please check that I have your information correctly summarized. If I don't, send me an email.
 7. Were I you, I would [update RStudio to the latest version](https://posit.co/download/rstudio-desktop/) (2024.09.1+394) if you haven't already. It's not vital, but useful, and shouldn't be disruptive.
     - As for updating R, I have now upgraded to R version 4.4.2 for slides and other materials, but you can work with either R version 4.4.1 or 4.4.2 for the remainder of 2024.
+8. I am not going to be able to finish Chapters 21-22 (or 23) for the [431 Book](https://thomaselove.github.io/431-book/) this semester. Things have just gotten away from me on that project.
+    - We have covered some of the material planned for those chapters in class, and will cover some of the rest in class this week.
+    - The chapters themselves will remain as they are, in draft form, probably until summer 2025. I apologize.
