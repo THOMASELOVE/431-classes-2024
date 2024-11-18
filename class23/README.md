@@ -21,8 +21,8 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - The link is <https://bit.ly/431-2024-minute-23>. Thanks.
 3. **Remaining Classes**
     - [Class 24](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class24) will be held as usual, in person, this Thursday 2024-11-21.
-    - You will receive [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) on Thursday 2024-11-21 by 5 PM.
-    - The "Ask Me Anything" Zoom session with Dr. Love will be [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25), on Tuesday 2024-12-03 (after Thanksgiving) at 1 PM.
+    - You will receive [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) on Thursday 2024-11-21 by 5 PM. Some initial materials [are available now](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2).
+    - The "Ask Me Anything" Zoom session with Dr. Love will be [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25), on Tuesday 2024-12-03 (after Thanksgiving) at 1 PM. "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2.
     - Our final class (Class 26) will be held in person on Thursday 2024-12-05.
 4. **Thanksgiving Break**
     - I will not hold 431 during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions Campuswire several times that week.
