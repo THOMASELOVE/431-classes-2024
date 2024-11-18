@@ -14,5 +14,6 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-1. Today's Class 25 is an "Ask Me Anything" / Project A Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and will also appear in your email on the morning of the class session.
+1. Today's Class 25 is an "Ask Me Anything" / Project B Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and will also appear in your email on the morning of the class session.
+    - "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2.
 
