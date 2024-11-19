@@ -54,8 +54,21 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
  
 ---------
 
-## One Last Thing
+## Three "Last Things"
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class23/climate_attendance_nyt.png)
+
+from [Who’s at the U.N. Climate Summit? Here Are 29 Years of Guests, Visualized](https://www.nytimes.com/interactive/2024/11/13/climate/cop-climate-summit-attendance.html?unlocked_article_code=1.a04.aMMS.JHFxOoo2o-5V&smid=url-share) By Mira Rojanasakul at The New York Times 2024-11-13.
+
+> Over 50,000 people are gathered in Baku, Azerbaijan, for the United Nations climate conference known as COP29. This is the second largest of the annual gatherings in their history, according to official estimates and recently published data. ... This year’s meeting, convened in a petrostate, comes amid record-breaking global temperatures and the election of Donald J. Trump as U.S. president, causing negotiators to fear that the United States will retreat on its climate commitments.
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class23/climate_2.png)
+
+from [A Big Climate Goal Is Getting Farther Out of Reach](https://www.nytimes.com/2024/11/14/climate/climate-action-tracker-temperatures-emissions.html) by Brad Plumer and Mira Rojanasakul at the New York Times 2024-11-15.
+
+> The report by the Climate Action Tracker, a research group, estimates that the climate and energy policies currently pursued by governments around the world would cause global temperatures to rise roughly 2.7 degrees Celsius, or 4.9 degrees Fahrenheit, above preindustrial levels by 2100.
+
+![](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class23/commonwealth_2024.png)
 
 From [2024 State Scorecard on Women’s Health and Reproductive Care](https://www.commonwealthfund.org/publications/scorecard/2024/jul/2024-state-scorecard-womens-health-and-reproductive-care) at [the Commonwealth Fund](https://www.commonwealthfund.org/).
 
-![](commonwealth2024.png)
