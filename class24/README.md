@@ -12,3 +12,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 2. [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) (making your website) is also due on Wednesday 2024-12-04 at Noon.
 3. Remember that TA office hours are cancelled from Saturday 2024-11-23 and will re-open on Sunday 2024-12-01.
 4. Remember that 431 is cancelled on both Tuesday and Thursday of next week (2024-11-26 and 2024-11-28). See you in December!
+
+## One Last Thing
+
+[The United States of Abortion Mazes](https://pudding.cool/2024/10/abortion-mazes/)
