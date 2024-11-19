@@ -55,3 +55,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 ---------
 
 ## One Last Thing
+
+From [2024 State Scorecard on Women’s Health and Reproductive Care](https://www.commonwealthfund.org/publications/scorecard/2024/jul/2024-state-scorecard-womens-health-and-reproductive-care) at [the Commonwealth Fund](https://www.commonwealthfund.org/).
+
+![](commonwealth2024.png)
