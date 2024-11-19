@@ -54,6 +54,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
  
 ---------
 
+## Is the Love Song Dying?
+
+<https://pudding.cool/2024/11/love-songs/>
+
+---------
+
 ## Three "Last Things"
 
 ![](climate_nyt_2024-11a.png)
