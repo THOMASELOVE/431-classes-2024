@@ -60,7 +60,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---------
 
-## Three "Last Things"
+## Two "Last Things"
 
 ![](climate_nyt_2024-11a.png)
 
@@ -77,10 +77,4 @@ from [A Big Climate Goal Is Getting Farther Out of Reach](https://www.nytimes.co
 > The report by the Climate Action Tracker, a research group, estimates that the climate and energy policies currently pursued by governments around the world would cause global temperatures to rise roughly 2.7 degrees Celsius, or 4.9 degrees Fahrenheit, above preindustrial levels by 2100.
 
 [Climate Action Tracker Warming Projections Global Update - November 2024 (pdf)](https://climateactiontracker.org/documents/1277/CAT_2024-11-14_GlobalUpdate_COP29.pdf)
-
-----
-
-![](commonwealth_2024.png)
-
-From [2024 State Scorecard on Women’s Health and Reproductive Care](https://www.commonwealthfund.org/publications/scorecard/2024/jul/2024-state-scorecard-womens-health-and-reproductive-care) at [the Commonwealth Fund](https://www.commonwealthfund.org/).
 
