@@ -32,10 +32,12 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
     - [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) **and** [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) are due on Wednesday 2024-12-04 at noon. (Lab 7 cannot be "skipped".)
     - Congratulations to those of [you who have already completed Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7#new-completed-websites-by-students-in-this-years-class)!
     - All [Project B written materials](https://thomaselove.github.io/431-projectB-2024/checklist.html) are due on Wednesday 2024-12-11 at noon.
-6. The revised [Project B presentation schedule is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md). All 43 Project B registration plans are approved. Please check that I have your information correctly summarized there. If I don't, send me an email.
+6. **Project B**
+    - The revised [Project B presentation schedule is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md). All 43 Project B registration plans are approved. Please check that I have your information correctly summarized there. If I don't, send me an email.
+    - All of the Project B instructions are now posted to [the Project B website](https://thomaselove.github.io/431-projectB-2024/), and this includes the [Sample Report for Study 1](https://thomaselove.github.io/431-projectB-2024/study1c.html) and the **NEW** [Sample Report for Study 2](https://thomaselove.github.io/431-projectB-2024/study2c.html).
 7. Were I you, I would [update RStudio to the latest version](https://posit.co/download/rstudio-desktop/) (2024.09.1+394) if you haven't already. It's not vital, but useful, and shouldn't be disruptive.
     - As for updating R, I have now upgraded to R version 4.4.2 for slides and other materials, but you can work with either R version 4.4.1 or 4.4.2 for the remainder of 2024.
-8. I am not going to be able to finish Chapters 21-22 (or 23) for the [431 Book](https://thomaselove.github.io/431-book/) this semester. Things have just gotten away from me on that project.
-    - We have covered some of the material planned for those chapters in class, and will cover some of the rest in class this week.
+9. I am not going to be able to finish Chapters 21-22 (or 23) for the [431 Book](https://thomaselove.github.io/431-book/) this semester. Things have just gotten away from me on that project.
+    - We have covered some of the material planned for those chapters in class, and will cover most of the rest in class today and Thursday.
     - The chapters themselves will remain as they are, probably until summer 2025. I apologize, and I've noted this in the latest version of the posted book.
-9. Someone was good enough to point out to me the need to clarify something about how the quizzes are incorporated into your final grade in Section 11.1 of the [Syllabus](https://thomaselove.github.io/431-syllabus-2024/). I've made that fix.
+10. Someone was good enough to point out to me the need to clarify something about how the quizzes are incorporated into your final grade in Section 11.1 of the [Syllabus](https://thomaselove.github.io/431-syllabus-2024/). I've made that fix.
