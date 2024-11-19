@@ -56,7 +56,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Three "Last Things"
 
-![](climate_attendance_nyt.png)
+![](climate_nyt_2024-11a.png)
 
 from [Who’s at the U.N. Climate Summit? Here Are 29 Years of Guests, Visualized](https://www.nytimes.com/interactive/2024/11/13/climate/cop-climate-summit-attendance.html?unlocked_article_code=1.a04.aMMS.JHFxOoo2o-5V&smid=url-share) By Mira Rojanasakul at The New York Times 2024-11-13.
 
@@ -64,7 +64,7 @@ from [Who’s at the U.N. Climate Summit? Here Are 29 Years of Guests, Visualize
 
 ----
 
-![](climate_2.png)
+![](climate_nyt_2024-11b.png)
 
 from [A Big Climate Goal Is Getting Farther Out of Reach](https://www.nytimes.com/2024/11/14/climate/climate-action-tracker-temperatures-emissions.html) by Brad Plumer and Mira Rojanasakul at the New York Times 2024-11-15.
 
