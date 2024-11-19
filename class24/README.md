@@ -13,6 +13,13 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 3. Remember that TA office hours are cancelled from Saturday 2024-11-23 and will re-open on Sunday 2024-12-01.
 4. Remember that 431 is cancelled on both Tuesday and Thursday of next week (2024-11-26 and 2024-11-28). See you in December!
 
-## One Last Thing
+## Two "Last Things"
 
 [The United States of Abortion Mazes](https://pudding.cool/2024/10/abortion-mazes/)
+
+----
+
+![](commonwealth_2024.png)
+
+From [2024 State Scorecard on Women’s Health and Reproductive Care](https://www.commonwealthfund.org/publications/scorecard/2024/jul/2024-state-scorecard-womens-health-and-reproductive-care) at [the Commonwealth Fund](https://www.commonwealthfund.org/).
+
