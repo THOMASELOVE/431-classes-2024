@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 - Suggested [R/RStudio/Quatro learning resources](https://thomaselove.github.io/431-2024/resources.html)
 
-![](econ-example.png)
+![](econ_example.png)
 
 From <https://r-graph-gallery.com/web-lineplots-and-area-chart-the-economist.html> which includes all of the code.
 
