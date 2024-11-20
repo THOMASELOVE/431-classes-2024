@@ -21,13 +21,12 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 2. Don't load any packages that are part of [the core tidyverse](https://www.tidyverse.org/packages/#core-tidyverse) separately, and don't load any of [the easystats packages](https://easystats.github.io/easystats/) separately. Load easystats next-to-last, and load tidyverse last.
 3. Use # to create a section heading, ## to create a sub-section heading and ### to create a sub-sub-section heading. Don't use sub-sub-sub-sections.
 4. Source `Love-431.R` in a way that is replicable. `source("Love-431.R")` or `source("data/Love-431.R")` are OK, as is identifying the `url` and sourcing that in, but what you cannot do is load the script by calling for a directory that no one else will have.
-5. Be sure to 
-6. When you submit to Canvas, be certain that both Study 1 and Study 2 are properly rendered and that the code is downloadable (by clicking the Code button, as displayed [here in the Study 1 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study1.html), or [here in the Study 2 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study2.html).)
+5. Be sure to set a theme for your ggplots as part of your R package section: I suggest either `theme_set(theme_bw())` or `theme_set(theme_lucid())`
+6. Be sure to use `knitr:opts_chunk$set(comment=NA)` in your R package section.
+7. When you submit to Canvas, be certain that both Study 1 and Study 2 are properly rendered and that the code is downloadable (by clicking the Code button, as displayed [here in the Study 1 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study1.html), or [here in the Study 2 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study2.html).)
+8. Your YAML code should look something like this. In addition to changing the title, the subtitle, and the author, you may also want to change the html theme to another option. The [options for HTML themes are here](https://quarto.org/docs/output-formats/html-themes.html). Don't use 431, Project or Study 1 in your main title. That'll be covered by the subtitle.
 
-Your YAML code should look something like this:
-
-![](yaml.png)
-
+![](yaml_ex.png)
 
 -------
 
