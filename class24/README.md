@@ -15,6 +15,16 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 -------
 
+## Project B: Don't Forget the Basics
+
+1. We don't want to see any messages or warnings in your R packages section. If you are going to continue to use R version 4.4.1, you will have to silence warnings as well as messages in your R setup section of your Project B.
+2. Don't load any packages that are part of [the core tidyverse](https://www.tidyverse.org/packages/#core-tidyverse) separately, and don't load any of [the easystats packages](https://easystats.github.io/easystats/) separately. Load easystats next-to-last, and load tidyverse last.
+3. Use # to create a section heading, ## to create a subsection heading and ### to create a subsubsection heading. Don't use subsubsubsections.
+4. Source `Love-431.R` in a way that is replicable. `source("Love-431.R")` or `source("data/Love-431.R")` are OK, as is identifying the `url` and sourcing that in, but what you cannot do is load the script by calling for a directory that no one else will have.
+5. When you submit to Canvas, be certain that both Study 1 and Study 2 are properly rendered and that the code is downloadable (by clicking the Code button, as displayed [here in the Study 1 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study1.html), or [here in the Study 2 sample report](https://thomaselove.github.io/431-projectB-2024/sample-study2.html).)
+
+-------
+
 ### Thanksgiving Break
 
 - I will not hold 431 class during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions posted to Campuswire (anything other than Quiz 2) or to my email (questions about Quiz 2) several times that week.
