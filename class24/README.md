@@ -30,18 +30,18 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 -------
 
-### Thanksgiving Break
+### Reminders: Thanksgiving Break
 
 - I will not hold 431 class during Thanksgiving week, on either Tuesday 2024-11-26 or Thursday 2024-11-28. I will respond to questions posted to Campuswire (anything other than Quiz 2) or to my email (questions about Quiz 2) several times that week.
 - [TA office hours](https://thomaselove.github.io/431-2024/contact.html) for 431 are cancelled from Saturday 2024-11-23 through Saturday 2024-11-30, and will resume Sunday 2024-12-01.
 
-### Remaining Classes
+### After Today, Two Remaining 431 Classes
 
 - The "Ask Me Anything" Zoom session with Dr. Love will be [Class 25](https://github.com/THOMASELOVE/431-classes-2024/tree/main/class25), on Tuesday 2024-12-03 (after Thanksgiving) at 1 PM. I'll email the Zoom link to you the day before (and it's already posted to [Canvas](https://canvas.case.edu), too.)
     - "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2, unless you can be really clever about it, so I don't realize that's what you're asking. For Quiz questions, you'll have to email me.
 - Our final class (Class 26) will be held in person on Thursday 2024-12-05. It's my favorite session of 431 each year, in some important ways, and I'll discuss Quiz 2, Project B, what happens in 432, and the future more generally, and some "fun" stuff. There will be candy, thanks to Zuhair Khan.
 
-### Post-Thanksgiving Deadlines
+### 431 Post-Thanksgiving Deadlines
 
 - All three current "bonus opportunities" are due on Sunday 2024-12-01, or, technically, at 9 AM on Monday 2024-12-02.
 - [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) **and** [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) are **both** due on Wednesday 2024-12-04 at noon. (Lab 7 cannot be "skipped".)
