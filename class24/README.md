@@ -16,7 +16,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 1. Thanks to Dr. Love spraining his ankle on Tuesday, Class 24 will be given over Zoom. The link is in your email, and also on [Canvas](https://canvas.case.edu).
 2. [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) will be provided to you after the session today, no later than 5 PM. It is due on Wednesday 2024-12-04 at Noon. Some initial materials [are available now](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2).
 3. [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) (making your website) is also due on Wednesday 2024-12-04 at Noon.
-4. The Lab 6 answer sketch will be posted to our Shared Google Drive folder as soon as the last few submissions are completed. Grades and feedback on Lab 6 should be in your hands by Tuesday 2024-12-03 (after Thanksgiving.)
+4. The [Lab 6 answer sketch](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab6) is now available in our Shared Google Drive folder. Grades and feedback on Lab 6 should be in your hands by Tuesday 2024-12-03 (after Thanksgiving.)
 5. From the [R Graph Gallery](https://r-graph-gallery.com/), some examples of [animation](https://r-graph-gallery.com/animation.html) and of [interactive charts](https://r-graph-gallery.com/interactive-charts.html). Something to think about for 432.
 6. The short answer regarding 432 is that if you like what I did and what you did in 431, you'll like it. If you didn't, you probably won't.
 7. Feedback on the Minute Paper after Class 23 is [now available](https://bit.ly/431-2024-min-23-feedback).
