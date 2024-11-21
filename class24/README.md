@@ -6,6 +6,12 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 - Suggested [R/RStudio/Quarto learning resources](https://thomaselove.github.io/431-2024/resources.html)
 
+## Today's Slides
+
+Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :------: | :-------------:
+24 | 2024-11-21 | **[Slides 24](https://thomaselove.github.io/431-slides-2024/class24.html)** | **[Word 24](https://thomaselove.github.io/431-slides-2024/class24w.docx)** | **[Code 24](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class24.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
+
 ![](economist_tutorial.png)
 
 - From <https://r-graph-gallery.com/web-lineplots-and-area-chart-the-economist.html> which includes all of the R code to build this.
@@ -21,6 +27,14 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 6. From the [R Graph Gallery](https://r-graph-gallery.com/), some examples of [animation](https://r-graph-gallery.com/animation.html) and of [interactive charts](https://r-graph-gallery.com/interactive-charts.html). 
 7. The short answer regarding 432 is that if you like what I did and what you did in 431, you'll like it. If you didn't, you probably won't.
 8. Feedback on the Minute Paper after Class 23 is [now available](https://bit.ly/431-2024-min-23-feedback).
+
+---
+
+In today's class, we'll start by finishing up slides from Class 23 (links below) before we move on to the Class 24 slides...
+
+Class | Date | Slides | Word .docx | Quarto .qmd | Recording
+:---: | :--------: | :------: | :------: | :------: | :-------------:
+23 | 2024-11-19 | **[Slides 23](https://thomaselove.github.io/431-slides-2024/class23.html)** | **[Word 23](https://thomaselove.github.io/431-slides-2024/class23w.docx)** | **[Code 23](https://github.com/THOMASELOVE/431-slides-2024/blob/main/class23.qmd)** | Visit [Canvas](https://canvas.case.edu/), select **Zoom** and **Cloud Recordings**
 
 -------
 
