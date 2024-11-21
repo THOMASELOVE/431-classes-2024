@@ -6,7 +6,7 @@ for everything | for deadlines | expectations | from Dr. Love | get help | lab s
 
 - Suggested [R/RStudio/Quatro learning resources](https://thomaselove.github.io/431-2024/resources.html)
 
-![](econ_example.png)
+![](economist_tutorial.png)
 
 - From <https://r-graph-gallery.com/web-lineplots-and-area-chart-the-economist.html> which includes all of the R code to build this.
 - The original chart appeared [here in The Economist](https://www.economist.com/graphic-detail/2021/08/23/the-number-of-child-labourers-has-increased-for-the-first-time-in-20-years) 2021-08-23.
