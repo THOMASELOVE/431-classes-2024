@@ -4,7 +4,7 @@
 :-----------: | :--------------: | :----------: | :---------: | :-------------: | :-----------: | :------------:
 for everything | for deadlines | expectations | from Dr. Love | get help | lab submission | for downloads
 
-- Suggested [R/RStudio/Quatro learning resources](https://thomaselove.github.io/431-2024/resources.html)
+- Suggested [R/RStudio/Quarto learning resources](https://thomaselove.github.io/431-2024/resources.html)
 
 ![](economist_tutorial.png)
 
