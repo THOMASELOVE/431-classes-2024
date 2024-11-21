@@ -30,7 +30,7 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ---
 
-In today's class, we'll start by finishing up slides from Class 23 (links below) before we move on to the Class 24 slides...
+In today's class, we'll start by finishing up slides 43-54 from Class 23 (links below) before we move on to the Class 24 slides...
 
 Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 :---: | :--------: | :------: | :------: | :------: | :-------------:
