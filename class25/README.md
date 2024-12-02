@@ -12,7 +12,7 @@ There are no slides for today's session.
 
 1. Today's Class 25 is an "Ask Me Anything" / Project B Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and will also appear in your email on the morning of the class session.
     - "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2. Questions about Quiz 2 should just be emailed to me.
-2. I expect that grades and feedback on Lab 6 will be posted **by class time**.
+2. Lab 6 grades and feedback are now available in the 431 Student Grade Roster in our Shared Drive folder.
 
 ## Today's Topics of Discussion
 
