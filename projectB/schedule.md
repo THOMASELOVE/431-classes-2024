@@ -5,8 +5,9 @@
 
 ## Friday 2024-12-06
 
-- In early December, the Zoom link for Friday presentations will be emailed to people speaking that day.
+- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Friday presentations to the CWRU email for all people speaking on Friday. The subject line was **Zoom information for 431 Project B presentations on Friday 2024-12-06**. Please email him if you have any questions.
 - Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
