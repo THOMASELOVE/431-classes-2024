@@ -2,6 +2,10 @@
 
 Unless otherwise indicated, all NHANES listings before refer exclusively to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle. 
 
+## The Schedule
+
+<https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md> is the place to go for the final schedule. 
+
 ## Your Status
 
 Each project is briefly summarized below, in a table.
