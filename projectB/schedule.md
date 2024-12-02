@@ -9,6 +9,8 @@
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 - All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
+- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
+
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -29,6 +31,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 - All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
+- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -57,6 +60,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 - All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
+- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -81,6 +85,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 - All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
+- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
