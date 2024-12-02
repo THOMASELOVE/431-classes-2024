@@ -6,7 +6,7 @@
 ## Friday 2024-12-06
 
 - On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Friday presentations to the CWRU email for all people speaking on Friday. The subject line was **Zoom information for 431 Project B presentations on Friday 2024-12-06**. Please email him if you have any questions.
-- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
@@ -23,8 +23,10 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 
 ## Monday 2024-12-09
 
-- In early December, the Zoom link for Friday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- **All** presentations for 431 Project B are now Zoom presentations. There are no in-person presentations, thanks to Dr. Love's broken leg.
+- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Monday presentations to the CWRU email for all people speaking on Monday. The subject line was **Zoom information for 431 Project B presentations on Monday 2024-12-09 (all presentations are now via Zoom)**. Please email him if you have any questions.
+- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -49,8 +51,9 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 
 ## Tuesday 2024-12-10
 
-- In early December, the Zoom link for Tuesday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Tuesday presentations to the CWRU email for all people speaking on Tuesday. The subject line was **Zoom information for 431 Project B presentations on Tuesday 2024-12-10**. Please email him if you have any questions.
+- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
