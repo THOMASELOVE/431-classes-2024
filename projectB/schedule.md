@@ -8,6 +8,7 @@
 - On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Friday presentations to the CWRU email for all people speaking on Friday. The subject line was **Zoom information for 431 Project B presentations on Friday 2024-12-06**. Please email him if you have any questions.
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
+- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -27,7 +28,8 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 - On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Monday presentations to the CWRU email for all people speaking on Monday. The subject line was **Zoom information for 431 Project B presentations on Monday 2024-12-09 (all presentations are now via Zoom)**. Please email him if you have any questions.
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
-
+- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
+ 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
 10 | Anika Krishna <br />  Madaline Witort | Monday <br /> 2024-12-09 | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
@@ -54,6 +56,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 - On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Tuesday presentations to the CWRU email for all people speaking on Tuesday. The subject line was **Zoom information for 431 Project B presentations on Tuesday 2024-12-10**. Please email him if you have any questions.
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
 - Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
+- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
@@ -74,8 +77,10 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 
 ## Wednesday 2024-12-11
 
-- In early December, the Zoom link for Wednesday presentations will be emailed to people speaking that day.
-- Please join the Zoom link by the Join Zoom at time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Wednesday presentations to the CWRU email for all people speaking on Wednesday. The subject line was **Zoom information for 431 Project B presentations on Wednesday 2024-12-11**. Please email him if you have any questions.
+- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
+- Please DO NOT join the Zoom link more than a few minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
+- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
