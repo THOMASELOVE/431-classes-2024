@@ -33,12 +33,11 @@ There are no slides for today's session.
     - The Fall 2024 playlist [is available here](https://www.youtube.com/watch?v=4G-YQA_bsOU&list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn), with 49 songs.
     - We also have a [Fall 2023 playlist](https://www.youtube.com/watch?v=SmjG6p8LN4o&list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) with 45 songs, and a [Fall 2022 playlist](https://www.youtube.com/watch?v=N-q559-hhUA&list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) with 55 songs.
 7. I'll talk a little about what will happen in Thursday's final class of the semester.
-    - The short answer is that I will talk about Quiz 2 (which I hope to have graded by then), [how I calculate your course grade], some closing thoughts about 431 and give a brief look forward to 432.
+    - The short answer is that I will talk about Quiz 2 (which I hope to have graded by then), [how I calculate your course grade](https://github.com/THOMASELOVE/431-classes-2024/blob/main/class25/431-grade-calculation-2024-fall.pdf), some closing thoughts about 431 and give a brief look forward to 432.
     - Unfortunately, this will all happen via Zoom, thanks to my leg. Again, all of the information for that Zoom session is on Canvas, and will also appear in your email. It's the same setup for both classes this week as it has been all semester.
 
+Having discussed all that stuff, I will then take your questions with all the grace I can muster.
 
-Having discussed all that, I will then take your questions with all the grace I can muster.
-
-
+Thanks for your patience.
 
 
