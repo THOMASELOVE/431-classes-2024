@@ -13,6 +13,8 @@ There are no slides for today's session.
 1. Today's Class 25 is an "Ask Me Anything" / Project B Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and will also appear in your email on the morning of the class session.
     - "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2. Questions about Quiz 2 should just be emailed to me.
 2. Lab 6 grades and feedback are now available in the 431 Student Grade Roster in our Shared Drive folder.
+3. The entire session will be recorded and posted to Canvas after class, if you want to review any part of it later.
+4. Thanks to an alert student, I've corrected small typos in section 17.7.3 (misspelled "more" as "mode") and in section 18.6 (the median APE is smaller in Model 2) of [the course text](https://thomaselove.github.io/431-book/). The revised version should be posted by class time.
 
 ## Today's Topics of Discussion
 
@@ -31,8 +33,12 @@ There are no slides for today's session.
     - The Fall 2024 playlist [is available here](https://www.youtube.com/watch?v=4G-YQA_bsOU&list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn), with 49 songs.
     - We also have a [Fall 2023 playlist](https://www.youtube.com/watch?v=SmjG6p8LN4o&list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) with 45 songs, and a [Fall 2022 playlist](https://www.youtube.com/watch?v=N-q559-hhUA&list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) with 55 songs.
 7. I'll talk a little about what will happen in Thursday's final class of the semester.
-    - The short answer is that I will talk about Quiz 2 (which I hope to have graded by then), grading more generally, some closing thoughts about 431 and give a brief look forward to 432.
+    - The short answer is that I will talk about Quiz 2 (which I hope to have graded by then), [how I calculate your course grade], some closing thoughts about 431 and give a brief look forward to 432.
     - Unfortunately, this will all happen via Zoom, thanks to my leg. Again, all of the information for that Zoom session is on Canvas, and will also appear in your email. It's the same setup for both classes this week as it has been all semester.
-8. Then, I will happily take your questions.
-9. The entire session will be recorded and posted to Canvas after class, if you want to review any part of it later.
+
+
+Having discussed all that, I will then take your questions with all the grace I can muster.
+
+
+
 
