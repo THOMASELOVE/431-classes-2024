@@ -11,7 +11,6 @@ There are no slides for today's session.
 ## Announcements
 
 1. Today's Class 25 is an "Ask Me Anything" / Project B Help Session conducted by Dr. Love over Zoom during our usual class time. The Zoom link is on Canvas, and I also sent it to your email at 11:30 this morning.
-    - "Anything" here isn't really accurate. I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2. Questions about Quiz 2 should just be emailed to me.
 2. Lab 6 grades and feedback are now available in the 431 Student Grade Roster in our Shared Drive folder.
 3. Today's entire session will be recorded and posted to Canvas after class as usual, if you want to review any part of it later.
 4. Thanks to an alert student, I've corrected small typos in section 17.7.3 (misspelled "more" as "mode") and in section 18.6 (the median APE is smaller in Model 2) of [the course text](https://thomaselove.github.io/431-book/). The revised version should be posted by class time.
@@ -38,6 +37,8 @@ There are no slides for today's session.
     - Unfortunately, this will all happen via Zoom, thanks to my leg. Again, all of the information for that Zoom session is on Canvas, and will also appear in your email. It's the same setup for both classes this week as it has been all semester.
 
 ### Having discussed all that stuff, I will then take your questions with all the grace I can muster.
+
+- I will answer anything at all about Project B, or the course generally, but I won't use this forum to answer specific questions about Quiz 2. If you have a specific question about Quiz 2, email it to me **before 9 AM Wednesday 2024-12-04** and I will do my best to answer it.
 
 Thanks for your patience.
 
