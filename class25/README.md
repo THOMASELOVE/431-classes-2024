@@ -17,9 +17,9 @@ There are no slides for today's session.
 
 ## Today's Topics of Discussion
 
-1. [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7), due tomorrow (Wednesday 2024-12-04) at noon.
-2. [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2), also due tomorrow (Wednesday 2024-12-04) at noon.
-3. [Project B presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md), as well.
+1. [Lab 7](https://github.com/THOMASELOVE/431-labs-2024/tree/main/lab7) is due tomorrow (Wednesday 2024-12-04) at noon.
+2. [Quiz 2](https://github.com/THOMASELOVE/431-quizzes-2024/tree/main/quiz2) is also due tomorrow (Wednesday 2024-12-04) at noon.
+3. [Project B presentations](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/schedule.md) start Friday 2024-12-06 and run through Wednesday 2024-12-11.
     - You should have received an email from me (at your CWRU email) on Monday 2024-12-02 containing Zoom information for your presentation.
     - My advice and a description of what will happen during the presentations [can be found here](https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results).
 4. More general reminders about [Project B](https://thomaselove.github.io/431-projectB-2024/).
@@ -27,7 +27,7 @@ There are no slides for today's session.
     - Even if you're working as a pair, **each** of you should separately submit the [Self-Evaluation form for Project B](https://bit.ly/431-2024-projectB-self-evaluation) by the deadline. Be sure to fill out the form **after** you give your presentation via Zoom. The list of questions on the Self-Evaluation Form [is available here](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/self-eval-questions.md), since you haven't given your presentation yet.
     - By Wednesday 2024-12-11 at noon, you should submit via [Canvas](https://canvas.case.edu): (1) your study 1 Quarto file and HTML result and (2) your study 2 Quarto file and HTML result, plus (3) the data set you used to ingest the data into R **if you are not using NHANES data**. While you are welcome to submit this material in advance, I expect you to submit this to Canvas **after** you give your presentation.
         - If you are working with a partner, exactly one of you should submit the materials to Canvas, while the other should just submit a short note (pdf or Word document) telling me who will submit those materials for your group.
-5. Optional [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request), which is also due on Wednesday 2024-12-11 at noon.
+5. The optional [Lab Regrade Request Form](https://bit.ly/431-2024-lab-regrade-request) is also due on Wednesday 2024-12-11 at noon.
 6. I'll provide some information about your favorite songs, [as requested here](https://thomaselove.github.io/431-projectB-2024/checklist.html#a-special-note).
     - The Fall 2024 playlist [is available here](https://www.youtube.com/watch?v=4G-YQA_bsOU&list=PL1WkTI58HjcjAdtJOkV3GFtFCEZR82Jmn), with 49 songs.
     - We also have a [Fall 2023 playlist](https://www.youtube.com/watch?v=SmjG6p8LN4o&list=PL1WkTI58Hjcivws3CSv-xCLROR7-cEFgH) with 45 songs, and a [Fall 2022 playlist](https://www.youtube.com/watch?v=N-q559-hhUA&list=PL1WkTI58HjchPCLLYcV3q48LluH5z8aeN) with 55 songs.
