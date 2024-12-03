@@ -14,4 +14,4 @@ Class | Date | Slides | Word .docx | Quarto .qmd | Recording
 
 ## Announcements
 
-To come.
+This class will be held via **Zoom only**.
