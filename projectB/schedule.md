@@ -78,18 +78,12 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  |  NHANES
 40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
 41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
+42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
 
-## Wednesday 2024-12-11
-
-- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Wednesday presentations to the CWRU email for all people speaking on Wednesday. The subject line was **Zoom information for 431 Project B presentations on Wednesday 2024-12-11**. Please email him if you have any questions.
-- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
-- Please DO NOT join the Zoom link more than 10 minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
-- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
-- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
+## To Be Moved
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-42 | Weiyun Liang | Wednesday <br /> 2024-12-11 | 10:30 AM | NHANES
-43 | Carly DaCosta <br />  Gabrielle Davis | Wednesday <br /> 2024-12-11 | 10:55 AM | NHANES
+43 | Carly DaCosta <br />  Gabrielle Davis | To Be Moved | To Be Determined |  NHANES
 
 
