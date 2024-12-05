@@ -79,11 +79,5 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
 41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
 42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
-
-## To Be Moved
-
-Group | Investigator(s) | Date | Join Zoom at | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-43 | Carly DaCosta <br />  Gabrielle Davis | To Be Moved | To Be Determined |  NHANES
-
+43 | Carly DaCosta <br />  Gabrielle Davis |  Tuesday <br /> 2024-12-10 | 4:50 PM | NHANES
 
