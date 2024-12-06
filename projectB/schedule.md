@@ -14,9 +14,6 @@
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | NHANES
-2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | NHANES
-3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | NHANES
 4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | NHANES
 5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
 6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
@@ -81,3 +78,10 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
 43 | Carly DaCosta <br />  Gabrielle Davis |  Tuesday <br /> 2024-12-10 | 4:50 PM | NHANES
 
+## Completed Presentations
+
+Group | Investigator(s) | Date | Time | Data Source | 
+:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
+1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | NHANES
+2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | NHANES
+3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | NHANES
