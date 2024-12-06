@@ -14,9 +14,6 @@
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
-6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
-7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
 8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
 9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
 
@@ -85,3 +82,6 @@ Group | Investigator(s) | Date | Time | Data Source |
 2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | NHANES
 3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | NHANES
 4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | NHANES
+5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
+6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
+7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
