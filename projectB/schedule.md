@@ -14,7 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-12 | Aishwarya Deengar <br />  Harshita Kumar | Monday <br /> 2024-12-09 | 9:45 AM | NHANES
 13 | Dana Jian | Monday <br /> 2024-12-09 | 10:10 AM | NHANES
 14 | Olivia Lindberg | Monday <br /> 2024-12-09 | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
 15 | Nick Nazak <br />  Rebecca Stinson | Monday <br /> 2024-12-09 | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
@@ -60,16 +59,17 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 
 ## Completed Presentations
 
-Group | Investigator(s) | Date | Time | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-1 | Alexis Heath | Friday <br /> 2024-12-06 | 9:00 AM | NHANES
-2 | Tatiana Dombrovski <br /> Mahsa Sheikh | Friday <br /> 2024-12-06 | 9:25 AM | NHANES
-3 | Nihit Mehta | Friday <br /> 2024-12-06 | 9:50 AM | NHANES
-4 | Atticus Kenny | Friday <br /> 2024-12-06 | 2:00 PM | NHANES
-5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
-6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
-7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
-8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
-9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
-10 | Anika Krishna <br />  Madaline Witort | Monday <br /> 2024-12-09 | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
-11 | Saar Anis | Monday <br /> 2024-12-09 | 9:15 AM | NHANES
+Group | Investigator(s) | Data Source | 
+:-----: | :---------------------------: | :----------------------------: 
+1 | Alexis Heath | NHANES
+2 | Tatiana Dombrovski <br /> Mahsa Sheikh | NHANES
+3 | Nihit Mehta | NHANES
+4 | Atticus Kenny | NHANES
+5 | Graham Stockdale | NHANES
+6 | Megan Zelinsky | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
+7 | Paul Jones | NHANES
+8 | Brooke Bhattacharya <br /> Veda Machiraju | NHANES
+9 | Morgan McLoughlin | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
+10 | Anika Krishna <br />  Madaline Witort | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
+11 | Saar Anis | NHANES
+12 | Aishwarya Deengar <br />  Harshita Kumar | NHANES
