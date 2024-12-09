@@ -14,7 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-20 | Spancer Zhou | Monday <br /> 2024-12-09 | 1:05 PM | NHANES
 21 | Jeff Lambe <br />  Tatchaporn Ongphichetmetha | Monday <br /> 2024-12-09 | 1:50 PM | NHANES
 22 | Debbie Seifert | Monday <br /> 2024-12-09 | 2:15 PM | NHANES
 23 | Sarah Cooke | Monday <br /> 2024-12-09 | 2:45 PM | NHANES
@@ -73,3 +72,4 @@ Group | Investigator(s) | Data Source |
 17 | Katherine Papahadjoulos | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
 18 | Feriel Presswalla <br />  Alayna Rowell | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
 19 | Gina Lin | NHANES
+20 | Spancer Zhou | NHANES
