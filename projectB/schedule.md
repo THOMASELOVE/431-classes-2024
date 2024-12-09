@@ -60,7 +60,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 ## Completed Presentations
 
 Group | Investigator(s) | Data Source | 
-:-----: | :---------------------------: | :----------------------------: 
+:-----: | :---------------------------: | :------------------------------
 1 | Alexis Heath | NHANES
 2 | Tatiana Dombrovski <br /> Mahsa Sheikh | NHANES
 3 | Nihit Mehta | NHANES
