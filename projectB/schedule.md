@@ -14,7 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-22 | Debbie Seifert | Monday <br /> 2024-12-09 | 2:15 PM | NHANES
 23 | Sarah Cooke | Monday <br /> 2024-12-09 | 2:45 PM | NHANES
 24 | Mohammad Nasirpour | Monday <br /> 2024-12-09 | 3:10 PM | NHANES
 25 | Ajay Mahenthiran | Monday <br /> 2024-12-09 | 3:35 PM | NHANES
@@ -73,3 +72,4 @@ Group | Investigator(s) | Data Source |
 19 | Gina Lin | NHANES
 20 | Spancer Zhou | NHANES
 21 | Jeff Lambe <br />  Tatchaporn Ongphichetmetha | NHANES
+22 | Debbie Seifert | NHANES
