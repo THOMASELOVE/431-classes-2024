@@ -14,8 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-10 | Anika Krishna <br />  Madaline Witort | Monday <br /> 2024-12-09 | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
-11 | Saar Anis | Monday <br /> 2024-12-09 | 9:15 AM | NHANES
 12 | Aishwarya Deengar <br />  Harshita Kumar | Monday <br /> 2024-12-09 | 9:45 AM | NHANES
 13 | Dana Jian | Monday <br /> 2024-12-09 | 10:10 AM | NHANES
 14 | Olivia Lindberg | Monday <br /> 2024-12-09 | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
@@ -73,3 +71,5 @@ Group | Investigator(s) | Date | Time | Data Source |
 7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
 8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
 9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
+10 | Anika Krishna <br />  Madaline Witort | Monday <br /> 2024-12-09 | 8:50 AM | [National Longitudinal Survey of Youth 1997](https://www.nlsinfo.org/content/cohorts/nlsy97/topical-guide)
+11 | Saar Anis | Monday <br /> 2024-12-09 | 9:15 AM | NHANES
