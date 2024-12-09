@@ -3,20 +3,6 @@
 - Data Source: NHANES refers to all NHANES listings before refer exclusively to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for all 43 projects.
 
-## Friday 2024-12-06
-
-- On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Friday presentations to the CWRU email for all people speaking on Friday. The subject line was **Zoom information for 431 Project B presentations on Friday 2024-12-06**. Please email him if you have any questions.
-- Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
-- Please DO NOT join the Zoom link more than 10 minutes before the time listed below. In particular, don't join in advance just to "try it out". Thank you.
-- All Zoom sessions for these presentations will be recorded (for Dr. Love's benefit) and Dr. Love will keep track of the time, so you don't have to.
-- A detailed description of what will happen during your presentations is available at <https://thomaselove.github.io/431-projectB-2024/checklist.html#oral-presentation-of-results>.
-
-
-Group | Investigator(s) | Date | Join Zoom at | Data Source | 
-:-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
-9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
-
 ## Monday 2024-12-09
 
 - **All** presentations for 431 Project B are now Zoom presentations. There are no in-person presentations, thanks to Dr. Love's broken leg.
@@ -85,3 +71,5 @@ Group | Investigator(s) | Date | Time | Data Source |
 5 | Graham Stockdale | Friday <br /> 2024-12-06 | 2:25 PM | NHANES
 6 | Megan Zelinsky | Friday <br /> 2024-12-06 | 2:50 PM | [Cleveland Community Cat Project Outcomes Data Set](https://www.communitycatproject.org/data) 
 7 | Paul Jones | Friday <br /> 2024-12-06 | 3:15 PM | NHANES
+8 | Brooke Bhattacharya <br /> Veda Machiraju | Friday <br /> 2024-12-06 | 3:40 PM | NHANES
+9 | Morgan McLoughlin | Friday <br /> 2024-12-06 | 4:05 PM | [Baby's First Year Study 2018-2022](https://www.childandfamilydataarchive.org/cfda/archives/cfda/studies/37871/datadocumentation#) 
