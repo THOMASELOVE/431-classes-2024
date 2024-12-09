@@ -14,7 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-13 | Dana Jian | Monday <br /> 2024-12-09 | 10:10 AM | NHANES
 14 | Olivia Lindberg | Monday <br /> 2024-12-09 | 10:35 AM | [US Well-Being and Basic Needs Survey 2018](https://www.icpsr.umich.edu/web/ICPSR/studies/37653#)
 15 | Nick Nazak <br />  Rebecca Stinson | Monday <br /> 2024-12-09 | 11:00 AM | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
 16 | JiaWei Yu | Monday <br /> 2024-12-09 | 11:25 AM | NHANES
@@ -73,3 +72,4 @@ Group | Investigator(s) | Data Source |
 10 | Anika Krishna <br />  Madaline Witort | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
 11 | Saar Anis | NHANES
 12 | Aishwarya Deengar <br />  Harshita Kumar | NHANES
+13 | Dana Jian | NHANES
