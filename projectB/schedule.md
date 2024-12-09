@@ -14,7 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-18 | Feriel Presswalla <br />  Alayna Rowell | Monday <br /> 2024-12-09 | 12:15 PM | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
 19 | Gina Lin | Monday <br /> 2024-12-09 | 12:40 PM | NHANES
 20 | Spancer Zhou | Monday <br /> 2024-12-09 | 1:05 PM | NHANES
 21 | Jeff Lambe <br />  Tatchaporn Ongphichetmetha | Monday <br /> 2024-12-09 | 1:50 PM | NHANES
@@ -73,3 +72,4 @@ Group | Investigator(s) | Data Source |
 15 | Nick Nazak <br />  Rebecca Stinson | [HDHI Admissions from Kaggle](https://www.kaggle.com/datasets/ashishsahani/hospital-admissions-data) 
 16 | JiaWei Yu | NHANES
 17 | Katherine Papahadjoulos | [National Surveys on Drug Use and Health (NSDUH)](https://www.samhsa.gov/data/data-we-collect/nsduh/datafiles)
+18 | Feriel Presswalla <br />  Alayna Rowell | [Health and Retirement Study (HRS) 2022 Core](https://hrsdata.isr.umich.edu/data-products/2022-hrs-core)
