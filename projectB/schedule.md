@@ -44,7 +44,7 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 35 | Sonny Caradonna | Tuesday <br /> 2024-12-10 | 1:30 PM | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
 36 | Leia George | Tuesday <br /> 2024-12-10 | 1:55 PM | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
 37 | Reilly Burhanna <br />  Jose Diz Ferre | Tuesday <br /> 2024-12-10 | 2:10 PM | NHANES
-38 | Toni Shoyinka <br />  Isaac Zeng | Tuesday <br /> 2024-12-10 | 2:45 PM | HANES
+38 | Toni Shoyinka <br />  Isaac Zeng | Tuesday <br /> 2024-12-10 | 2:45 PM | NHANES
 39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  |  NHANES
 40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
 41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
