@@ -14,8 +14,6 @@
  
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-25 | Ajay Mahenthiran | Monday <br /> 2024-12-09 | 3:35 PM | NHANES
-26 | Shraddha Dumawat | Monday <br />  2024-12-09 | 4:00 PM | NHANES
 27 | Kelly Bowen | Monday <br /> 2024-12-09 | 4:25 PM | NHANES
 
 ## Tuesday 2024-12-10
@@ -73,3 +71,5 @@ Group | Investigator(s) | Data Source |
 22 | Debbie Seifert | NHANES
 23 | Sarah Cooke | NHANES
 24 | Mohammad Nasirpour | NHANES
+25 | Ajay Mahenthiran | NHANES
+26 | Shraddha Dumawat | NHANES
