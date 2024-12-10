@@ -1,6 +1,6 @@
 # 431 Project B Schedule of Presentations
 
-- Data Source: NHANES refers to all NHANES listings before refer exclusively to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle
+- Data Source: All NHANES listings refer to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for all 43 projects.
 
 ## Tuesday 2024-12-10
