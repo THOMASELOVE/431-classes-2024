@@ -13,7 +13,6 @@
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-28 | Zuhair Khan | Tuesday <br /> 2024-12-10 | 10:35 AM | NHANES
 29 | Haley Altadonna | Tuesday <br /> 2024-12-10 | 11:00 AM | [(BRFSS) Behavioral Risk Factor Surveillance System 2023](https://www.cdc.gov/brfss/annual_data/annual_2023.html) 
 30 | Brooke Jurasius | Tuesday <br /> 2024-12-10 | 11:25 AM | NHANES
 31 | Rachel Liu | Tuesday <br /> 2024-12-10 | 11:50 AM | NHANES
@@ -61,3 +60,4 @@ Group | Investigator(s) | Data Source |
 25 | Ajay Mahenthiran | NHANES
 26 | Shraddha Dumawat | NHANES
 27 | Kelly Bowen | NHANES
+28 | Zuhair Khan | NHANES
