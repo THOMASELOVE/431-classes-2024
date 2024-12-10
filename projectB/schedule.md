@@ -13,7 +13,6 @@
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-
 32 | Cassandra Lopez <br />  Guanyu Wei | Tuesday <br /> 2024-12-10 | 12:15 PM | NHANES
 33 | Dali Nemecio | Tuesday <br /> 2024-12-10 | 12:40 PM | NHANES
 34 | Arya Patel | Tuesday <br /> 2024-12-10 | 1:05 PM | NHANES
