@@ -17,7 +17,6 @@ Group | Investigator(s) | Data Source | Notes
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-39 | Derek Host | Tuesday <br /> 2024-12-10 | 3:10 PM  |  NHANES
 40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
 41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
 42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
@@ -64,3 +63,4 @@ Group | Investigator(s) | Data Source |
 36 | Leia George | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
 37 | Reilly Burhanna <br />  Jose Diz Ferre | NHANES
 38 | Toni Shoyinka <br />  Isaac Zeng | NHANES
+39 | Derek Host | NHANES
