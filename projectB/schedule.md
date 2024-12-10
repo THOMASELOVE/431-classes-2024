@@ -17,8 +17,6 @@ Group | Investigator(s) | Data Source | Notes
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
-41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
 42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
 
 ## Completed Presentations
@@ -64,3 +62,5 @@ Group | Investigator(s) | Data Source |
 37 | Reilly Burhanna <br />  Jose Diz Ferre | NHANES
 38 | Toni Shoyinka <br />  Isaac Zeng | NHANES
 39 | Derek Host | NHANES
+40 | Tom Kupferer | NHANES
+41 | Monica Ghosh | NHANES
