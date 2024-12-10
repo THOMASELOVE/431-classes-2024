@@ -3,7 +3,11 @@
 - Data Source: All NHANES listings refer to the [NHANES 2017 - March 2020 (Pre-Pandemic)](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx?Cycle=2017-2020) cycle
 - I have [approved the registration](https://github.com/THOMASELOVE/431-classes-2024/blob/main/projectB/registration.md) for all 43 projects.
 
-## Tuesday 2024-12-10
+Group | Investigator(s) | Data Source | Notes
+:-----: | :---------------------------: | :------: | :--------------:
+43 | Carly DaCosta <br />  Gabrielle Davis | NHANES | To be scheduled after January 2
+
+## Remaining Tuesday 2024-12-10 Presentations
 
 - On 2024-12-02 (Monday), Dr. Love emailed the Zoom link for Tuesday presentations to the CWRU email for all people speaking on Tuesday. The subject line was **Zoom information for 431 Project B presentations on Tuesday 2024-12-10**. Please email him if you have any questions.
 - Please join the Zoom link by the **Join Zoom at** time listed below. If I'm not ready for you, you will be placed in a waiting room.
@@ -18,10 +22,6 @@ Group | Investigator(s) | Date | Join Zoom at | Data Source |
 40 | Tom Kupferer | Tuesday <br /> 2024-12-10 | 3:35 PM | NHANES
 41 | Monica Ghosh | Tuesday <br /> 2024-12-10 | 4:00 PM | NHANES
 42 | Weiyun Liang | Tuesday <br /> 2024-12-10 | 4:25 PM | NHANES
-
-Group | Investigator(s) | Data Source | Notes
-:-----: | :---------------------------: | :------: | :--------------:
-43 | Carly DaCosta <br />  Gabrielle Davis | NHANES | To be scheduled after January 2
 
 ## Completed Presentations
 
