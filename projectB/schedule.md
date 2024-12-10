@@ -13,7 +13,6 @@
 
 Group | Investigator(s) | Date | Join Zoom at | Data Source | 
 :-----: | :---------------------------: | :----------------------------: | :--------------: | :----------------------------------------------------------------
-33 | Dali Nemecio | Tuesday <br /> 2024-12-10 | 12:40 PM | NHANES
 34 | Arya Patel | Tuesday <br /> 2024-12-10 | 1:05 PM | NHANES
 35 | Sonny Caradonna | Tuesday <br /> 2024-12-10 | 1:30 PM | [TBI Model Systems (TBIMS) National Database (NDB)](https://www.tbindsc.org/Researchers.aspx)
 36 | Leia George | Tuesday <br /> 2024-12-10 | 1:55 PM | [Stress Analysis in Social Media from Kaggle](https://www.kaggle.com/datasets/ruchi798/stress-analysis-in-social-media)
@@ -61,3 +60,4 @@ Group | Investigator(s) | Data Source |
 30 | Brooke Jurasius | NHANES
 31 | Rachel Liu | NHANES
 32 | Cassandra Lopez <br />  Guanyu Wei | NHANES
+33 | Dali Nemecio | NHANES
